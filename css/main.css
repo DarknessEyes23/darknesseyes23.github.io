@@ -29,6 +29,13 @@ body {
     text-decoration: none;
     font-family: 'Unica One';
     font-size: 20px;
+    text-transform: uppercase;
     color: black;
     margin: 0 20px;
+}
+
+#page1 {
+    height: 700px;
+    background-color: #323232;
+    width: 100%;
 }
