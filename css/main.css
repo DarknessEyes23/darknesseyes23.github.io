@@ -39,3 +39,24 @@ body {
     background-color: #323232;
     width: 100%;
 }
+
+.awatar {
+    text-align: center;
+}
+
+.awatar img {
+    border-radius: 100%;
+    border: 2px solid white;
+    -webkit-filter: blur(10px);
+    filter: blur(10px);
+}
+
+.awatar img:hover {
+    -webkit-filter: none;
+    filter: none;
+    transition: .5s;
+}
+
+.awatar h1 {
+    font-family: 'Unica One';
+}
