@@ -78,3 +78,9 @@ body {
     text-align: center;
     color: #ebebeb;
 }
+
+#page2 {
+    height: 700px;
+    background-color: #EBEBEB;
+    width: 100%;
+}
