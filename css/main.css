@@ -42,13 +42,14 @@ body {
 
 .awatar {
     text-align: center;
+    padding-top: 5%;
 }
 
 .awatar img {
     border-radius: 100%;
     border: 2px solid white;
-    -webkit-filter: blur(10px);
-    filter: blur(10px);
+    -webkit-filter: blur(5px);
+    filter: blur(5px);
 }
 
 .awatar img:hover {
