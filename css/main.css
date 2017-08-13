@@ -1,1 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i|Unica+One&subset=latin-ext');
+
+body {
+    font-family: 'Arimo', sans-serif !important; 
+    background-color: #000;
+}
