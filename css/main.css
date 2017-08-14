@@ -112,3 +112,9 @@ fieldset {
 .projects {
     text-align: center;
 }
+
+.projectsinfo a {
+    text-decoration: none;
+    color: black;
+    
+}
