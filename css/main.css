@@ -64,12 +64,6 @@ body {
     transition: .5s;
 }
 
-.awatar h1 {
-    font-family: 'Unica One';
-    text-transform: uppercase;
-    color: white;
-}
-
 .description{
     width: 740px;
     max-width: 100%;
@@ -100,15 +94,22 @@ body {
     color: #003b6f;
 }
 
-.projectsinfo legend {
+legend {
     text-align: center !important;
     font-size: 200% !important;
-    color: #003B6F !important;
     text-transform: uppercase !important;
     font-family: 'Unica One' !important;
 }
 
-.projectsinfo fieldset {
+.projectsinfo legend {
+    color: #003B6F;
+}
+
+.description legend {
+    color: #EBEBEB;
+}
+
+fieldset {
     border-bottom: 0px !important;
     border-left: 0px !important;
     border-right: 0px !important;
