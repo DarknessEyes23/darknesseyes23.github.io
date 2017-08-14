@@ -40,7 +40,7 @@ body {
 }
 
 #page1 {
-    height: 700px;
+    height: 1080px;
     background-color: #191919;
     width: 100%;
 }
@@ -74,13 +74,13 @@ body {
 }
 
 #page2 {
-    height: 700px;
+    height: 1080px;
     background-color: #e0e0e0;
     width: 100%;
 }
 
 #page3 {
-    height: 700px;
+    height: 1080px;
     background-color: #191919;
     width: 100%;
 }
@@ -116,5 +116,4 @@ fieldset {
 .projectsinfo a {
     text-decoration: none;
     color: black;
-    
 }
