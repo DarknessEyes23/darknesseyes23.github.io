@@ -90,3 +90,26 @@ body {
     background-color: #191919;
     width: 100%;
 }
+
+.projectsinfo {
+    width: 900px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    color: #003b6f;
+}
+
+.projectsinfo legend {
+    font-size: 150%;
+    color: #003B6F;
+    text-transform: uppercase;
+    font-family: 'Unica One';
+}
+
+.projectsinfo fieldset {
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 3px solid #003b6f;
+}
