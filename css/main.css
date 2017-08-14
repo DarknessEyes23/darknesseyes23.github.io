@@ -99,14 +99,7 @@ legend {
     font-size: 200% !important;
     text-transform: uppercase !important;
     font-family: 'Unica One' !important;
-}
-
-.projectsinfo legend {
-    color: #003B6F;
-}
-
-.description legend {
-    color: #EBEBEB;
+    color: #003b6f !important;
 }
 
 fieldset {
