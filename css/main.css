@@ -101,15 +101,16 @@ body {
 }
 
 .projectsinfo legend {
-    font-size: 150%;
-    color: #003B6F;
-    text-transform: uppercase;
-    font-family: 'Unica One';
+    text-align: center !important;
+    font-size: 150% !important;
+    color: #003B6F !important;
+    text-transform: uppercase !important;
+    font-family: 'Unica One' !important;
 }
 
 .projectsinfo fieldset {
-    border-bottom: 0px;
-    border-left: 0px;
-    border-right: 0px;
-    border-top: 3px solid #003b6f;
+    border-bottom: 0px !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-top: 3px solid #003b6f !important;
 }
