@@ -114,3 +114,7 @@ body {
     border-right: 0px !important;
     border-top: 3px solid #003b6f !important;
 }
+
+.projects {
+    text-align: center;
+}
