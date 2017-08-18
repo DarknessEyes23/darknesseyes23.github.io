@@ -135,3 +135,10 @@ footer > h1 {
     font-family: 'Unica One';
     text-transform: uppercase;
 }
+
+footer {
+    width: 100%;
+    background-color: #EBEBEB;
+    color: black;
+    text-align: center;
+}
