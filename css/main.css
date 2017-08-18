@@ -130,3 +130,8 @@ fieldset {
 .buttons fieldset {
     color: #ebebeb;
 }
+
+footer > h1 {
+    font-family: 'Unica One';
+    text-transform: uppercase;
+}
