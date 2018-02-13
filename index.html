@@ -1,74 +1,39 @@
 <!DOCTYPE html>
-<html>
+<html lang="pl">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="description" content="Projektant wyglądu wiki, samozwańczy artysta, amator webdesignu.">
-    <meta name="author" content="Daniel Piwoński">
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="http://wrpggame.c0.pl/font-awesome-4.7.0/css/font-awesome.min.css">
-    <title>DarknessEyes23</title>
-    <link rel="shortcut icon" href="css/img/favicon.ico" type="image/x-icon" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="js/randomize.js"></script>
+	<meta name="author" content="Daniel Piwoński">
+	<meta name="description" content="Strona losująca zaklęcie Korwina">
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/main.css">
+	<title>Korwin – czarodziej 4.9 poziomu</title>
+	<link rel="shortcut icon" href="img/chat.ico">
 </head>
 
 <body>
-    <div id="nav">
-        <ul>
-            <li><a href="#omnie">O mnie</a></li>
-            <li><a href="#projekty">Portfolio</a></li>
-            <li><a href="#kontakt">Kontakt</a></li>
-        </ul>
-        <div id="page1">
-            <a id="omnie"></a>
-            <div class="awatar">
-                <img src="css/img/Awatar.png" />
-                <br />
-            </div>
-            <div class="description">
-                <fieldset>
-                    <legend>DarknessEyes23</legend>
-                Cześć! Jestem samozwańczym artystą, a także amatorem webdesignu. Moje zamiłowanie do CSS-a i HTML-a zostało wzbudzone podczas
-                pobytu na serwisie FANDOM (dawniej Wikia). Tam też poznałem podstawy tych dwóch prostych języków. W wolnych
-                chwilach zgłębiam techniki projektowania stron internetowych, a także projektuję wyglądy wiki. Relaksuję
-                się oglądając dobry serial lub anime, grając w gry wideo, czytając książkę, komiks albo mangę.
-                </fieldset>
-            </div>
-        </div>
-        <div id="page2">
-            <a id="projekty"></a>
-            <div class="projectsinfo">
-                <fieldset>
-                    <legend>Portfolio</legend>
-                    Poniżej znajdują się moje projekty, które wykonałem dla różnych społeczności serwisu FANDOM. Pierwszym z nich był wygląd
-                    Azuremyst Wiki, najnowszym Dead Cells Wiki. Na <a href="http://pl.darknesseyes23.wikia.com/wiki/DarknessEyes23_Wiki">swoim sandboksie</a>
-                    mam także tabelkę z zaprojektowanymi logami dla różnych wiki.
-                </fieldset>
-            </div>
-            <div class="projects">
-                <img src="css/img/Azuremyst Wiki.png" width="350px"/><img src="css/img/Borderlands Wiki.png" width="350px" /><img src="css/img/Dead Cells Wiki'.png" width="350px" />
-            </div>
-        </div>
-        <div id="page3">
-            <a id="kontakt"></a>
-            <div class="buttons">
-                    <fieldset>
-                            <legend>Kontakt</legend>
-                            Dwa główne sposoby kontatku ze mną.
-                    </fieldset>
-                <a href="mailto:dudniel@gmail.com">
-                    <img src="css/img/gmail.png" width="320px" />
-                </a>
-                <a href="http://spolecznosc.wikia.com/wiki/Tablica_wiadomości:DarknessEyes23">
-                    <img src="css/img/fandom.png" />
-                </a>
-            </div>            
-        </div>
-        <footer>
-            <h1>Kontakt</h1>
-            <br />
-            <i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:dudniel@gmail.com">dudniel@gmail.com</a><i class="fa fa-commenting-o" aria-hidden="true"></i><p>Discord: DarknessEyes23#9655</p>
-        </footer>
-    </div>
+	<nav>
+		<ul>
+			<li>Strona losująca zaklęcia i głupie cytaty Janusza Korwina-Mikke</li>
+		</ul>
+	</nav>
+	<div id="randomizer">
+		<a id="losowanie">
+			<h1>Cóż mówić więcej? Losuj!</h1>
+			<button onclick="randomize()">LOSUJ</button>
+			<div id="quote"></div>
+	</div>
+	<footer>
+		<a id="stopka">
+			<p>Chciałbym na początku wspomnieć, że strona powstała w celach humorystycznych.
+				<s>DUH!</s>
+			</p>
+			<ul>
+				<li>Autorem strony jest DarknessEyes23.</li>
+				<li>Favicona pochodzi ze strony flaticon.com.</li>
+				<li>Fonty pochodzą z fonts.google.com</li>
+			</ul>
+	</footer>
 </body>
-
 </html>

@@ -1,144 +1,108 @@
-@import url('https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i|Unica+One&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Marck Script|News+Cycle|Roboto+Condensed:400,400i,700,700i&subset=latin-ext');
+
+/* Tło i główny font */
 
 body {
-    font-family: 'Arimo', sans-serif !important; 
-    background-color: #000;
-    margin: 0;
-    padding: 0;
+	background-color: #EBEBEB;
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 
-#nav {
-    background-color: #EBEBEB;
-    width: 100%;
-    height: 30px;
-    vertical-align: top;
+
+/* Nawigacja */
+
+nav {
+	width: 100%;
+	height: 25px;
+	background: transparent;
+	text-align: center;
+	border-bottom: 2px dashed rgba(0, 0, 0, .2);
 }
 
-#nav ul {
-    margin: 0;
-    padding: 0;
-    text-align: right;
-    list-style-type: none;
+nav li {
+	text-transform: uppercase;
+	opacity: .5;
+	font-size: 15px;
+	padding: 0 10px;
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
 }
 
-#nav li {
-    display: inline-block;
+nav a:hover {
+	opacity: 1;
+	transition: 1s;
 }
 
-#nav li a {
-    text-decoration: none;
-    font-family: 'Unica One';
-    font-size: 20px;
-    text-transform: uppercase;
-    color: #0364ba;
-    padding: 0 20px;
+nav>ul {
+	padding: 0;
+	margin: 0;
 }
 
-#nav li a:hover {
-    background-color: #191919;
-    transition: 1s;
+ul>li {
+	display: inline-block !important;
+	list-style-type: none;
 }
 
-#page1 {
-    height: 1080px;
-    background-color: #191919;
-    width: 100%;
+
+/* H1 */
+
+h1 {
+	text-align: center;
+	font-family: 'News Cycle';
+	font-size: 300%;
 }
 
-.awatar {
-    text-align: center;
-    padding-top: 5%;
+
+/* Szerokość diva */
+
+#randomizer {
+	padding-top: 15%;
+	width: 100%;
+	text-align: center;
 }
 
-.awatar img {
-    width: 150px;
-    border-radius: 100%;
-    border: 2px solid white;
-    -webkit-filter: blur(5px);
-    filter: blur(5px);
+
+/* Przycisk */
+
+button {
+	padding-top: 10%;
+	text-align: center !important;
+	border: none;
+	border: 2px solid #003b6f;
+	color: #003b6f;
+	background-color: transparent;
+	padding: 10px 30px;
+	font-weight: bold;
 }
 
-.awatar img:hover {
-    -webkit-filter: none;
-    filter: none;
-    transition: .5s;
+button:active {
+	box-shadow: inset 1px 1px 1px #000;
+	transform: translateY(4px);
 }
 
-.description{
-    width: 740px;
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 20px;
-    text-align: center;
-    color: #ebebeb;
+
+/* Cytat */
+
+#quote {
+	font-family: 'Marck Script';
+	padding-top: 5%;
+	font-weight: bold;
+	font-size: 250%;
 }
 
-#page2 {
-    height: 1080px;
-    background-color: #e0e0e0;
-    width: 100%;
-}
 
-#page3 {
-    color: #ebebeb;
-    height: 1080px;
-    background-color: #191919;
-    width: 100%;
-}
-
-.projectsinfo {
-    width: 900px;
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 20px;
-    text-align: center;
-    color: #003b6f;
-}
-
-legend {
-    text-align: center !important;
-    font-size: 200% !important;
-    text-transform: uppercase !important;
-    font-family: 'Unica One' !important;
-    color: #003b6f !important;
-}
-
-fieldset {
-    border-bottom: 0px !important;
-    border-left: 0px !important;
-    border-right: 0px !important;
-    border-top: 3px solid #003b6f !important;
-}
-
-.projects {
-    text-align: center;
-    padding-top: 10%;
-}
-
-.projectsinfo a {
-    text-decoration: none;
-    color: black;
-}
-
-.buttons {
-    text-align: center;
-    margin: 0 auto;
-    padding: 20px;
-    width: 1000px;    
-}
-
-.buttons fieldset {
-    color: #ebebeb;
-}
-
-footer > h1 {
-    font-family: 'Unica One';
-    text-transform: uppercase;
-}
+/* Footer */
 
 footer {
-    width: 100%;
-    background-color: #EBEBEB;
-    color: black;
-    text-align: center;
+	vertical-align: bottom;
+	width: 100%;
+	background-color: #627384;
+	color: white;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	text-align: center;
 }
