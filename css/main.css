@@ -98,6 +98,7 @@ button:active {
 /* Footer */
 
 footer {
+	margin-top: 5%;
 	vertical-align: bottom;
 	width: 100%;
 	background-color: #627384;
