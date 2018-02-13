@@ -1,3 +1,4 @@
+//Rzeźnia, ale to dopiero początki tej pięknej przygody
 $(document).ready(function(){
 	$("button").click(function(){
 		var number = Math.floor((Math.random() * 10) + 1);
