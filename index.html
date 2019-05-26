@@ -1,32 +1,39 @@
-<!doctype html>
-<html>
+<html lang="pl">
+
 <head>
-<meta charset="utf-8">
-<title>Dokument bez tytułu</title>
-<link rel="stylesheet" href="index.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="js/randomize.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Daniel Piwoński">
+	<meta name="description" content="Strona losująca zaklęcie Korwina">
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/main.css">
+	<title>Korwin – czarodziej 4.9 poziomu</title>
+	<link rel="shortcut icon" href="img/chat.ico">
 </head>
 
 <body>
-	<nav class="topButtons">
+	<nav>
 		<ul>
-			<li class="topButtons"><a href="#">WYPRÓBUJ</a></li>
-			<li class="topButtons"><a href="#">ZAREJESTRUJ SIĘ</a></li>
-			<li class="topButtons" style="float: right;"><a href="#">CENY</a></li>
+			<li>Strona losująca zaklęcia i głupie cytaty Janusza Korwina-Mikke</li>
 		</ul>
 	</nav>
-	<div class="logInBox">
-			<div class="box">
-				<img src="images/logo.png" width="50%" alt="AnimeBasket" />
-			</div>
-			<div class="login">
-				<h3>Login</h3>
-				<input type="text">
-			</div>
-			<div class="password">
-				<h3>Hasło</h3>
-				<input type="text">
-			</div>
-			<div class="logInButton"><a href="#">ZALOGUJ</a></div>
+	<div id="randomizer">
+		<a id="losowanie">
+			<h1>Cóż mówić więcej? Losuj!</h1>
+			<button onclick="randomize()">LOSUJ</button>
+			<div id="quote"></div>
 	</div>
+	<footer>
+		<a id="stopka">
+			<p>Chciałbym na początku wspomnieć, że strona powstała w celach humorystycznych.
+				<s>DUH!</s>
+			</p>
+			<ul>
+				<li>Autorem strony jest DarknessEyes23.</li>
+				<li>Favicona pochodzi ze strony flaticon.com.</li>
+				<li>Fonty pochodzą z fonts.google.com</li>
+			</ul>
+	</footer>
 </body>
 </html>
