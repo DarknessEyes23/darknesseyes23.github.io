@@ -34,7 +34,7 @@ $(document).ready(function() {
                 "nawołują do podniesienia podatków, ",
                 "próbują wyrzucić kierowców z miast, ",
                 "próbują skłócić Polskę z Rosją, ",
-                "głoszą brednię o globalnym ociepleniu, ",
+                "głoszą brednie o globalnym ociepleniu, ",
                 "zakazują posiadania broni, ",
                 "nie dopuszczają prawicy do władzy, ",
                 "uczą dzieci homoseksualizmu, "
@@ -50,7 +50,7 @@ $(document).ready(function() {
             ],
             [
                 " przez kolejne kadencje.",
-                " o czym się nie mówi.",
+                ", o czym się nie mówi.",
                 " i właśnie dlatego Europa umiera.",
                 ", ale przyjdą muzułmanie i zrobią porządek.",
                 " – tak samo zresztą jak za Hitlera.",
