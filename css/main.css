@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here|News+Cycle|Roboto+Condensed:400,400i,700,700i&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Petite+Formal+Script|News+Cycle|Roboto+Condensed:400,400i,700,700i&subset=latin-ext');
 
 /* Tło i główny font */
 
@@ -86,7 +86,7 @@ button:active {
 /* Cytat */
 
 #quote {
-	font-family: 'Just Me Again Down Here';
+	font-family: 'Petite Formal Script';
 	padding-top: 5%;
 	font-weight: bold;
 	font-size: 250%;
