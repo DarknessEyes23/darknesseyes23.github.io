@@ -1,0 +1,146 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#Web_1920___1 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 976px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-enable-deep-linking: true;
+}
+.bg {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 976px;
+	left: 0px;
+	top: 0px;
+}
+#KORWINATOR_3000 {
+	position: absolute;
+	left: 47px;
+	top: 119px;
+	overflow: visible;
+	width: 1068px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Laca;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 115px;
+	color: rgba(36,34,107,1);
+}
+#Strona_generuj_ca_cytaty_Janus {
+	position: absolute;
+	left: 90px;
+	top: 226px;
+	overflow: visible;
+	width: 1090px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Laca;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(36,34,107,1);
+}
+.cherry_welcome__Niestandardowy {
+	position: absolute;
+	overflow: visible;
+	width: 415px;
+	height: 379px;
+	left: 1195px;
+	top: 488px;
+}
+#quote {
+	position: absolute;
+	left: 392px;
+	top: 556px;
+	width: 731px;
+	white-space: normal;
+	text-align: center;
+	font-family: Laca;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(36,34,107,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 57px;
+	left: 0px;
+	top: 919px;
+}
+#T_o__coolbackgrounds_io___Graf {
+	position: absolute;
+	left: 558px;
+	top: 936px;
+	overflow: visible;
+	width: 805px;
+	white-space: normal;
+	text-align: center;
+	font-family: Laca;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#btn {
+	position: absolute;
+	width: 122px;
+	height: 43px;
+	left: 696px;
+	top: 751px;
+	overflow: visible;
+}
+#button {
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+}
+.button {
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#button_text {
+	position: absolute;
+	left: 27px;
+	top: 9px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Laca;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+
+button {
+	background-color: #24226B;
+	border: none;
+	border-radius: 25px;
+	color: white;
+	font-family: 'Laca';
+}
