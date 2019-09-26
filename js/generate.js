@@ -10,7 +10,8 @@ $(document).ready(function() {
                 "Proszę mnie dobrze zrozumieć: ",
                 "Ja chciałem państwu przypomnieć, że ",
                 "Niech państwo nie maja złudzeń: ",
-                "Powiedzmy to wyraźnie: "
+                "Powiedzmy to wyraźnie: ",
+                "Niezbyt często zgadzam się Donaldem Trumpem, ale tym razem ma absolutną rację: "
             ],
             [
                 "przedstwiciele czerwonej hołoty ",
