@@ -7,14 +7,14 @@ body {
 
 #name {
   font-family: 'Kanit';
-  font-size: 750%;
+  font-size: 500%;
   color: rgb(148,152,153);
   font-weight: 900;
 }
 
 #description {
   font-family: 'Josefin Sans';
-  font-size: 300%;
+  font-size: 200%;
   color: rgb(148,152,153);
   font-weight: 900;
 }
