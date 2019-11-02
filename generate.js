@@ -136,7 +136,7 @@ $(document).ready(function() {
                 ", co prowadzi Polskę do katastrofy.",
                 "- dlatego trzeba przywrócić normalność.",
                 ", ale w wolnej Polsce pójdą siedzieć.",
-                " przez kolejne kadencje",
+                " przez kolejne kadencje.",
                 ", o czym się nie mówi.",
                 " i właśnie dlatego Europa umiera.",
                 ", ale przyjdą muzułmanie i zrobią porządek.",
