@@ -1,157 +1,159 @@
 $(document).ready(function() {
 
-    $("button").click(function(){
-
-        elems = [
-            [
-                "Ja chcę powiedzieć jedną rzecz: ",
-                "Trzeba powiedzieć jasno: ",
-                "Jak powiedział wybitny krakowianin Stansiław Lem: ",
-                "Proszę mnie dobrze zrozumieć: ",
-                "Ja chciałem państwu przypomnieć, że ",
-                "Niech państwo nie mają złudzeń: ",
-                "Powiedzmy to wyraźnie: ",
-                "Niezbyt często zgadzam się z Donaldem Trumpem, ale tym razem ma absolutną rację: ",
-                "Proszę zwrócić uwagę, że ",
-                "I tak mam trzy razy mniej czasu, więc proszę mi pozowlić powiedzieć: ",
-                "Państwo się śmieją, ale ",
-                "Ja nie potrzebowałem edukacji seksualnej, żeby wiedzieć, że ",
-                "No niestety: ",
-                "Gdzie leży przyczyna problemu? Ja państwu powiem: ",
-                "Państwo chyba nie wiedzą, że ",
-                "Oświadczam kategorycznie: ",
-                "Powtarzam: ",
-                "Powiedzmy to z całą mocą: ",
-                "W Polsce dzisiaj ",
-                "Państwo sobie nie zdają sprawy, że ",
-                "To ja przepraszam bardzo: ",
-                "Otóż nie wiem, czy pan wie, że ",
-                "Yyyyy... "
-            ],
-            [
-                "właściciele niewolników",
-                "związkowcy",
-                "trockiści",
-                "tak zwane dzieci kwiaty",
-                "rozmaici urzędnicy",
-                "federaści",
-                "etatyści",
-                "ci durni złodzieje",
-                "ludzie wybrani głosami meneli spod budki z piwem",
-                "socjaliści pobożni",
-                "socjaliści bezbożni",
-                "komuniści z krzyżem w zębach",
-                "agenci obcych służb",
-                "członkowie Bandy Czworga",
-                "pseudo-masoni z Wielkiego Wschodu Francji",
-                "przedstawiciele czerwonej hołoty",
-                "ci wszyscy (tfu!) geje",
-                "agenci bezpieki",
-                "feminazistki"
-            ],
-            [
-                " po przeczytaniu Manifestu Komunistycznego",
-                ", którymi się brzydzę,",
-                ", których nienawidzę,",
-                " z okolic Gazety Wyborczej",
-                ", czyli taka żydokomuna,",
-                " odkąd zniesiono karę śmierci",
-                ", którymi pogardzam,",
-                ", których miejsce w normalnym kraju jest w więzieniu,",
-                " na polecenie Brukseli",
-                " posłusznie",
-                " bezmyślnie",
-                " z nieprawdopodobną pogardą dla człowieka",
-                " za pieniądze podatników",
-                " zgodnie z ideologią LGBTQZ",
-                " za wszelką cenę",
-                " zupełnie bezkarnie",
-                " całkowicie bezczelnie",
-                " o poglądach na lewo od komunizmu",
-                " celowo i świadomie",
-                " z premedytacją",
-                " od czasów Okrągłego Stołu",
-                " w ramach postępu"
-            ],
-            [
-                " udają homoseksualistów",
-                " niszczą rodzinę",
-                " idą do polityki",
-                " zakazują góralom robienia oscypków",
-                " organizują paraolimpiady",
-                " wprowadzają ustrój, w którym raz na cztery lata można sobie wybrać pana",
-                " ustawiają fotoradary",
-                " wprowadzają dotacje",
-                " wydzielają busypasy",
-                " podnoszą wiek emerytalny",
-                " rżną głupa",
-                " odbierają dzieci rodzicom",
-                " wprowadzają absurdalne przepisy",
-                " umieszczają dzieci w szkołach koedukacyjnych",
-                " wprowadzają parytety",
-                " nawołują do podniesienia podatków",
-                " próbują wyrzucić kierowców z miast",
-                " próbują skłocić Polskę z Rosją",
-                " głoszą brednie o globalnym ociepleniu",
-                " zakazują posiadania broni",
-                " nie dopuszczają prawicy do władzy",
-                " uczą dzieci homoseksualizmu"
-            ],
-            [
-                ", żeby poddawać wszystkich tresurze",
-                ", bo taka jest ich natura",
-                ", bo chcą wszystko kontrolować",
-                ", bo nie rozumieją, że socjalizm nie działa",
-                " dokładnie tak jak towarzysz Janosik",
-                " zmiast pozwolić ludziom zarabiać",
-                ", żeby wyrwać kobiety z domu",
-                ", bo jest to w interesie tak zwanych ludzi pracy",
-                " zamiast pozwolić decydować konsumentowi",
-                ", żeby nie opłacało się mieć dzieci",
-                " zamiast obniżyć podatki",
-                ", bo nie rozumieją, że selekcja naturalna jest czymś dobrym",
-                ", żeby mężczyźni przestali być agresywni",
-                ", bo dzięki temu mogą brać łapówki",
-                ", bo dzięki temu mogą kraść",
-                ", bo dostają za to pieniądze",
-                ", bo tak się uczy w państwowej szkole",
-                ", bo bez tego (tfu!) demokracja nie może istnieć",
-                ", bo głupich jest więcej niż mądrych",
-                ", bo chcą tworzyć raj na ziemi",
-                ", bo chcą niszczyć cywilizację białego człowieka"
-            ],
-            [
-                ", co ma zresztą tyle samo sensu, co zawody w szachach dla debili.",
-                ", co zostało dokładnie zaplanowane w Magdalence przez generała Kiszczaka.",
-                " i trzeba być idiotą, żeby ten system wspierać.",
-                ", ale nawet ja jeszcze dożyję normalnych czasów.",
-                ", co dowodzi, że wyskrobano nie tych, co trzeba.",
-                ", a zwykłym ludziom wmawiają, że im coś dadzą.",
-                " - cóż: CHCIELIŚCIE (tfu!) DEMOKRACJI, TO MACIE!",
-                ", dlatego trzeba zlikwidować koryto, a nie zmieniać świnie.",
-                ", a wystarczałoby przestać wypłacać zasiłki.",
-                " podczas gdy normalni ludzie uważani są z dziwaków.",
-                ", co w wieku XIX. po prostu by wyśmiano.",
-                " - dlatego w społeczeństwie jest równość, a powinno być rozwarstwienie.",
-                ", co prowadzi Polskę do katastrofy.",
-                " - dlatego trzeba przywrócić normalność.",
-                ", ale w wolnej Polsce pójdą siedzieć.",
-                " przez kolejne kadencje.",
-                ", o czym się nie mówi.",
-                " i właśnie dlatego Europa umiera.",
-                ", ale przyjdą muzułmanie i zrobią porządek.",
-                " - tak samo zresztą jak za Hitlera.",
-                " - proszę zobaczyć, co się dzieje na Zachodzie, jeśli mi państwo nie wierzą.",
-                ", co lat temu sto nikomu nie przyszłoby nawet do głowy."
-            ]
-        ];
-        quote = "";
-
-        for (let i = 0; i < elems.length; i++) {
-            let rand = Math.floor(Math.random() * elems[i].length);
-            quote += elems[i][rand];
-        }
-
-        document.getElementById("quotext").innerHTML = "„" + quote + "”";
+    $("all").click(function(){
+        document.getElementById("list-container").innerHTML = '<div class="item">
+        <div class="image">
+            <img src="img/BluePeriod.jpg" width="200px" alt="Blue Period" />
+        </div>
+        <div class="title watching">Blue Period</div>
+        <div class="subtitle watching">ブルーピリオド</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> Seven Arcs</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 1/12</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> —</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/DejiMeetsGirl.jpg" width="200px" alt="Deji Meets Girl" />
+        </div>
+        <div class="title watching">Deji Meets Girl</div>
+        <div class="subtitle watching">でーじミーツガール</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> LIDENFILMS</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 2/12</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> —</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/KekkaiSense.jpg" width="200px" alt="Kekkai Sensen" />
+        </div>
+        <div class="title watching">Kekkai Sensen</div>
+        <div class="subtitle watching">血界戦線</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> Bones</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 4/12</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> —</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/KomiSanWaComyoshou.png" width="200px" alt="Komi-san wa, Comyushou desu." />
+        </div>
+        <div class="title watching">Komi-san wa, Comyushou desu.</div>
+        <div class="subtitle watching">古見さんは、コミュ症です。</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> OLM</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 2/—</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> —</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/PlatinumEnd.png" width="200px" alt="Platinum End" />
+        </div>
+        <div class="title watching">Platinum End</div>
+        <div class="subtitle watching">プラチナエンド</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> Signal.MD</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 2/24</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> —</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/SamuraiChamploo.png" width="200px" alt="Samurai Champloo" />
+        </div>
+        <div class="title watching">Samurai Champloo</div>
+        <div class="subtitle watching">サムライチャンプルー</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> Manglobe</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 24/26</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> —</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/SonnyBoy.png" width="200px" alt="Sonny Boy" />
+        </div>
+        <div class="title watching">Sonny Boy</div>
+        <div class="subtitle watching">Sonny Boy</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> Madhouse</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 3/12</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> —</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/TaktOpDestiny.jpg" width="200px" alt="Takt Op. Destiny" />
+        </div>
+        <div class="title watching">Takt Op. Destiny</div>
+        <div class="subtitle watching">Takt Op. Destiny</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> Madhouse, MAPPA</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 1/—</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> —</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/TokyoRevengers.jpg" width="200px" alt="Tokyo Revengers" />
+        </div>
+        <div class="title watching">Tokyo Revengers</div>
+        <div class="subtitle watching">東京リベンジャーズ</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> LIDENFILMS</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 1/24</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> —</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/3GatsuNoLion.jpg" width="200px" alt="3-gatsu no lion" />
+        </div>
+        <div class="title completed">3-gatsu no lion</div>
+        <div class="subtitle completed">3月のライオン</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> Shaft</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 22/22</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> 10/10</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/3GatsuNoLion2ndSeason.jpg" width="200px" alt="3-gatsu no lion 2nd Season" />
+        </div>
+        <div class="title completed">3-gatsu no lion 2nd Season</div>
+        <div class="subtitle completed"> 3月のライオン 第2シリーズ</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> Shaft</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 22/22</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> 10/10</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/86.png" width="200px" alt="86" />
+        </div>
+        <div class="title completed">86</div>
+        <div class="subtitle completed"> 86―エイティシックス―</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> A-1 Pictures</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 11/11</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> 9/10</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/91Days.jpg" width="200px" alt="91 Days" />
+        </div>
+        <div class="title completed">91 Days</div>
+        <div class="subtitle completed">91Days</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> Shuka</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> TV</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 12/12</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> 7/10</div>
+    </div>
+    <div class="item">
+        <div class="image">
+            <img src="img/Aggretsuko.jpg" width="200px" alt="91 Days" />
+        </div>
+        <div class="title completed">Aggressive Retsuko</div>
+        <div class="subtitle completed">アグレッシブ烈子</div>
+        <div class="studio"><i class="fas fa-file-contract" title="Studio"></i> Fanworks</div>
+        <div class="type"><i class="fas fa-desktop" title="Type"></i> ONA</div>
+        <div class="ep-number"><i class="fas fa-tasks" title="Progress"></i> 10/10</div>
+        <div class="score"><i class="fas fa-star" title="Score"></i> 8/10</div>
+    </div>';
     })
 })
