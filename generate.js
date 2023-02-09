@@ -562,6 +562,17 @@ var items = [
         "A shy student trying to reach his family in Ohio, a gun-toting bruiser in search of the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.",
         "action • comedy • horror",
         "Jesse Eisenberg • Emma Stone • Woody Harrelson"
+    ],
+    [
+        "https://image.tmdb.org/t/p/original/ou9ZKA2cms02b7CdCdVqGkKu0O0.jpg",
+        "Red Dragon",
+        "2002",
+        "USA",
+        "2h 4m",
+        "Brett Ratner",
+        'A retired FBI agent with psychological gifts is assigned to help track down "The Tooth Fairy", a mysterious serial killer. Aiding him is imprisoned forensic psychiatrist Dr. Hannibal "The Cannibal" Lecter.',
+        "crime • drama • thriller",
+        "Anthony Hopkins • Edward Norton • Ralph Fiennes"
     ]
 ]
 
