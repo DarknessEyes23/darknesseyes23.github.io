@@ -573,6 +573,17 @@ var items = [
         'A retired FBI agent with psychological gifts is assigned to help track down "The Tooth Fairy", a mysterious serial killer. Aiding him is imprisoned forensic psychiatrist Dr. Hannibal "The Cannibal" Lecter.',
         "crime • drama • thriller",
         "Anthony Hopkins • Edward Norton • Ralph Fiennes"
+    ],
+    [
+        "https://www.comingsoon.net/wp-content/uploads/sites/3/2011/05/file_77877_0_realsteelposterlarge.jpg",
+        "Real Steel",
+        "2011",
+        "USA",
+        "2h 7m",
+        "Shawn Levy",
+        "In the near future, robot boxing is a top sport. A struggling ex-boxer feels he's found a champion in a discarded robot.",
+        "action • drama • sci-fi",
+        "Hugh Jackman • Evangeline Lily • Anthony Mackie"
     ]
 ]
 
