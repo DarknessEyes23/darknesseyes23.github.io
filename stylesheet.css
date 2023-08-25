@@ -36,7 +36,7 @@ body {
   flex-direction: row;
   align-items: flex-start;
   height: 150px;
-  width: 900px;
+  width: 700px;
 }
 
 #info {
@@ -58,6 +58,7 @@ body {
   margin-bottom: 40px !important;
   font-family: 'Roboto';
   opacity: .5;
+  text-align: justify;
 }
 
 #tags {
@@ -68,6 +69,7 @@ body {
   color: black;
   border-bottom: 2px solid black;
   font-weight: bold;
+  font-size: 90%;
 }
 
 img {
@@ -86,6 +88,7 @@ img {
 #actors {
   border-bottom: 2px solid black;
   font-weight: bold;
-  width: 50%;
+  width: 40%;
   text-align: center;
+  font-size: 90%;
 }
