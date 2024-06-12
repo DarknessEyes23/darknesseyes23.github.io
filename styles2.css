@@ -33,6 +33,7 @@ a:hover {
 h1 {
     border-bottom: 1px solid #FFF;
     margin-bottom: 5px !important;
+    font-weight: normal !important;
 }
 
 #album-gallery img {
