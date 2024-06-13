@@ -33,8 +33,9 @@ a:hover {
 h1 {
     color: rgba(255,255, 255,.8);
     margin-bottom: 5px !important;
-    font-size: 115% !important;
+    font-size: 125% !important;
     font-weight: normal !important;
+    border-bottom: 1px dashed rgba(255,255,255,.8);
 }
 
 #album-gallery img {
