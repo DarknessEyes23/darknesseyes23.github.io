@@ -33,7 +33,8 @@ a:hover {
 h1 {
     color: rgba(255,255, 255,.8);
     margin-bottom: 5px !important;
-    font-weight: 115% !important;
+    font-size: 115% !important;
+    font-weight: normal !important;
 }
 
 #album-gallery img {
