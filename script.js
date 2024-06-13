@@ -3886,6 +3886,420 @@ let albums = [
         "2015",
         "https://open.spotify.com/album/11r3GfpfwndlKnwllE5FIl?si=BQZziHduTQyvRm32JbNYig",
         "https://tidal.com/browse/album/146573493?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/fd5ee79374bbd78a1104977f75bad25c/5247406/swans-to-be-kind-Cover-Art.jpg",
+        "To Be Kind",
+        "Swans",
+        "Experimental Rock, Post-Rock, Noise Rock, Drone",
+        "2014",
+        "https://open.spotify.com/album/1WwiyWxa40PKucRxIKlEVM?si=2kPySKSzSoybZvPIEbwA7A",
+        "https://tidal.com/browse/album/28384190?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/b25cee0bdd3bd56a4ac01e1fff7e9074/5263249/alvvays-alvvays-Cover-Art.jpg",
+        "Alvvays",
+        "Alvvays",
+        "Twee Pop, Jangle Pop, Indie Pop, Dream Pop",
+        "2014",
+        "https://open.spotify.com/album/1j3pIPXjLIFkp84OfVUsNT?si=NaLht2t8T_aCuFui1C4AoQ",
+        "https://tidal.com/browse/album/29779659?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/847cf20c48f53a9f66fb3aed868038da/9770369/st-vincent-st-vincent-Cover-Art.jpg",
+        "St. Vincent",
+        "St. Vincent",
+        "Art Pop, Art Rock, New Wave, Noise Pop",
+        "2014",
+        "https://open.spotify.com/album/2PbvQ5ALJj6uXgz5X3ghro?si=Nq72viijRL6AK_FJDMh7TA",
+        "https://tidal.com/browse/album/77632165?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/71b649efde287cd816f060ec231ebaac/9478519/tv-girl-french-exit-Cover-Art.jpg",
+        "French Exit",
+        "TV Girl",
+        "Indie Pop, Neo-Psychedelia, Plunderphonics, Hypnagogic Pop",
+        "2014",
+        "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e?si=YkVxPfqLSD-iE764yJblLA",
+        "https://tidal.com/browse/album/228822569?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/3e10ab5ea96ee6044fa6633343743754/5529116/alcest-shelter-Cover-Art.jpg",
+        "Shelter",
+        "Alcest",
+        "Dream Pop, Shoegaze, Post-Rock",
+        "2014",
+        "https://open.spotify.com/album/3qIcbxymPhXoA1wOR98cLP?si=sag6uMckQAGLKnR8RdOYyQ",
+        "https://tidal.com/browse/album/175548886?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/dc9058366f79f0c3c1e4fd1fe119117c/5450288/future-islands-singles-Cover-Art.jpg",
+        "Singles",
+        "Future Islands",
+        "Synthpop, New Wave, Indietronica",
+        "2014",
+        "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc?si=LlXlj2n9QCK9wcKOCHIs5g",
+        "https://tidal.com/browse/album/26810488?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/fbf571e14b1b7719c1959bd8b14be185/4980122/broken-bells-after-the-disco-Cover-Art.jpg",
+        "After the Disco",
+        "Broken Bells",
+        "Indie Pop, Indietronica, Psychedelic Pop",
+        "2014",
+        "https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf?si=e7UEGqgZQnODKT8Sotjd-w",
+        "https://tidal.com/browse/album/31239601?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/a9dd41becd8aa53b83722c33089fd595/5366002/catfish-and-the-bottlemen-the-balcony-Cover-Art.jpg",
+        "The Balcony",
+        "Catfish and the Bottlemen",
+        "Indie Rock, Power Pop, Post-Punk Revival",
+        "2014",
+        "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN?si=sNG4olwTRCCkKHwOzo86ZQ",
+        "https://tidal.com/browse/album/34162562?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/28ea307784425aecedf36edafe70ebc1/5412009/%E3%81%8D%E3%81%AE%E3%81%93%E5%B8%9D%E5%9B%BD-kinoko-teikoku-%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89-fake-world-wonderland-Cover-Art.jpg",
+        "Fake World Wonderland",
+        "Kinokoteikoku",
+        "Alternative Rock, J-Rock, Indie Rock, Shoegaze",
+        "2014",
+        "https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR?si=WPBQQYXjTfSZgz9hHvD-rg",
+        ""
+   ],
+   [
+        "https://e.snmc.io/i/600/w/cb7397ed8e7edd9c6987e2635c1e03a5/7304802/bruno-pernadas-how-can-we-be-joyful-in-a-world-full-of-knowledge-Cover-Art.jpg",
+        "How Can We Be Joyful in a World Full of Knowledge",
+        "Bruno Pernadas",
+        "Neo-Psychedelia, Space Age Pop, Art Pop, Psychedelic Pop",
+        "2014",
+        "https://open.spotify.com/album/7zbGGxEA3JGxfHtcRfEE93?si=oEvrT5T3QiqD5OZ8TgbVpA",
+        "https://tidal.com/browse/album/51421631?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/194cc54af6f78aa1fd8e15c52015fc95/5200812/%E5%9D%82%E6%9C%AC%E6%85%8E%E5%A4%AA%E9%83%8E-shintaro-sakamoto-%E3%83%8A%E3%83%9E%E3%81%A7%E8%B8%8A%E3%82%8D%E3%81%86-lets-dance-raw-Cover-Art.jpg",
+        "Let's Dance Raw",
+        "Shintaro Sakamoto",
+        "Soft Rock, Sophisti-Pop, Art Pop, Exotica",
+        "2014",
+        "https://open.spotify.com/album/7gcCu7XFJYx47Lpor9Lxzc?si=Z9Imsmb6RoaJp55VwC0rxA",
+        "https://tidal.com/browse/album/69501499?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/b1e192b9b9356c9ad4720dfe41ee877b/5460463/sports-sunchokes-Cover-Art.jpg",
+        "Sunchokes",
+        "Remember Sports",
+        "Indie Rock, Pop Punk, Emo",
+        "2014",
+        "https://open.spotify.com/album/01CJgAex9VvlafseLTVxcf?si=lglijwVXTyer_6z_9ucVlg",
+        "https://tidal.com/browse/album/146416799?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/69f6cfef3d4c1b45e1150a943d509e8c/5243158/kimbra-the-golden-echo-Cover-Art.jpg",
+        "The Golden Echo",
+        "Kimbra",
+        "Art Pop, Alternative R&B, Electropop, Pop Soul",
+        "2014",
+        "https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP?si=KUBl65RrQR6-aD9SiXIqFQ",
+        "https://tidal.com/browse/album/32804943?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/08eedce359aba10ca3aa64c784c069b3/8583805/artur-rojek-skladam-sie-z-ciaglych-powtorzen-Cover-Art.jpg",
+        "Składam się z ciągłych powtórzeń",
+        "Artur Rojek",
+        "Indie Pop, Art Pop, Alt-Pop, Indietronica",
+        "2014",
+        "https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3?si=rXdMAzYkSzyhaHw-vntGbQ",
+        "https://tidal.com/browse/album/132862848?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/068b1413d77c512a16b57009cf256d47/5338191/the-drums-encyclopedia-Cover-Art.jpg",
+        "Encyclopedia",
+        "The Drums",
+        "Indie Pop, Synthpop, Post-Punk Revival",
+        "2014",
+        "https://open.spotify.com/album/1Iotu801AyeA67OfdfCsJQ?si=zv56EAqvTteiWk1kH15-Lw",
+        "https://tidal.com/browse/album/32870252?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/1b2df16aea85b47d9f6c4d786b47ef33/5326949/radiator-hospital-torch-song-Cover-Art.jpg",
+        "Torch Song",
+        "Radiator Hospital",
+        "Indie Rock, Indie Pop, Twee Pop, Slacker Rock",
+        "2014",
+        "https://open.spotify.com/album/1GYm7FRy5UZPNu1cTtOdKs?si=DqhRjvPJRPy130lxrCY4VQ",
+        "https://tidal.com/browse/album/111546044?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/812ce97ad5e5ebbc17a2486f1ee68e31/5374151/wand-ganglion-reef-Cover-Art.jpg",
+        "Gangelion Reef",
+        "Wand",
+        "Neo-Psychedelia, Psychedelic Rock, Garage Rock, Hypnagogic Pop",
+        "2014",
+        "https://open.spotify.com/album/3g2wStQekHPGb8M0SMgciy?si=sE9883qfRH2ZnbW4vlkKMg",
+        "https://tidal.com/browse/album/110737263?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/b77a001b5269cc0974583becff373908/5387205/hookworms-the-hum-Cover-Art.jpg",
+        "The Hum",
+        "Hookworms",
+        "Psychedelic Rock, Acid Rock, Krautrock, Garage Rock",
+        "2014",
+        "https://open.spotify.com/album/6LXWt1hDDPPYh5RdBEE8Jt?si=SPFAtBsMQVuVTZf_-i9o8A",
+        "https://tidal.com/browse/album/37581941?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/d6ee9ef4e87bb822f37038e9c242cd45/12000587/daft-punk-random-access-memories-Cover-Art.jpg",
+        "Random Access Memories",
+        "Daft Punk",
+        "Disco, Electronic, Synth Funk, Electro-Disco",
+        "2014",
+        "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa?si=JbKL8mMXTzyGijWXo-GCJw",
+        "https://tidal.com/browse/album/20115556?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/c34f1e468f0c31480ef39a231b6abece/10115527/tyler-the-creator-wolf-Cover-Art.jpg",
+        "Wolf",
+        "Tyler, the Creator",
+        "West Coast Hip Hop, Hardcore Hip Hop, Jazz Rap, Neo-Soul",
+        "2013",
+        "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB?si=8iuqQOcqS5KUsGO36krhDg",
+        "https://tidal.com/browse/album/19551476?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/8693060df5ca0837c26b21cda8c46354/8917608/arctic-monkeys-am-Cover-Art.jpg",
+        "AM",
+        "Arctic Monkeys",
+        "Indie Rock, Pop Rock, Blues Rock, Alternative Rock",
+        "2013",
+        "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu?si=s13QUn4sS0KHt-BNAxCpGA",
+        "https://tidal.com/browse/album/22248417?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/9290430d68548e4ef0bbdf15f3630c34/11033201/candy-claws-ceres-and-calypso-in-the-deep-time-Cover-Art.jpg",
+        "Ceres & Calypso in the Deep Time",
+        "Candy Claws",
+        "Dream Pop, Neo-Psychedelia, Shoegaze, Psychedelic Pop",
+        "2013",
+        "https://open.spotify.com/album/5KkGAZrad4N4rc5FriwgzU?si=3h_b8i07S7Gu0DjmI7mh1A",
+        "https://tidal.com/browse/album/69653314?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/ee36b1d38b8ccd5bc8b006a593574e0b/4915275/lorde-pure-heroine-Cover-Art.jpg",
+        "Pure Heroine",
+        "Lorde",
+        "Alt-Pop, Synthpop, Alternative R&B, Indietronica",
+        "2013",
+        "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v?si=Tdo37L33RyutyOLnd83jJg",
+        "https://tidal.com/browse/album/77632177?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/e606cc33f05ba2a445b2180901349ec7/10466213/childish-gambino-because-the-internet-Cover-Art.png",
+        "Because the Internet",
+        "Childish Gambino",
+        "Abstract Hip Hop, West Coast Hip Hop, Contemporary R&B, Experimental Hip Hop",
+        "2013",
+        "https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr?si=8e648cK-QV-Z3w3l8_iF9w",
+        "https://tidal.com/browse/album/245042362?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/294bb0e9b1a0cc5282472f8032e99803/8718017/vampire-weekend-modern-vampires-of-the-city-Cover-Art.jpg",
+        "Modern Vampires of the City",
+        "Vampire Weekend",
+        "Indie Pop, Chamber Pop, Baroque Pop, Art Pop",
+        "2013",
+        "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j?si=1iRYfL-4RP2aF48u3MXkIw",
+        "https://tidal.com/browse/album/20134593?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/b30cc489f3102bd47c960cc69de8b1eb/4849295/king-krule-6-feet-beneath-the-moon-Cover-Art.jpg",
+        "6 Feet Beneath the Moon",
+        "King Krule",
+        "Art Rock, Indie Rock, Trip Hop, Post-Punk",
+        "2013",
+        "https://open.spotify.com/album/3nR8btC3svZmUktrXDBuRY?si=L1OCNTIIQVeWKaiaj1R18A",
+        "https://tidal.com/browse/album/21866254?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/4fa90288bea798ffe9664205d801a6bc/4817130/chvrches-the-bones-of-what-you-believe-Cover-Art.jpg",
+        "The Bones of What You Believe",
+        "CHVRCHES",
+        "Synthpop, Electropop, Synthwave",
+        "2013",
+        "https://open.spotify.com/album/03U41p2XNP3oP3REeEDMrQ?si=OoeOVFfcRm6Zg78tRc-i2Q",
+        "https://tidal.com/browse/album/22582148?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/71c1d08e111b2a2ad868293f311e932e/6207089/cage-the-elephant-melophobia-Cover-Art.jpg",
+        "Melophobia",
+        "Cage the Elephant",
+        "Indie Rock, Garage Rock Revival, Neo-Psychedelia, Noise Pop",
+        "2013",
+        "https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76?si=WneEcjhySqaQEKmn9gtVng",
+        "https://tidal.com/browse/album/22627287?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/ccc821924032df37096bbba2c6ae808a/4866012/mgmt-mgmt-Cover-Art.png",
+        "MGMT",
+        "MGMT",
+        "Neo-Psychedelia, Psychedelic Pop, Noise Pop, Art Pop",
+        "2013",
+        "https://open.spotify.com/album/0a4MASgg8wxOyUeoOZzuhc?si=2Ef1IfQZQBGvyGYhPIXasw",
+        "https://tidal.com/browse/album/22257105?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/420f90d6f00dc11ae58caab98c72c521/4516735/%E3%81%8D%E3%81%AE%E3%81%93%E5%B8%9D%E5%9B%BD-kinoko-teikoku-eureka-Cover-Art.jpg",
+        "eureka",
+        "Kinokoteikoku",
+        "Indie Rock, Shoegaze, Dream Pop, Post-Rock",
+        "2013",
+        "https://open.spotify.com/album/3PYWQo89juaAr0HooKtfEH?si=N9nsg2JUQc-2alT3evEo-Q",
+        ""
+   ],
+   [
+        "https://e.snmc.io/i/600/w/89f98ffb2741b42fe692ac0a32d7733c/5705555/unknown-mortal-orchestra-ii-Cover-Art.jpg",
+        "II",
+        "Unknown Mortal Orchestra",
+        "Psychedelic Pop, Neo-Psychedelia, Slacker Rock, Bedroom Pop",
+        "2013",
+        "https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3?si=tLED0_fBR_u8j1QIDQOVsw",
+        "https://tidal.com/browse/album/326053263?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/b12083ae183426842da1583821f794a5/4762695/the-flaming-lips-the-terror-Cover-Art.png",
+        "The Terror",
+        "The Flaming Lips",
+        "Neo-Psychedelia, Experimental Rock, Ambient Pop, Drone",
+        "2013",
+        "https://open.spotify.com/album/060bx0v6yQVzHANHIc4SaV?si=xudqj0BTRzGwIQ7rgbmwPw",
+        "https://tidal.com/browse/album/35791008?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/e73af59546a1b29c7e66a0f5930a35ce/4648487/phoenix-bankrupt-Cover-Art.jpg",
+        "Bankrupt!",
+        "Phoenix",
+        "Indie Pop, Pop Rock, New Wave, Synthpop",
+        "2013",
+        "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV?si=zMieVrQYRv6RcxcmbHK3rA",
+        "https://tidal.com/browse/album/245043258?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/7fc8dbebc927c366418b74584594f799/4758218/moderat-ii-Cover-Art.jpg",
+        "II",
+        "Moderat",
+        "IDM, UK Garage, UK Bass, Future Garage",
+        "2013",
+        "https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv?si=niOoXQ79RvmsVFy4zmDJDA",
+        "https://tidal.com/browse/album/199464382?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/f4e687a560043c9bfcb771add0c8fc2d/4812987/washed-out-paracosm-Cover-Art.jpg",
+        "Paracosm",
+        "Washed Out",
+        "Chillwave, Dream Pop, Neo-Psychedelia, Balearic Beat",
+        "2013",
+        "https://open.spotify.com/album/04gPkZmaGuwMcCNAr4W9w8?si=OyMiKVeWRsaHQPKEGN0_gQ",
+        "https://tidal.com/browse/album/21794777?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/21908c71910350e0afdee1c0cb576772/4473313/bastille-bad-blood-Cover-Art.jpg",
+        "Bad Blood",
+        "Bastille",
+        "Pop Rock, Alt-Pop, Synthpop, Chamber Pop",
+        "2013",
+        "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L?si=oAfxuMQ5Q9uXbA8jlRmgFw",
+        "https://tidal.com/browse/album/23496114?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/851f2ba759a3d7cce5253cfb929aae80/9423188/goldfrapp-tales-of-us-Cover-Art.jpg",
+        "Tales of Us",
+        "Goldfrapp",
+        "Art Pop, Chamber Pop, Chamber Folk, Dream Pop",
+        "2013",
+        "https://open.spotify.com/album/32tOoeaW4dspBjnwctvRNh?si=Z8hSCNSMSI2b8RzRTzFJ_A",
+        "https://tidal.com/browse/album/21984280?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/70385bc9194c2968074fb462bda9bfdf/4627166/wavves-afraid-of-heights-Cover-Art.jpg",
+        "Afraid of Heights",
+        "Wavves",
+        "Indie Rock, Power Pop, Pop Punk, Indie Surf",
+        "2013",
+        "https://open.spotify.com/album/2nSZvRRmbMjBHhNSrEpiVJ?si=h56_R3d3SK2K7N1CGPdVwQ",
+        "https://tidal.com/browse/album/243299876?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/c3e2441f8c3f196b337ddb7fcbb96598/4756191/pet-shop-boys-electric-Cover-Art.jpg",
+        "Electric",
+        "Pet Shop Boys",
+        "Synthpop, Electro House, Dance-Pop, Electro-Disco",
+        "2013",
+        "https://open.spotify.com/album/6XFWerykyX9f6Q0hrVexuv?si=4A3gWxxWQW64TCnHCACPdQ",
+        "https://tidal.com/browse/album/335469192?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/1a7bcc2f51859f00e74e6b8de0fcbdc5/4788260/still-corners-strange-pleasures-Cover-Art.png",
+        "Strange Pleasures",
+        "Still Corners",
+        "Dream Pop, Indie Pop, Synthpop, Neo-Psychedelia",
+        "2013",
+        "https://open.spotify.com/album/4hJqMx3eq7vbvnue6WNy5E?si=qQFWBClsTbOeF2Xs20VjZA",
+        "https://tidal.com/browse/album/299067777?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/a7bea24b6c64c007228c21904249d9d8/4660040/no-joy-wait-to-pleasure-Cover-Art.jpg",
+        "Wait to Pleasure",
+        "No Joy",
+        "Shoegaze, Dream Pop, Noise Pop",
+        "2013",
+        "https://open.spotify.com/album/6LVHEAzqHwjvdTekB2f1VD?si=E4egfy4kSlyf_pOp1Lyq8Q",
+        "https://tidal.com/browse/album/66502280?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/108149fd7d1c725a292ec5beffb1980c/4445774/frightened-rabbit-pedestrian-verse-Cover-Art.jpg",
+        "Pedestrian Verse",
+        "Frightened Rabbit",
+        "Indie Rock, Post-Punk",
+        "2013",
+        "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x?si=C1suWkBRTz-TOkoXAA1tzA",
+        "https://tidal.com/browse/album/18714042?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/8b909633a9d6b26fafa3d332e002d392/4928190/cut-copy-free-your-mind-Cover-Art.jpg",
+        "Free Your Mind",
+        "Cut Copy",
+        "Electropop, Alternative Dance, Psychedelic Pop, Synthpop",
+        "2013",
+        "https://open.spotify.com/album/5V3gxfuFiSTYm0wlOWCt43?si=tjg0vm-cQnGrT7-P_sAzFQ",
+        "https://tidal.com/browse/album/31848326?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/d3aa50dcddcc0a49082ea41ab59e7b2e/4684508/%E3%82%84%E3%81%8F%E3%81%97%E3%81%BE%E3%82%8B%E3%81%88%E3%81%A4%E3%81%93-etsuko-yakushimaru-radio-onsen-eutopia-Cover-Art.jpg",
+        "Radio Onsen Eutopia",
+        "Etsuko Yakushimaru",
+        "Art Pop, J-Pop, Indie Pop, Progressive Pop",
+        "2013",
+        "https://open.spotify.com/album/2GhddizMOf999v0BL5VUpr?si=lWbDPjV_TfqjkHPzs1H2SQ",
+        "https://tidal.com/browse/album/285194245?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/75efb38be0108f6c57143192ea22d7dc/4775759/pond-hobo-rocket-Cover-Art.jpg",
+        "Hobo Rocket",
+        "Pond",
+        "Neo-Psychedelia, Psychedelic Rock, Heavy Psych",
+        "2013",
+        "https://open.spotify.com/album/4JcZo9SqwxrbDqsLf3e2WF?si=eQHManPGQX6fdh2jjKx6xQ",
+        "https://tidal.com/browse/album/29809193?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/9515984db403af16253b6d6bc7671ebd/4930433/soviet-soviet-fate-Cover-Art.jpg",
+        "Fate",
+        "Soviet Soviet",
+        "Post-Punk Revival, Gothic Rock, Shoegaze, Deathrock",
+        "2013",
+        "https://open.spotify.com/album/5ZsqAOPB7VqSgI4PNK7g80?si=rfD3z4cFSbqcd1aWssDDIw",
+        "https://tidal.com/browse/album/332401072?u"
    ]
 ];
 
