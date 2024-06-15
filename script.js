@@ -3681,7 +3681,7 @@ let albums = [
         "https://tidal.com/browse/album/58608356?u"
    ],
    [
-        "https://e.snmc.io/i/600/w/99446c745377abd8afad44dab05dbb3b/6271895/white-lies-friends-Cover-Art.jpg",
+        "https://1.bp.blogspot.com/-PqUCd08ecRg/V_ZuC1qzfPI/AAAAAAAAc7I/Sfw1iCBgSY01fZhZDLLdfwOe1eiFMT45ACLcB/s640/White%2BLies%2B-%2BFriends.jpg",
         "Friends",
         "White Lies",
         "Synthpop, Post-Punk Revival, New Wave, Indie Rock",
@@ -4585,6 +4585,7 @@ let albums = [
         "Take Care, Take Care, Take Care",
         "Explosions in the Sky",
         "Post-Rock",
+        "2011",
         "https://open.spotify.com/album/7aGTfqqRaTcsPRgFADgTHa?si=TqWtxi78RJ63PKbsxVq0Hg",
         "https://tidal.com/browse/album/23303180?u"
    ],
