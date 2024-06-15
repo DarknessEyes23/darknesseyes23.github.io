@@ -4300,6 +4300,347 @@ let albums = [
         "2013",
         "https://open.spotify.com/album/5ZsqAOPB7VqSgI4PNK7g80?si=rfD3z4cFSbqcd1aWssDDIw",
         "https://tidal.com/browse/album/332401072?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/deddfd8a7f5ccb94799c43eaf79728af/11410589/kendrick-lamar-good-kid-m_a_a_d-city-Cover-Art.jpg",
+        "good kid, m.A.A.d city",
+        "Kendrick Lamar",
+        "West Coast Hip Hop, Conscious Hip Hop, Hardcore Hip Hop, Pop Rap",
+        "2012",
+        "https://open.spotify.com/album/0Oq3mWfexhsjUh0aNNBB5u?si=5585mYVwTkmZW9kwcNulKg",
+        "https://tidal.com/browse/album/20556777?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/373f28e0680d626a560275d0a038aece/10950051/tame-impala-lonerism-Cover-Art.jpg",
+        "Lonerism",
+        "Tame Impala",
+        "Neo-Psychedelia, Psychedelic Rock, Psychedelic Pop, Space Rock Revival",
+        "2012",
+        "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7?si=9hPaOy_zRByz0I7A2qXpVg",
+        "https://tidal.com/browse/album/28098315?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/e8a30d88af5c35400797219bd48feec6/4130381/beach-house-bloom-Cover-Art.jpg",
+        "Bloom",
+        "Beach House",
+        "Dream Pop, Indie Pop, Ethereal Wave, Neo-Psychedelia",
+        "2012",
+        "https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm?si=EI--_-IUSwWjMDiwAQiaOQ",
+        "https://tidal.com/browse/album/21407884?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/034e5926248d91a92624413e90f86f01/9434445/swans-the-seer-Cover-Art.jpg",
+        "The Seer",
+        "Swans",
+        "Experimental Rock, Post-Rock, Drone, Noise Rock",
+        "2012",
+        "https://open.spotify.com/album/774XM9c4BAxkNqvu7Rea1E?si=Dk9PvL8jTLyCdGheVf1ToQ",
+        "https://tidal.com/browse/album/25777418?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/8a14b5e54b7806b4fa4000a4361f875d/4272990/animal-collective-centipede-hz-Cover-Art.jpg",
+        "Centipede Hz",
+        "Animal Collective",
+        "Neo-Psychedelia, Indietronica, Psychedelic Pop, Experimental Rock",
+        "2012",
+        "https://open.spotify.com/album/7nKUp4IhFbdQvdq3KacYBL?si=M6MD_pK7QH2nL3MN2yjeYA",
+        "https://tidal.com/browse/album/16836010?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/0b8edd6e144a346c46207bc1acb2e7e6/11927291/grizzly-bear-shields-Cover-Art.jpg",
+        "Shields",
+        "Grizzly Bear",
+        "Indie Rock, Indie Folk, Neo-Psychedelia, Progressive Folk",
+        "2012",
+        "https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX?si=1veXFqLBR2mlMIide8sW8Q",
+        "https://tidal.com/browse/album/17057476?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/c030d4d58a72c5834513c8d1856e577e/4290189/the-xx-coexist-Cover-Art.jpg",
+        "Coexist",
+        "The xx",
+        "Dream Pop, Ambient Pop, Alt-Pop, Future Garage",
+        "2012",
+        "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW?si=iBktVEPFR7OHzfeaQcfCKg",
+        "https://tidal.com/browse/album/16961346?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/8361d30c37313f39e7cedc73256531eb/4347949/melodys-echo-chamber-melodys-echo-chamber-Cover-Art.jpg",
+        "Melody's Echo Chamber",
+        "Melody's Echo Chamber",
+        "Neo-Psychedelia, Dream Pop, Psychedelic Pop, Noise Pop",
+        "2012",
+        "https://open.spotify.com/album/2tvHcQfvtXvmFHIGyBiPVt?si=XZnHK5WIQc2cOyp6GJgGrw",
+        "https://tidal.com/browse/album/17053179?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/f5e62da612e178cd75d7ea9191dc80b6/9298269/purity-ring-shrines-Cover-Art.jpg",
+        "Shrines",
+        "Purity Ring",
+        "Synthpop, Witch House, Electropop, Trap",
+        "2012",
+        "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8?si=j_Z3DOOjSW-Agq-sMDqpoQ",
+        "https://tidal.com/browse/album/16356861?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/5bd58389b47a7d0a247a083cb8f3bc42/4190465/diiv-oshin-Cover-Art.jpg",
+        "Oshin",
+        "DIIV",
+        "Dream Pop, Indie Surf, Jangle Pop, Shoegaze",
+        "2012",
+        "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh?si=spXJw6twSeCDKgbCjMDa8w",
+        "https://tidal.com/browse/album/18743012?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/faca37afc25a8fef642f0b8161fa1bdf/11841018/japandroids-celebration-rock-Cover-Art.jpg",
+        "Celebration Rock",
+        "Japandroids",
+        "Indie Rock, Noise Pop, Garage Punk, Pop Punk",
+        "2012",
+        "https://open.spotify.com/album/2UdWvqAgpwhALQniIICGMZ?si=6VefkJzWQumUAD1U5me7uA",
+        "https://tidal.com/browse/album/256095167?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/41900d679b72d475b33dca5a29e6c8ef/4384663/wild-nothing-nocturne-Cover-Art.jpg",
+        "Nocturne",
+        "Wild Nothing",
+        "Dream Pop, Indie Pop, Jangle Pop, Neo-Psychedelia",
+        "2012",
+        "https://open.spotify.com/album/7A2iT7NcC9lcvhGu1pP0UA?si=NSafWYmuTMCWna2dB7yN8g",
+        "https://tidal.com/browse/album/21408093?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/7efa1d230718ca0ad1b3525a098b9c45/4094605/spiritualized-sweet-heart-sweet-light-Cover-Art.jpg",
+        "Sweet Heart Sweet Light",
+        "Spiritualized",
+        "Neo-Psychedelia, Art Rock, Chamber Pop, Space Rock",
+        "2012",
+        "https://open.spotify.com/album/6MQRQ17HwDLjNFLBQ4PCYa?si=6aWiztuLT3C709YRHVk_ww",
+        "https://tidal.com/browse/album/21408093?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/9c58213f3f360c3478b8cbc30cf74097/4140325/chromatics-kill-for-love-Cover-Art.jpg",
+        "Killer for Love",
+        "Chromatics",
+        "Synthpop, Dream Pop, Ambient Pop, Synthwave",
+        "2012",
+        "https://open.spotify.com/album/2Fp5KBgyC0ac2oitVlsJhY?si=v3IDhOPLRleyNf_q0WQaDQ",
+        "https://tidal.com/browse/album/131334628?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/45d75d247089b2970136ffc6e610c716/6262764/passion-pit-gossamer-Cover-Art.jpg",
+        "Gossamer",
+        "Passion Pit",
+        "Synthpop, Indietronica, Indie Pop, Electropop",
+        "2012",
+        "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv?si=OTygQoNyQiayWdPLX5A6tA",
+        "https://tidal.com/browse/album/16300002?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/72a1279d1cebad65a8fb118f97708966/3988711/chairlift-something-Cover-Art.jpg",
+        "Something",
+        "Chairlift",
+        "Synthpop, Indie Pop, Art Pop, Indietronica",
+        "2012",
+        "https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw?si=uv9cASJ4Sfetxwp5hTCeJw",
+        "https://tidal.com/browse/album/333657067?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/cd7624444e8d600f62428f5b13961aa8/4266159/hot-chip-in-our-heads-Cover-Art.jpg",
+        "In Our Heads",
+        "Hot Chip",
+        "Synthpop, Indietronica, Alternative Dance, Electropop",
+        "2012",
+        "https://open.spotify.com/album/5GDNKEug3ME9sCAtCU0vu7?si=cJ77YGU2R7iQb1LD6n6nSQ",
+        "https://tidal.com/browse/album/15827976?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/e77d63e03237a4d7ed771383d859245c/7327121/two-door-cinema-club-beacon-Cover-Art.jpg",
+        "Beacon",
+        "Two Door Cinema Club",
+        "Indie Pop, New Rave, Electropop, Indie Rock",
+        "2012",
+        "https://open.spotify.com/album/1I1ZFdY9LI6kxPANmduRcN?si=USTuEtsFQeeaXcmS8bH44g",
+        "https://tidal.com/browse/album/23304042?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/f8a58ba9d957f44ea22a3083239abd00/4067419/lotus-plaza-spooky-action-at-a-distance-Cover-Art.jpg",
+        "Spooky Action at a Distance",
+        "Lotus Plaza",
+        "Neo-Psychedelia, Indie Rock, Dream Pop, Shoegaze",
+        "2012",
+        "https://open.spotify.com/album/5rz5Ya430Ht2x3kPcXYOtZ?si=z1UHw5gbTzifDSbXKTvxYg",
+        "https://tidal.com/browse/album/18058649?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/2252b20f32b9f7918343f6d506993aac/6751442/andrew-jackson-jihad-knife-man-Cover-Art.jpg",
+        "Knife Man",
+        "Andrew Jackson Jihad",
+        "Indie Rock, Folk Punk, Indie Folk, Anti-Folk",
+        "2011",
+        "https://open.spotify.com/album/131vOQexOX9KXcOvcK4vM9?si=gSp2f0i8SVaDK3E7_PsMvQ",
+        "https://tidal.com/browse/album/22256247?u"
+   ],
+   [
+        "https://t2.genius.com/unsafe/340x340/https%3A%2F%2Fimages.genius.com%2F1af98c5aa0b4b58669d987be6aec97a8.1000x1000x1.png",
+        "Race",
+        "Alex G",
+        "Bedroom Pop, Slacker Rock, Indie Folk",
+        "2011",
+        "https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ?si=sJwnkbn4Rt27NnMBdv0Ciw",
+        "https://tidal.com/browse/album/352643127?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/a4d37cb1587759ff22a15345312b4cf4/7155481/battles-gloss-drop-Cover-Art.jpg",
+        "Glass Drop",
+        "Battles",
+        "Math Rock, Neo-Psychedelia, Math Pop, Experimental Rock",
+        "2011",
+        "https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR?si=o4fcyRkFRauqilOGtH3kow",
+        "https://tidal.com/browse/album/16026499?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/0a7e3bdb739ad25610fde108ec4ef188/3667762/panda-bear-tomboy-Cover-Art.jpg",
+        "Tomboy",
+        "Panda Bear",
+        "Psychedelic Pop, Ambient Pop, Electronic, Dream Pop",
+        "2011",
+        "https://open.spotify.com/album/1dxMK0PJZ9RyarNPXQQeeP?si=wK0JX4emSO6qqEngfUVCNA",
+        "https://tidal.com/browse/album/120490972?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/05225885eb9b3398a2b027e513a6a03a/3814281/tycho-dive-Cover-Art.jpg",
+        "Dive",
+        "Tycho",
+        "Downtempo, Ambient, Chillwave, Ambient House",
+        "2011",
+        "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst?si=Oq7k0SS6R9WmqiqP-TnqaA",
+        "https://tidal.com/browse/album/21582606?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/e953b8a07f7fa222d38eba8bd314abc9/3567246/metronomy-the-english-riviera-Cover-Art.jpg",
+        "The English Riviera",
+        "Metronomy",
+        "Indie Pop, Indietronica, Synthpop",
+        "2011",
+        "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK?si=sZq84pVLR-mGmFr0K33H_g",
+        "https://tidal.com/browse/album/43419757?u"
+   ],
+   [    
+        "https://e.snmc.io/i/600/w/0ac98e7f5c1b034a8e785728b573efbb/10733239/gang-gang-dance-eye-contact-Cover-Art.jpg",
+        "Eye Contact",
+        "Gang Gang Dance",
+        "Neo-Psychedelia, Electropop, Synth Funk, Indietronica",
+        "2011",
+        "https://open.spotify.com/album/4bq7GESFNztOvUBKpWeh6N?si=ZqFOjkepQd-SLOZWP1V9PA",
+        "https://tidal.com/browse/album/6244071?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/396b2413b31c0468352b53d0ac06db1d/3786934/the-drums-portamento-Cover-Art.jpg",
+        "Portamento",
+        "The Drums",
+        "Indie Pop, Post-Punk Revival, Indie Surf, Post-Punk",
+        "2011",
+        "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi?si=ZFCw0KJ9R7OClgk5sW4SKw",
+        "https://tidal.com/browse/album/34821320?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/086e5e158469a15191cb0daa2f59fc17/5537911/tune-yards-whokill-Cover-Art.jpg",
+        "W H O K I L L",
+        "tUnE-yArDs",
+        "Art Pop, Indie Pop, Freak Folk, Math Pop",
+        "2011",
+        "https://open.spotify.com/album/3ZjiKy5Tb1MIFRyGBBzoos?si=iA6jbYFuQ-quNj9_qywR4g",
+        "https://tidal.com/browse/album/6243802?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/11af4f74e4dfedeacf8f734e8a4266bd/11062243/%E6%9D%B1%E4%BA%AC%E9%85%92%E5%90%90%E5%BA%A7-tokyo-shoegazer-crystallize-Cover-Art.jpg",
+        "Crystallize",
+        "Tokyo Shoegazer",
+        "Shoegaze, Dream Pop, Post-Rock, Noise Rock",
+        "2011",
+        "https://open.spotify.com/album/50n37w3uA5ue1sw1rsUYKz?si=FMpM2YYiTaO2kpEkLMB0Vg",
+        "https://tidal.com/browse/album/251432555?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/1e65dac543fa4671b59f09a68584945a/10355574/gotye-making-mirrors-Cover-Art.jpg",
+        "Making Mirrors",
+        "Gotye",
+        "Art Pop, Alt-Pop, Indie Pop, Indietronica",
+        "2011",
+        "https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye?si=IpxT70fqQxmxjL7TlvNT0g",
+        "https://tidal.com/browse/album/10813615?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/364ebffc8d46bb837de790ae43977614/3433842/toro-y-moi-underneath-the-pine-Cover-Art.jpg",
+        "Underneath the Pine",
+        "Toro y Moi",
+        "Indie Pop, Neo-Psychedelia, Synth Funk, Psychedelic Pop",
+        "2011",
+        "https://open.spotify.com/album/6FtCAAEZUEutbmNfFHzeK0?si=Mjsi3dNmRDGDv-HSTnuiWA",
+        "https://tidal.com/browse/album/166266825?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/b345e56597a5f2692e24f6fea225fc0c/5899907/explosions-in-the-sky-take-care-take-care-take-care-Cover-Art.jpg",
+        "Take Care, Take Care, Take Care",
+        "Explosions in the Sky",
+        "Post-Rock",
+        "https://open.spotify.com/album/7aGTfqqRaTcsPRgFADgTHa?si=TqWtxi78RJ63PKbsxVq0Hg",
+        "https://tidal.com/browse/album/23303180?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/33e21f7bd38b12f5ea57386b351f7a46/3744644/cults-cults-Cover-Art.jpg",
+        "Cults",
+        "Cults",
+        "Indie Pop, Twee Pop, Neo-Psychedelia, Dream Pop",
+        "2011",
+        "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M?si=hhQEYIciQqadTpqEC3DSxg",
+        "https://tidal.com/browse/album/6738532?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/74203b6f5d2b33677a8c8416d1f1ee36/3748907/the-horrors-skying-Cover-Art.jpg",
+        "Skying",
+        "The Horrors",
+        "Neo-Psychedelia, Alternative Rock, Shoegaze, Post-Punk",
+        "2011",
+        "https://open.spotify.com/album/5KDbJLSC5pk9tggC4krYnu?si=T5gJVTiqSAWspymlDbHzTQ",
+        "https://tidal.com/browse/album/7282911?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/11a0a03193c7cf7e3f32c579a4508945/11804631/feist-metals-Cover-Art.jpg",
+        "Metals",
+        "Feist",
+        "Indie Pop, Art Pop, Art Rock, Chamber Pop",
+        "2011",
+        "https://open.spotify.com/album/3vxiBAlJUDqePZboDhd3I5?si=wN-QLYFEQzy5B0kxpQNsIg",
+        "https://tidal.com/browse/album/35028215?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/89977ca2be04fd364bb7fb1f855354ae/3645974/wild-beasts-smother-Cover-Art.png",
+        "Smother",
+        "Wild Beasts",
+        "Indie Pop, Art Pop, Dream Pop, Sophisti-Pop",
+        "2011",
+        "https://open.spotify.com/album/0P2xMETyT5wTOiXP69eww6?si=hNwE0fJdQKKwJxSJBBXi3Q",
+        "https://tidal.com/browse/album/6555923?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/5b648228d2296af97c05305554a628c9/3537929/lamp-%E6%9D%B1%E4%BA%AC%E3%83%A6%E3%82%A6%E3%83%88%E3%83%94%E3%82%A2%E9%80%9A%E4%BF%A1-tokyo-utopia-tsushin-Cover-Art.jpg",
+        "Tokyo Utopia Tsushin",
+        "Lamp",
+        "Shibuya-kei, Jazz Pop, Lounge, Progressive Pop",
+        "2011",
+        "https://open.spotify.com/album/3IEjje6Km1ZQBw94VQgqAK?si=b6IftzHWQCWr0S6FkYUfjQ",
+        ""
+   ],
+   [
+        "https://e.snmc.io/i/600/w/ef66c16c3e92ef1e378cd0255999437b/3453852/peaking-lights-936-Cover-Art.jpg",
+        "936",
+        "Peaking Lights",
+        "Hypnagogic Pop, Neo-Psychedelia",
+        "2011",
+        "https://open.spotify.com/album/7KGCXzZRLjebYTyEKBviAK?si=Yl4YQpbPSdW_zkTg2-uZiQ",
+        "https://tidal.com/browse/album/8162146?u"
    ]
 ];
 
