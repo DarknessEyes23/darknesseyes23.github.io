@@ -189,15 +189,6 @@ let albums = [
         "https://tidal.com/browse/album/304555200?u"
     ],
     [
-        "https://e.snmc.io/i/600/w/d31199e0ac9a0a80ddfaaae1bf7a29c7/11246810/slowdive-everything-is-alive-Cover-Art.jpg",
-        "everything is alive",
-        "Slowdive",
-        "Dream Pop, Shoegaze, Ambient Pop, Post-Rock",
-        "2023",
-        "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0?si=rxeCBxfnSLSjgUPQe5fqzQ",
-        "https://tidal.com/browse/album/295476130?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/3886799f3943c5fb9fb3092a8369154a/10818064/swans-the-beggar-Cover-Art.jpg",
         "The Beggar",
         "Swans",
@@ -988,15 +979,6 @@ let albums = [
         "2022",
         "https://open.spotify.com/album/4PtPnJCLvzFMenDRGDkCXn?si=m66-1bA7ST-xzIrTUk5koA",
         ""
-    ],
-    [
-        "https://e.snmc.io/i/600/w/faaceee92257147ca6ce2abda603ccd1/9650187/melodys-echo-chamber-emotional-eternal-Cover-Art.jpg",
-        "Emotional Eternal",
-        "Melody's Echo Chamber",
-        "Neo-Psychedelia, Dream Pop, Psychedelic Pop, Psychedelic Rock",
-        "2022",
-        "https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg?si=vEZ_LHL-QxK0MwVBvmajug",
-        "https://tidal.com/browse/album/225754867?u"
     ],
     [
         "https://e.snmc.io/i/600/w/14b1d860579789cf80addd912ffdbf63/10043404/tove-lo-dirt-femme-Cover-Art.jpg",
@@ -2464,15 +2446,6 @@ let albums = [
         "2018",
         "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq?si=rgp9LO7HSV216uwR7huaEw",
         "https://tidal.com/browse/album/91826107?u"
-    ],
-    [
-        "https://e.snmc.io/i/600/w/ea61baedf1d15d05b79032fd5c0e83bc/7149991/yves-tumor-safe-in-the-hands-of-love-Cover-Art.jpg",
-        "Safe in the Hands of Love",
-        "Yves Tumor",
-        "Neo-Psychedelia, Post-Industrial, Hypnagogic Pop, Art Pop",
-        "2018",
-        "https://open.spotify.com/album/01HArmgfXe7xDaYXWKfhuf?si=-h-pOFSRSu66umQ_5_SCrw",
-        "https://tidal.com/browse/album/94625862?u"
     ],
     [
         "https://e.snmc.io/i/600/w/2b8d67fe8c968502588fc69e0e51ddbb/7176458/joji-ballads-1-Cover-Art.jpg",
@@ -4498,15 +4471,6 @@ let albums = [
         "2011",
         "https://open.spotify.com/album/1dxMK0PJZ9RyarNPXQQeeP?si=wK0JX4emSO6qqEngfUVCNA",
         "https://tidal.com/browse/album/120490972?u"
-   ],
-   [
-        "https://e.snmc.io/i/600/w/05225885eb9b3398a2b027e513a6a03a/3814281/tycho-dive-Cover-Art.jpg",
-        "Dive",
-        "Tycho",
-        "Downtempo, Ambient, Chillwave, Ambient House",
-        "2011",
-        "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst?si=Oq7k0SS6R9WmqiqP-TnqaA",
-        "https://tidal.com/browse/album/21582606?u"
    ],
    [
         "https://e.snmc.io/i/600/w/e953b8a07f7fa222d38eba8bd314abc9/3567246/metronomy-the-english-riviera-Cover-Art.jpg",
