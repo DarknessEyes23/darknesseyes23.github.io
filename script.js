@@ -558,15 +558,6 @@ let albums = [
         "https://tidal.com/browse/album/284493086?u"
     ],
     [
-        "https://e.snmc.io/i/600/w/44b8a6aec2409599ad2f3f9b6d3b9e94/10909570/%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8-ling-tosite-sigure-last-aurorally-Cover-Art.jpg",
-        "last aurorally",
-        "Ling Tosite Sigure",
-        "J-Rock, Post-Hardcore, Math Rock",
-        "2023",
-        "https://open.spotify.com/album/5NxTmnfjzE2DpeUUWfsn0F?si=a-h7QTocS8ivpxJFLUz2sQ",
-        "https://tidal.com/browse/album/285512910?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/8f5faa6c392422fd88c7e0a81faa5982/10630657/%E5%90%9B%E5%B3%B6%E5%A4%A7%E7%A9%BA-ohzora-kimishima-%E6%98%A0%E5%B8%B6%E3%81%99%E3%82%8B%E7%85%99-eitai-suru-kemuri-Cover-Art.jpg",
         "eitaisuru kemuri",
         "Ohzora Kimishima",
