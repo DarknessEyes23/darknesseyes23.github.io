@@ -1530,15 +1530,6 @@ let albums = [
         "https://tidal.com/browse/album/251535923?u"
     ],
     [
-        "https://e.snmc.io/i/600/w/875e2d599561765f1d111a958c58fd1b/8496653/roosevelt-polydans-Cover-Art.jpg",
-        "Polydans",
-        "Roosevelt",
-        "Synthpop, Dance-Pop, Nu-Disco",
-        "2021",
-        "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0?si=naAcC_17S_u-Rb3ozxwfIw",
-        "https://tidal.com/browse/album/334913373?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/3fd4b755f53160806c481fa6b20338b7/8189652/charli-xcx-how-im-feeling-now-Cover-Art.jpg",
         "How I'm Feeling Now",
         "Charli XCX",
@@ -4597,6 +4588,105 @@ let albums = [
         "2011",
         "https://open.spotify.com/album/7KGCXzZRLjebYTyEKBviAK?si=Yl4YQpbPSdW_zkTg2-uZiQ",
         "https://tidal.com/browse/album/8162146?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/fc98b179c1b271c6c48519c4778a86b2/11436635/beach-house-teen-dream-Cover-Art.jpg",
+        "Teen Dream",
+        "Beach House",
+        "Dream Pop, Indie Pop, Neo-Psychedelia",
+        "2010",
+        "https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs?si=ChGW0Ti2S76kiBtNJq9JvA",
+        "https://tidal.com/browse/album/21410284?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/e6cbab6e187b69e5cc80592702db664f/8773167/tame-impala-innerspeaker-Cover-Art.jpg",
+        "Innerspeaker",
+        "Tame Impala",
+        "Psychedelic Rock, Neo-Psychedelia, Psychedelic Pop, Garage Rock Revival",
+        "2010",
+        "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng?si=XlkC7odYRcuhGnPCRapF1Q",
+        "https://tidal.com/browse/album/97122857?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/05ff915e92db606f0347e02ac7de415c/5465104/deerhunter-halcyon-digest-Cover-Art.jpg",
+        "Halcyon Digest",
+        "Deerhunter",
+        "Neo-Psychedelia, Indie Rock, Dream Pop, Psychedelic Pop",
+        "2010",
+        "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ?si=-Z2WhjLbQY-W1szZnzzSvQ",
+        "https://tidal.com/browse/album/4489494?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/bce9093b43d5e93fb8976046b616c515/3045341/mgmt-congratulations-Cover-Art.jpg",
+        "Congratulations",
+        "MGMT",
+        "Psychedelic Pop, Neo-Psychedelia, Progressive Pop, Indie Surf",
+        "2010",
+        "https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL?si=a__xjv30TRKrx9nrzpITfg",
+        "https://tidal.com/browse/album/3553722?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/43030a03aa77a618624e4ea1341144b1/9400266/caribou-swim-Cover-Art.jpg",
+        "Swim",
+        "Caribou",
+        "Indietronica, Microhouse, Neo-Psychedelia",
+        "2010",
+        "https://open.spotify.com/album/1lL2AaLIWqdM0UArMxAPkp?si=M32KTuAoSL-lirhvwigxfQ",
+        "https://tidal.com/browse/album/334913585?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/8a19a3423af6138060652d984cd11364/10190917/two-door-cinema-club-tourist-history-Cover-Art.jpg",
+        "Tourist History",
+        "Two Door Cinema Club",
+        "Indie Pop, New Rave, Post-Punk Revival, Dance-Punk",
+        "2010",
+        "https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6?si=ngNfFASER1Czmget1HvRZQ",
+        "https://tidal.com/browse/album/21410883?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/04a7e24ff19a1983f9309e760f8dc096/2934309/titus-andronicus-the-monitor-Cover-Art.jpg",
+        "The Monitor",
+        "Titus Andronicus",
+        "Indie Rock, Punk Rock, Heartland Rock, Folk Punk",
+        "2010",
+        "https://open.spotify.com/album/4U9WLOC31iDcQ4gg5yUUEp?si=FOowhetlS-aPWVqEnTPKTw",
+        "https://tidal.com/browse/album/58085055?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/20ea174590690c433a4e834d0b17d831/3415510/wavves-king-of-the-beach-Cover-Art.jpg",
+        "King of the Beach",
+        "Wavves",
+        "Indie Surf, Surf Punk, Indie Rock, Noise Pop",
+        "2010",
+        "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d?si=Q2Y4bb4QTqixFl8ob3VAYQ",
+        "https://tidal.com/browse/album/67327747?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/aa69cbc4610a99710237e36d8c240bc8/3817143/wild-nothing-gemini-Cover-Art.jpg",
+        "Gemini",
+        "Wild Nothing",
+        "Dream Pop, Indie Pop, Bedroom Pop, Jangle Pop",
+        "2010",
+        "https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W?si=qAkM5Ln-SdCTzyShlhpCHA",
+        "https://tidal.com/browse/album/19226309?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/24ab44614621a1514475a9f460cfb92b/3283683/warpaint-the-fool-Cover-Art.jpg",
+        "The Fool",
+        "Warpaint",
+        "Dream Pop, Neo-Psychedelia, Psychedelic Pop",
+        "2010",
+        "https://open.spotify.com/album/0LPG794RWaeYuDRVJtJYat?si=9IT9r2sGQmqmwAIh2tPgzA",
+        "https://tidal.com/browse/album/4725067?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/00095a133008674be9867ea4594f2cf3/2880243/yeasayer-odd-blood-Cover-Art.jpg",
+        "Odd Blood",
+        "Yeasayer",
+        "Psychedelic Pop, Neo-Psychedelia, Indietronica, Synthpop",
+        "2010",
+        "https://open.spotify.com/album/3yfOxXDy6AbOduHoo1653D?si=oZWHk-jVTL63JcWm1LXzaQ",
+        "https://tidal.com/browse/album/22663141?u"
    ]
 ];
 
