@@ -1539,15 +1539,6 @@ let albums = [
         "https://tidal.com/browse/album/141361297?u"
     ],
     [
-        "https://e.snmc.io/i/600/w/407df71cb366c2e3be46341f0b4ec855/8668858/playboi-carti-whole-lotta-red-Cover-Art.jpg",
-        "Whole Lotta Red",
-        "Playboi Carti",
-        "Rage, Trap, Southern Hip Hop, Cloud Rap",
-        "2020",
-        "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR?si=17-zKM6pTfqGeAP9Lqkl7Q",
-        "https://tidal.com/browse/album/168462243?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/6ab784adde69d6ded45d5e3e1fc9199c/9569779/the-strokes-the-new-abnormal-Cover-Art.jpg",
         "The New Abnormal",
         "The Strokes",
@@ -3843,15 +3834,6 @@ let albums = [
         "https://tidal.com/browse/album/146573493?u"
    ],
    [
-        "https://e.snmc.io/i/600/w/fd5ee79374bbd78a1104977f75bad25c/5247406/swans-to-be-kind-Cover-Art.jpg",
-        "To Be Kind",
-        "Swans",
-        "Experimental Rock, Post-Rock, Noise Rock, Drone",
-        "2014",
-        "https://open.spotify.com/album/1WwiyWxa40PKucRxIKlEVM?si=2kPySKSzSoybZvPIEbwA7A",
-        "https://tidal.com/browse/album/28384190?u"
-   ],
-   [
         "https://e.snmc.io/i/600/w/b25cee0bdd3bd56a4ac01e1fff7e9074/5263249/alvvays-alvvays-Cover-Art.jpg",
         "Alvvays",
         "Alvvays",
@@ -4255,15 +4237,6 @@ let albums = [
         "2013",
         "https://open.spotify.com/album/5ZsqAOPB7VqSgI4PNK7g80?si=rfD3z4cFSbqcd1aWssDDIw",
         "https://tidal.com/browse/album/332401072?u"
-   ],
-   [
-        "https://e.snmc.io/i/600/w/deddfd8a7f5ccb94799c43eaf79728af/11410589/kendrick-lamar-good-kid-m_a_a_d-city-Cover-Art.jpg",
-        "good kid, m.A.A.d city",
-        "Kendrick Lamar",
-        "West Coast Hip Hop, Conscious Hip Hop, Hardcore Hip Hop, Pop Rap",
-        "2012",
-        "https://open.spotify.com/album/0Oq3mWfexhsjUh0aNNBB5u?si=5585mYVwTkmZW9kwcNulKg",
-        "https://tidal.com/browse/album/20556777?u"
    ],
    [
         "https://e.snmc.io/i/600/w/373f28e0680d626a560275d0a038aece/10950051/tame-impala-lonerism-Cover-Art.jpg",
@@ -4687,6 +4660,528 @@ let albums = [
         "2010",
         "https://open.spotify.com/album/3yfOxXDy6AbOduHoo1653D?si=oZWHk-jVTL63JcWm1LXzaQ",
         "https://tidal.com/browse/album/22663141?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/73586a8fe2323e5e5c1c5cf49dcb03ea/8585493/surfer-blood-astro-coast-Cover-Art.jpg",
+        "Astro Coast",
+        "Surfer Blood",
+        "Indie Rock, Indie Surf, Indie Pop, Surf Rock",
+        "2010",
+        "https://open.spotify.com/album/62G9kmLUjDoqkYBsPHwp42?si=NEFbIl1jQmm-N8OpsLk3WQ",
+        "https://tidal.com/browse/album/119127587?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/9fb594a131b18b8ebdefe723272707af/2932431/hot-chip-one-life-stand-Cover-Art.jpg",
+        "One Life Stand",
+        "Hot Chip",
+        "Indietronica, Synthpop, Electropop, Alternative Dance",
+        "2010",
+        "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc?si=rzqA2gSoQj6DY5O_wJs-Aw",
+        "https://tidal.com/browse/album/75423894?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/9cd6e1322f4f50fb7a4a02742a9d9cf7/5450281/future-islands-in-evening-air-Cover-Art.jpg",
+        "In Evening Air",
+        "Future Islands",
+        "Synthpop, Indietronica, Indie Rock, Post-Punk",
+        "2010",
+        "https://open.spotify.com/album/0bVZZUftetJmkK0Ms8S6Z0?si=FRDRXoRATq-svOFZNDNtvg",
+        "https://tidal.com/browse/album/279504033?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/41f5f7fb0258b6fa422ab03fa87ee633/8980263/animal-collective-merriweather-post-pavilion-Cover-Art.png",
+        "Merriweather Post Pavilion",
+        "Animal Collective",
+        "Psychedelic Pop, Neo-Psychedelia, Indietronica, Electronic",
+        "2009",
+        "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq?si=4o8fMepGTL2pxQpZdvAEOw",
+        "https://tidal.com/browse/album/14287264?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/041e6dbd7d2aa74f7b39bd7de274f015/3927324/sweet-trip-you-will-never-know-why-Cover-Art.png",
+        "You Will Never Know Why",
+        "Sweet Trip",
+        "Indie Pop, Dream Pop, Indie Rock, Indietronica",
+        "2009",
+        "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M?si=SHdVKv41RhCXQMeRWSzi4A",
+        "https://tidal.com/browse/album/6027805?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/221dfc8f703ac960a0ba6172b26e99ac/11557705/kid-cudi-man-on-the-moon-the-end-of-day-Cover-Art.jpg",
+        "Man on the Moon: The End of Day",
+        "Kid Cudi",
+        "Pop Rap, Synthpop, Art Pop, Emo Rap",
+        "2009",
+        "https://open.spotify.com/album/1OnCqi7IuzjnrOh2ZNvJHd?si=UW9vC4V7SG2fmWz6A1pcYg",
+        "https://tidal.com/browse/album/3076529?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/1ccda29dc56cda7c12979de74dbcb852/6214934/the-antlers-hospice-Cover-Art.jpg",
+        "Hospice",
+        "The Antlers",
+        "Indie Rock, Slowcore, Post-Rock, Dream Pop",
+        "2009",
+        "https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD?si=b7H_6_iqTjilbPLOPoJU-Q",
+        "https://tidal.com/browse/album/3105742?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/35409ec4de67684a4538a7b27e40a6c5/2733260/the-xx-xx-Cover-Art.jpg",
+        "xx",
+        "The xx",
+        "Indie Pop, Alt-Pop, Dream Pop, Indietronica",
+        "2009",
+        "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG?si=11N0D1glQN6VcLVoNRvVnw",
+        "https://tidal.com/browse/album/3044559?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/3885f0078f97b59ae753bd68d75c35fd/7738606/arctic-monkeys-humbug-Cover-Art.jpg",
+        "Humbug",
+        "Arctic Monkeys",
+        "Indie Rock, Psychedelic Rock, Post-Punk Revival, Stoner Rock",
+        "2009",
+        "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2?si=CBg2NIflScaScb8alKuJpw",
+        "https://tidal.com/browse/album/3745920?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/6b58473ce3a05f17ece0ff0e48e0becb/5858281/doom-born-like-this-Cover-Art.jpg",
+        "Born Like These",
+        "DOOM",
+        "East Coast Hip Hop, Abstract Hip Hop, Hardcore Hip Hop, Jazz Rap",
+        "2009",
+        "https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O?si=XEfBiBwtSGCf60P44WvnVw",
+        "https://tidal.com/browse/album/210031147?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/79fd4d68cd3e26de10452056b57dc225/7411144/muse-the-resistance-Cover-Art.jpg",
+        "The Resistance",
+        "Muse",
+        "Alternative Rock, Pop Rock, Art Rock, Symphonic Rock",
+        "2009",
+        "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM?si=itqS3jIURWSeKI86aTNCRw",
+        "https://tidal.com/browse/album/3083286?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/dccdbe8e0cc3e27fe74135843e1ff2ea/11434662/grizzly-bear-veckatimest-Cover-Art.jpg",
+        "Veckatimest",
+        "Grizzly Bear",
+        "Psychedelic Folk, Psychedelic Pop, Indie Folk, Chamber Pop",
+        "2009",
+        "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ?si=24fxY61LRxS6fBud_U-qfQ",
+        "https://tidal.com/browse/album/16025570?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/2c2b6b85cb849ed17f1d03cd0e16c01b/10315779/mass-of-the-fermenting-dregs-%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%82%BA%E3%83%A6%E3%82%A2%E3%83%BC%E3%82%BA-world-is-yours-Cover-Art.jpg",
+        "World Is Yours",
+        "MASS OF THE FERMENTING DREGS",
+        "Post-Hardcore, J-Rock, Indie Rock, Noise Rock",
+        "2009",
+        "https://open.spotify.com/album/0nwLNp8Qef1KpnUdXJgEJn?si=gqOCkV10QxymnauMMSVXpA",
+        ""
+   ],
+   [
+        "https://e.snmc.io/i/600/w/1443ea35b6c00edd96ac92e159ec57ad/2594240/phoenix-wolfgang-amadeus-phoenix-Cover-Art.jpg",
+        "Wolfgang Amadeus Phoenix",
+        "Phoenix",
+        "Indie Pop, Post-Punk Revival, Synthpop, New Rave",
+        "2009",
+        "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I?si=J4H9HkC9QSqnd_PSEtaVqw",
+        "https://tidal.com/browse/album/241905970?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/f7fec6228cb772de1cc8dce0d689d6f0/7984151/st-vincent-actor-Cover-Art.jpg",
+        "Actor",
+        "St. Vincent",
+        "Art Pop, Indie Pop, Indie Rock, Neo-Psychedelia",
+        "2009",
+        "https://open.spotify.com/album/6vKUhbJvFvm4TxQymOlM7V?si=HhjAEN7AQkKSCLOVtYLDbg",
+        "https://tidal.com/browse/album/2571800?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/9cb8431a54c449de5d1dc39ae65422fa/2702322/paramore-brand-new-eyes-Cover-Art.jpg",
+        "Brand New Eyes",
+        "Paramore",
+        "Alternative Rock, Pop Punk, Emo-Pop, Power Pop",
+        "2009",
+        "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r?si=aDxChGGKS027NqPcwALnlw",
+        "https://tidal.com/browse/album/3120354?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/bb5023140834d02c6be92c5f39d2b5dd/2537368/fever-ray-fever-ray-Cover-Art.jpg",
+        "Fever Ray",
+        "Fever Ray",
+        "Art Pop, Synthpop, Ambient Pop, Dark Wave",
+        "2009",
+        "https://open.spotify.com/album/0XwEfJMejqTpgalJwtp1CM?si=wwTxB5LdTkOKRKlgRJGSlw",
+        "https://tidal.com/browse/album/21408132?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/2bf51d42b6b76fcd60e10982579aee7a/12126843/the-flaming-lips-embryonic-Cover-Art.jpg",
+        "Embryonic",
+        "The Flaming Lips",
+        "Neo-Psychedelia, Experimental Rock, Space Rock Revival, Space Rock",
+        "2009",
+        "https://open.spotify.com/album/4Gucn0d30QiZSrXrcNVjhk?si=N4lo1DeoQwmXqUssk29-kA",
+        "https://tidal.com/browse/album/71829335?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/f5fcf57e0dbabd442b25c646f7d40225/10388269/florence-the-machine-lungs-Cover-Art.png",
+        "Lungs",
+        "Florence + The Machine",
+        "Art Pop, Indie Pop, Chamber Pop, Alternative Rock",
+        "2009",
+        "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5?si=rFLZRKv9T8Se1hs73PL9ZQ",
+        "https://tidal.com/browse/album/6551570?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/6c50eec7a3d8709c630d02feec370d9c/2588438/dirty-projectors-bitte-orca-Cover-Art.jpg",
+        "Bitte Orca",
+        "Dirty Projectors",
+        "Indie Pop, Art Pop, Progressive Pop, Math Pop",
+        "2009",
+        "https://open.spotify.com/album/2Geg4mwE8z9DO5BSSUoMKz?si=AK1_mOouSO2QgMcwvn2knA",
+        "https://tidal.com/browse/album/14830935?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/407df71cb366c2e3be46341f0b4ec855/8668858/playboi-carti-whole-lotta-red-Cover-Art.jpg",
+        "It's Blitz!",
+        "Yeah Yeah Yeahs",
+        "New Rave, Synthpop, Dance-Punk, Electropop",
+        "2009",
+        "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR?si=O-nfyOHeSN2AJw0Ybzw3qw",
+        "https://tidal.com/browse/album/2488398?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/110e8bde58b268734799dd0b1a7770ad/9111090/fuck-buttons-tarot-sport-Cover-Art.jpg",
+        "Tarot Sport",
+        "Fuck Buttons",
+        "Electronic, Neo-Psychedelia, Minimal Techno, Drone",
+        "2009",
+        "https://open.spotify.com/album/7tilRUU7WANATJdxhMO3p8?si=VVyOeb-tRiCur3nTZ_SwBA",
+        "https://tidal.com/browse/album/4286291?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/d7d1e69ae03126762843c4f9b0619a1e/8792458/sonic-youth-the-eternal-Cover-Art.jpg",
+        "The Eternal",
+        "Sonic Youth",
+        "Alternative Rock, Noise Rock, Indie Rock",
+        "2009",
+        "https://open.spotify.com/album/65BVBy0AK3F7eQj1XShfh1?si=BORDmM4MTPCPjW-IyO5LHg",
+        "https://tidal.com/browse/album/2853665?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/3b236b8a077f66b75f2e4d78f69fd3a0/2696418/neon-indian-psychic-chasms-Cover-Art.jpg",
+        "Psychic Chasms",
+        "Neon Indian",
+        "Chillwave, Synthpop, Psychedelic Pop, Hypnagogic Pop",
+        "2009",
+        "https://open.spotify.com/album/50ONuso3mPjQLNB70Gc64q?si=ypLVQSDwRz6Jc5Up8pjrNw",
+        "https://tidal.com/browse/album/51486243?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/869ae3f0ee89feff7dcc5a5dc17061f5/12210380/girls-album-Cover-Art.jpg",
+        "Album",
+        "Girls",
+        "Indie Pop, Indie Rock, Indie Surf, Jangle Pop",
+        "2009",
+        "https://open.spotify.com/album/3jo1GRqnwVlN23KUgcaCL9?si=3ToH2fMoQ7mLXIkBXiXTWQ",
+        "https://tidal.com/browse/album/307531161?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/0742be3a9768d02e88a79f79e69cb43f/2714596/atlas-sound-logos-Cover-Art.jpg",
+        "Logos",
+        "Atlas Sound",
+        "Psychedelic Pop, Neo-Psychedelia, Dream Pop, Ambient Pop",
+        "2009",
+        "https://open.spotify.com/album/5j6RB5MpNUKWJJ2uxibdJh?si=HRDRJbijR2aiaF4SjQuZPA",
+        "https://tidal.com/browse/album/43652602?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/d0f7920c264c4d778433db0c26ad90e2/10582346/japandroids-post-nothing-Cover-Art.jpg",
+        "Post-Nothing",
+        "Japandroids",
+        "Indie Rock, Noise Rock, Slacker Rock, Garage Punk",
+        "2009",
+        "https://open.spotify.com/album/52Dz3YVss0GF4vwgYWNnO2?si=9AUrNZWfRzqqb-2B8SxWGA",
+        "https://tidal.com/browse/album/256086917?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/83f51bf258e1267436a657daf63e4b45/11892229/depeche-mode-sounds-of-the-universe-Cover-Art.jpg",
+        "Sounds of the Universe",
+        "Depeche Mode",
+        "Synthpop, Darkwave, Electronic, Electro-Industrial",
+        "2009",
+        "https://open.spotify.com/album/2hNLDFRdi1Yz3Qj9kg0QAd?si=WNU_KTaMS0eHLNHZT4nUUw",
+        "https://tidal.com/browse/album/97609419?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/c449586948de06a96d768f652622eea9/2588983/passion-pit-manners-Cover-Art.jpg",
+        "Manners",
+        "Passion Pit",
+        "Indietronica, Indie Pop, Synthpop, Electropop",
+        "2009",
+        "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv?si=NGkLuQS3QH64UzVlQTaXCw",
+        "https://tidal.com/browse/album/3670222?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/1001861baaf42f697940a8b20f94cfbc/9547030/perfume-%E2%8A%BF-triangle-Cover-Art.jpg",
+        "⊿ (Triangle)",
+        "Perfume",
+        "J-Pop, Electropop, Dance-Pop, Electro House",
+        "2009",
+        "https://open.spotify.com/album/79CDvmQOwJBEpd6gL6zgN9?si=yXSOraQNTNaPEGMUnorjRQ",
+        "https://tidal.com/browse/album/35830325?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/25095cb24962c1320838aa96664bfaa4/7739545/metric-fantasies-Cover-Art.jpg",
+        "Fantasies",
+        "Metric",
+        "Indie Rock, Post-Punk Revival, Synthpop, Indie Pop",
+        "2009",
+        "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH?si=jw9lUOEkRSWsDe47ulX3aQ",
+        "https://tidal.com/browse/album/59591909?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/fb082ab66a32c3a963e55bfd0125ab2c/2598181/the-decemberists-the-hazards-of-love-Cover-Art.jpg",
+        "The Hazards of Love",
+        "The Decemberists",
+        "Indie Rock, Rock Opera, Folk Rock, Progressive Folk",
+        "2009",
+        "https://open.spotify.com/album/4iRVmOMBt61ejo0SKNXGWx?si=iAHJ7SjvSj2bNSdQFKRljg",
+        "https://tidal.com/browse/album/2410062?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/cdfac70719df4d54f6d8ef2878ba351e/4744744/dan-deacon-bromst-Cover-Art.jpg",
+        "Bromst",
+        "Dan Deacon",
+        "Indietronica, Neo-Psychedelia, Post-Minimalism, Progressive Pop",
+        "2009",
+        "https://open.spotify.com/album/7ooLr6FcPeLn0J8lM1jdSi?si=Wzp0-k_dQZ6hr_h2aC2a7Q",
+        "https://tidal.com/browse/album/212338508?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/897721fc848290088652ed47d937f777/2756803/la-roux-la-roux-Cover-Art.jpg",
+        "La Roux",
+        "La Roux",
+        "Electropop, Synthpop, Dance-Pop, Bitpop",
+        "2009",
+        "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy?si=2ssNf4usShiw1xbVmMBYoQ",
+        "https://tidal.com/browse/album/3006317?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/c3f51bfe59cf1335eb135f1ba82269b6/2587602/moderat-moderat-Cover-Art.jpg",
+        "Moderat",
+        "Moderat",
+        "Electronic Dance Music, IDM, 2-Step, Techno",
+        "2009",
+        "https://open.spotify.com/album/2HEh23ogCT3wiYfag2iMxD?si=_qJOdkPrQyCtu9ePm3RLGg",
+        "https://tidal.com/browse/album/87387741?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/dafa0a2fac12f7735b419af8cd999fc9/2848762/wild-beasts-two-dancers-Cover-Art.jpg",
+        "Two Dancers",
+        "Wild Beasts",
+        "Indie Rock, Indie Pop, Art Pop, Post-Punk",
+        "2009",
+        "https://open.spotify.com/album/3bpCJ1p0WG3XmIybQi8EJb?si=Fcs-cE5QRk2omIVieZ63qw",
+        "https://tidal.com/browse/album/3745980?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/eab42bc0adf61ef2ca2bf815e07f841b/2721927/fun-aim-and-ignite-Cover-Art.jpg",
+        "Aim and Ignite",
+        "fun.",
+        "Indie Pop, Power Pop, Chamber Pop, Progressive Pop",
+        "2009",
+        "https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI?si=Q3SZRryxTTK3a3es8aomfg",
+        "https://tidal.com/browse/album/210294301?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/4131b11f30d8e58ace7153b8c0af6e16/10763069/yo-la-tengo-popular-songs-Cover-Art.jpg",
+        "Popular Songs",
+        "Yo La Tengo",
+        "Indie Rock, Indie Pop, Dream Pop, Noise Pop",
+        "2009",
+        "https://open.spotify.com/album/20od2Wb9d393Pnp9cScsML?si=BiK_C3OmQHiaJ0IM16ouLA",
+        "https://tidal.com/browse/album/3083212?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/4188a1aa29706e7952d8c1a81dd65ad2/8949839/real-estate-real-estate-Cover-Art.jpg",
+        "Real Estate",
+        "Real Estate",
+        "Indie Rock, Indie Surf, Slacker Rock, Dream Pop",
+        "2009",
+        "https://open.spotify.com/album/0vEt6UkpYZOpKxVO7H7j9Y?si=-jWqNzQUTg2Urss3CA7_Uw",
+        "https://tidal.com/browse/album/25885821?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/159b092fdfac1884b5ec29a3e32cfb21/2753622/julian-casablancas-phrazes-for-the-young-Cover-Art.jpg",
+        "Phrazes for the Young",
+        "Julian Casablancas",
+        "Alternative Dance, Alternative Rock, Synthpop, Electropop",
+        "2009",
+        "https://open.spotify.com/album/4rP54hT8fzDosnCtzQyBRF?si=f14oEuLmQ36I1N4d_dulBw",
+        "https://tidal.com/browse/album/3147855?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/8c4bf8bac227fe1776b3445cf92d7e0e/8141239/silversun-pickups-swoon-Cover-Art.jpg",
+        "Swoon",
+        "Silversun Pickups",
+        "Indie Rock, Alternative Rock, Shoegaze, Noise Pop",
+        "2009",
+        "https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX?si=75zzlHfRT2-7yBgTRVgz0Q",
+        "https://tidal.com/browse/album/39601903?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/1117095910290fa105ed5526dea33951/12085843/andrew-bird-noble-beast-Cover-Art.jpg",
+        "Noble Beast",
+        "Andrew Bird",
+        "Chamber Pop, Folk Rock, Folk Pop, Indie Folk",
+        "2009",
+        "https://open.spotify.com/album/6mBVlPWGqKYGGTVsSxPWPW?si=4tNHeoMuS0GQyWdBFRpNCw",
+        "https://tidal.com/browse/album/67328095?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/90dd0c741f613840118f6711fea273d7/5300375/memory-tapes-seek-magic-Cover-Art.jpg",
+        "Seek Magic",
+        "Memory Tapes",
+        "Chillwave, Indietronica, Synthpop, Balearic Beat",
+        "2009",
+        "https://open.spotify.com/album/56Bg8hp8OHNj83CXKSUXtI?si=Koi02XvzSIG2GQaFlkQn2A",
+        ""
+   ],
+   [
+        "https://e.snmc.io/i/600/w/f55acfcd807eddba3b725bbe85fc4f2a/8873094/candy-claws-in-the-dream-of-the-sea-life-Cover-Art.jpg",
+        "In the Dream of the Sea Life",
+        "Candy Claws",
+        "Dream Pop, Neo-Psychedelia, Shoegaze, Psychedelic Pop",
+        "2009",
+        "https://open.spotify.com/album/1o5sXLdbEhER2RaLruNPJ3?si=cBLd-3XtQvqIgw5Cr1AVUg",
+        "https://tidal.com/browse/album/46307534?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/460fba13b2f3b50881d3f7821d4ffa33/2681861/portugal-the-man-the-satanic-satanist-Cover-Art.jpg",
+        "The Satanic Satanist",
+        "Portugal. The Man",
+        "Indie Rock, Indie Pop, Psychedelic Pop, Psychedelic Rock",
+        "2009",
+        "https://open.spotify.com/album/72uoxpSaDs7keunx3LbvrX?si=oJ5M5WTuQPSUGhP6ktYpFg",
+        "https://tidal.com/browse/album/159872405?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/671d16dfcebde09716d25b15ab01b075/2573534/manchester-orchestra-mean-everything-to-nothing-Cover-Art.jpg",
+        "Mean Everything to Nothing",
+        "Manchester Orchestra",
+        "Indie Rock, Alternative Rock, Post-Hardcore",
+        "2009",
+        "https://open.spotify.com/album/5piFSrg34mjWz2mprT1a4s?si=2qd5Rsf4T56qZEfSbEfbxg",
+        "https://tidal.com/browse/album/2542750?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/ffcc30680354b6c2879dc7eb739839da/2684681/bombay-bicycle-club-i-had-the-blues-but-i-shook-them-loose-Cover-Art.jpg",
+        "I Had the Blues but I Shook Them Loose",
+        "Bombay Bicycle Club",
+        "Post-Punk Revival, Indie Rock, Indie Pop",
+        "2009",
+        "https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a?si=WzSYPKC6SuKWyukvEow-5Q",
+        "https://tidal.com/browse/album/2937539?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/eeed6201ba3b1a50d7f1200669ab2f4b/10961486/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E-sheena-ringo-%E4%B8%89%E6%96%87%E3%82%B4%E3%82%B7%E3%83%83%E3%83%97-sanmon-gossip-Cover-Art.jpg",
+        "Sanmon gossip",
+        "Sheena Ringo",
+        "Jazz Pop, Art Pop, J-Pop, Acid Jazz, Art Rock",
+        "2009",
+        "https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm?si=K3dR_42bSTGh0uZx7zpLZQ",
+        "https://tidal.com/browse/album/89142349?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/c48685fff80379a282806b6299e230df/2610417/pet-shop-boys-yes-Cover-Art.jpg",
+        "Yes",
+        "Pet Shop Boys",
+        "Synthpop, Dance-Pop, Euro-Disco",
+        "2009",
+        "https://open.spotify.com/album/1GIu3azQ9odqyZNocHTcq0?si=cqxwGqW8R1O6iVU0wWgkAw",
+        "https://tidal.com/browse/album/248369328?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/7f0283817a55333f007ce117682f9dea/2643255/we-were-promised-jetpacks-these-four-walls-Cover-Art.jpg",
+        "These Four Walls",
+        "We Were Promised Jetpacks",
+        "Post-Punk Revival, Indie Rock, Post-Rock",
+        "2009",
+        "https://open.spotify.com/album/2AAC54hhi2XzPvIk7IWpgg?si=PxWjvE89RiSw7FTufsraMg",
+        "https://tidal.com/browse/album/129343892?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/9ecf707d7536650833389016cef82631/5677659/gustavo-cerati-fuerza-natural-Cover-Art.jpg",
+        "Fuerza natural",
+        "Gustavo Cerati",
+        "Pop Rock, Alternative Rock, Alt-Country, Folk Rock",
+        "2009",
+        "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8?si=Wj-SswA5T6udqRldO-zELQ",
+        "https://tidal.com/browse/album/85811647?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/c7f24190905a8ec1694b8761ba960e3e/2697901/the-temper-trap-conditions-Cover-Art.jpg",
+        "Conditions",
+        "The Temper Trap",
+        "Indie Rock, Indie Pop, Post-Punk Revival",
+        "2009",
+        "https://open.spotify.com/album/6p9eMHBHyvHDGK1WIerBfh?si=PYJV4NkaSkmGHhjTV22NeA",
+        "https://tidal.com/browse/album/94225467?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/6a5b615e413c98130fc3b9f578f3f835/5577498/desire-ii-Cover-Art.jpg",
+        "II",
+        "Desire",
+        "Synthpop, Synthwave, Italo-Disco, Dream Pop",
+        "2009",
+        "https://open.spotify.com/album/02TMQZnfoemtwNM0pojOWn?si=BP5WcdqbSw2FWzFGhtcBNQ",
+        "https://tidal.com/browse/album/131334287?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/d4cbcea56fa0b96a4ad41076036f5df7/6492053/miike-snow-miike-snow-Cover-Art.jpg",
+        "Miike Snow",
+        "Miike Snow",
+        "Electropop, Indietronica, Synthpop, Indie Pop",
+        "2009",
+        "https://open.spotify.com/album/1AMTbO4k2kPRAn6udg9qJz?si=n1p3W_t8QLOc0VeTfPMDcA",
+        "https://tidal.com/browse/album/2858037?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/d02e1791d612fd731e13cdb12e3f4b6c/2740745/imogen-heap-ellipse-Cover-Art.jpg",
+        "Ellipse",
+        "Imogen Heap",
+        "Art Pop, Downtempo, Indietronica, Chamber Pop",
+        "2009",
+        "https://open.spotify.com/album/1H8velOQ9zUFqpuQPd2bkO?si=OjWJqD69Tluafc9InLCUTA",
+        "https://tidal.com/browse/album/3058467?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/67f91dc6b9a2487e354f6fb3f6c4445d/4049066/discovery-lp-Cover-Art.jpg",
+        "LP",
+        "Discovery",
+        "Electropop, Indietronica, Chillwave, Electroclash",
+        "2009",
+        "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv?si=xD2RWVqMQISmHZ7JLhsmLQ",
+        "https://tidal.com/browse/album/223181611?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/699f09b9a2ce71afdcf2d6debdf7d9a0/2713642/circulatory-system-signal-morning-Cover-Art.jpg",
+        "Signal Morning",
+        "Circulatory System",
+        "Neo-Psychedelia, Psychedelic Pop, Noise Pop, Psychedelic Folk",
+        "2009",
+        "https://open.spotify.com/album/2dVwgcJbEwtbBGNnccghXm?si=3dgoAMNMQlyKdgTKnVXsRA",
+        "https://tidal.com/browse/album/130908814?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/5ea7706756b3da814ff3de9ca0dc26c0/2614250/utada-this-is-the-one-Cover-Art.jpg",
+        "This Is the One",
+        "[Hikaru] Utada",
+        "Contemporary R&B, Pop, J-Pop, Dance-Pop",
+        "2009",
+        "https://open.spotify.com/album/7Ge7JPRjK38Ohb8nHcUuSZ?si=DAcVZDK9Sp6Ls4zBkXRobg",
+        "https://tidal.com/browse/album/108091039?u"
    ]
 ];
 
