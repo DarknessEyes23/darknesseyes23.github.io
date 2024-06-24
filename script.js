@@ -2376,15 +2376,6 @@ let albums = [
         ""
     ],
     [
-        "https://e.snmc.io/i/600/w/f626f32f9ebc086dcacc1bc5b7d21ecb/7904069/potsu-ivy-league-Cover-Art.jpg",
-        "Ivy League",
-        "potsu",
-        "Nu Jazz, Lo-Fi Hip Hop, Instrumental Hip Hop, Cool Jazz",
-        "2019",
-        "https://open.spotify.com/album/1LBB5TSN1liTmK8ArWXptA?si=KVAOrPZUTZaqzADF0faHIw",
-        "https://tidal.com/browse/album/104192522?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/8c861be7c9327cf6ec69ddb595a3082a/9277515/daria-zawialow-helsinki-Cover-Art.jpg",
         "Helsinki",
         "Daria Zawiałow",
@@ -3472,15 +3463,6 @@ let albums = [
         "2016",
         "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh?si=O9A4JV2qSXOCwecLJYKb-Q",
         "https://tidal.com/browse/album/228796512?u"
-   ],
-   [
-        "https://e.snmc.io/i/600/w/555ac0bfd1facfaf71d34fae885289de/8587908/mild-high-club-skiptracing-Cover-Art.jpg",
-        "Skiptracing",
-        "Mild High Club",
-        "Psychedelic Pop, Neo-Psychedelia, Bedroom Pop, Hypnagogic Pop",
-        "2016",
-        "https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN?si=qc4gT9Z5QGKfqkURucgTOA",
-        "https://tidal.com/browse/album/185778201?u"
    ],
    [
         "https://e.snmc.io/i/600/w/74b25d06470b290f5d8cb72b6e37a27e/5890567/diiv-is-the-is-are-Cover-Art.jpg",
@@ -4833,7 +4815,7 @@ let albums = [
         "https://tidal.com/browse/album/14830935?u"
    ],
    [
-        "https://e.snmc.io/i/600/w/407df71cb366c2e3be46341f0b4ec855/8668858/playboi-carti-whole-lotta-red-Cover-Art.jpg",
+        "https://e.snmc.io/i/600/w/846af3ceb38ab701678ac08b9bfec229/8970701/yeah-yeah-yeahs-its-blitz-Cover-Art.jpg",
         "It's Blitz!",
         "Yeah Yeah Yeahs",
         "New Rave, Synthpop, Dance-Punk, Electropop",
@@ -5560,6 +5542,321 @@ let albums = [
         "2008",
         "https://open.spotify.com/album/1OV47MNnGI1WN0OGQX7R0A?si=LabyD_n3RrqV-NGk-4Br-Q",
         "https://tidal.com/browse/album/2014165?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/de7929fe8f53dcada921d610afeecfef/11635024/radiohead-in-rainbows-Cover-Art.jpg",
+        "In Rainbows",
+        "Radiohead",
+        "Art Rock, Alternative Rock, Electronic, Dream Pop",
+        "2007",
+        "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK?si=ebrX38PXRHKycavEP_IGmA",
+        "https://tidal.com/browse/album/61799588?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/424583de90f7fc6efd715e40a23169e9/8649002/lcd-soundsystem-sound-of-silver-Cover-Art.jpg",
+        "Sound of Silver",
+        "LCD Soundsystem",
+        "Dance-Punk, Indietronica, Alternative Dance, New Rave",
+        "2007",
+        "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X?si=_GspHMlAQU-4DnWlcHKTkA",
+        "https://tidal.com/browse/album/141254?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/3421c4b6977ff9e7ab0babd8ac1c354b/8917617/animal-collective-strawberry-jam-Cover-Art.png",
+        "Strawberry Jam",
+        "Animal Collective",
+        "Neo-Psychedelia, Psychedelic Pop, Electronic, Noise Pop",
+        "2007",
+        "https://open.spotify.com/album/4TyyZazCkju7vwioaV1KyE?si=bkTSxvfMRYKkiJ9d9M6V8g",
+        "https://tidal.com/browse/album/14287280?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/54211bac1365ac37a363bdf657cb392a/3312348/arcade-fire-neon-bible-Cover-Art.jpg",
+        "Neon Bible",
+        "Arcade Fire",
+        "Indie Rock, Art Rock, Chamber Pop, Post-Punk",
+        "2007",
+        "https://open.spotify.com/album/4GT6uZod4p5RiDMOVHOMme?si=sY2KIupZRZuqtrFpaKXGyw",
+        "https://tidal.com/browse/album/75563923?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/229fcdf291cfe650b39c333a3b46e4d4/1870220/arctic-monkeys-favourite-worst-nightmare-Cover-Art.jpg",
+        "Favourite Worst Nightmare",
+        "Arctic Monkeys",
+        "Indie Rock, Post-Punk Revival, Garage Rock Revival, Dance-Punk",
+        "2007",
+        "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm?si=mTL0B9EBQCKT-Y4kENbmQQ",
+        "https://tidal.com/browse/album/14831202?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/f2ffa5d370fe8a759a080aa35c8048b0/3162466/justice-%E2%80%A0-cross-Cover-Art.jpg",
+        "†",
+        "Justice",
+        "French Electro, Electro House, French House, Electro-Industrial",
+        "2007",
+        "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL?si=Umnw9eFeSsmG7vQPLdnK2A",
+        "https://tidal.com/browse/album/43421707?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/6b6d6dada873d7e99c6f96243ea2b90a/5725428/panda-bear-person-pitch-Cover-Art.jpg",
+        "Person Pitch",
+        "Panda Bear",
+        "Psychedelic Pop, Neo-Psychedelia, Progressive Pop, Sunshine Pop",
+        "2007",
+        "https://open.spotify.com/album/64TDaAbxgO0TmKZrIavdLg?si=F_bu0lOWQ5KpuXEPsNIcqg",
+        "https://tidal.com/browse/album/40206448?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/ed794f2005a7c1ccfa8f7b3fb3167d0a/7919865/of-montreal-hissing-fauna-are-you-the-destroyer-Cover-Art.jpg",
+        "Hissing Fauna, Are You the Destroyer?",
+        "of Montreal",
+        "Psychedelic Pop, Indie Pop, Neo-Psychedelia, Indietronica",
+        "2007",
+        "https://open.spotify.com/album/15Fb7HPHdy42No0l9KnXAZ?si=bzUjNIw2Q46BN__M38ndCg",
+        "https://tidal.com/browse/album/256078283?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/031c5066759cab2b82e46ec898059997/2140385/paramore-riot-Cover-Art.jpg",
+        "Riot!",
+        "Paramore",
+        "Pop Punk, Alternative Rock, Emo-Pop, Power Pop",
+        "2007",
+        "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ?si=S-7BbN8ATjOlj7gn2JMysw",
+        "https://tidal.com/browse/album/3400965?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/13f969c89f48837e464772430289a327/8729182/modest-mouse-we-were-dead-before-the-ship-even-sank-Cover-Art.jpg",
+        "We Were Dead Before the Ship Even Sank",
+        "Modest Mouse",
+        "Indie Rock, Post-Punk Revival, Indie Pop",
+        "2007",
+        "https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz?si=Uxu5jTX3SRK7cCezUXGc_g",
+        "https://tidal.com/browse/album/565174?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/650fd06189db4d3e212904ef7fa67a06/8212502/spoon-ga-ga-ga-ga-ga-Cover-Art.jpg",
+        "Ga Ga Ga Ga Ga",
+        "Spoon",
+        "Indie Rock, Indie Pop, Pop Rock, Garage Rock Revival",
+        "2007",
+        "https://open.spotify.com/album/477gzTVWjJWGc7kFTvzwma?si=e2YBLdoiQ9Sy96MYFx339g",
+        "https://tidal.com/browse/album/79685330?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/bc414fbe570fe930218fcea77c73beb9/9132811/the-shins-wincing-the-night-away-Cover-Art.jpg",
+        "Wincing the Night Away",
+        "The Shins",
+        "Indie Pop, Psychedelic Pop, Indie Rock, Neo-Psychedelia",
+        "2007",
+        "https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr?si=ya_K6yT3Rdypi-soXJ_tYw",
+        "https://tidal.com/browse/album/371813?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/d1f3f92666bfadad56f52ad8df789d3c/2406018/deerhunter-cryptograms-Cover-Art.jpg",
+        "Cryptograms",
+        "Deerhunter",
+        "Neo-Psychedelia, Experimental Rock, Indie Rock, Post-Rock",
+        "2007",
+        "https://open.spotify.com/album/7BbHXG8AmJNQ0w3hE6dU4q?si=dtMqmctuQj-_lnkHvve4DA",
+        "https://tidal.com/browse/album/18057115?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/7eda6f5d4e244aa14ac7fc28f331f1a9/9540835/blonde-redhead-23-Cover-Art.jpg",
+        "23",
+        "Blonde Redhead",
+        "Dream Pop, Indie Rock, Shoegaze, Art Rock",
+        "2007",
+        "https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO?si=_Cj_UBt_SX-Op4GM1evpOQ",
+        "https://tidal.com/browse/album/2209954?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/848612c042e5e6bae7a90ec224403553/8978635/bloc-party-a-weekend-in-the-city-Cover-Art.jpg",
+        "A Weekend in the City",
+        "Bloc Party",
+        "Post-Punk Revival, Indie Rock, Dream Pop, New Rave",
+        "2007",
+        "https://open.spotify.com/album/5PkAUwhhB5YGgwnvhy4AC7?si=j2V0zX4hT0GvTS8npcK1EA",
+        "https://tidal.com/browse/album/47357291?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/a89a5f092aca71d92cfabf2044477ce6/2249505/iron-and-wine-the-shepherds-dog-Cover-Art.jpg",
+        "The Shepherd's Dog",
+        "Iron and Wine",
+        "Indie Folk, Contemporary Folk, Americana, Psychedelic Folk",
+        "2007",
+        "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX?si=mQbp1OqVQ-SvWXQ92zzIAA",
+        "https://tidal.com/browse/album/1131610?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/66fe00f63fce05ee4e7efd78bbeb0588/1995393/klaxons-myths-of-the-near-future-Cover-Art.jpg",
+        "Myths of the Near Future",
+        "Klaxons",
+        "Dance-Punk, New Rave, Post-Punk Revival, Electroclash",
+        "2007",
+        "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg?si=CkYG6xp-QFmXtZZO9POnjg",
+        "https://tidal.com/browse/album/331999?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/7b770de7d69a90cfe87d535f4f781c6c/9400254/caribou-andorra-Cover-Art.jpg",
+        "Andorra",
+        "Caribou",
+        "Psychedelic Pop, Indietronica, Dream Pop, Neo-Psychedelia",
+        "2007",
+        "https://open.spotify.com/album/5n3825ZA6mFbK0aL42f4jP?si=U18SpRF8TrOnna87NZmqZw",
+        "https://tidal.com/browse/album/334909074?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/b961b8279e8f6a10b93c381fea8e282d/3098087/band-of-horses-cease-to-begin-Cover-Art.png",
+        "Cease to Begin",
+        "Band of Horses",
+        "Indie Rock, Folk Pop, Alt-Country, Folk Rock",
+        "2007",
+        "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ?si=wSGjUShOQpSt985KqHq9vw",
+        "https://tidal.com/browse/album/1182641?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/ad232b7a73c62500f126b510e632372a/1846745/bright-eyes-cassadaga-Cover-Art.jpg",
+        "Cassadaga",
+        "Bright Eyes",
+        "Alt-Country, Indie Folk, Americana",
+        "2007",
+        "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB?si=pTIrqdimTR69H_WfH46ejg",
+        "https://tidal.com/browse/album/182262519?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/186a96f952bf38dc0ea26ad7d750300e/2411689/yeasayer-all-hour-cymbals-Cover-Art.jpg",
+        "All Hour Cymbals",
+        "Yeasayer",
+        "Psychedelic Pop, Neo-Psychedelia, Indie Rock, Psychedelic Folk",
+        "2007",
+        "https://open.spotify.com/album/6mVyKlhq3v2IHeksO38syx?si=5L2P9PBJSTiNFdoMhysYsQ",
+        "https://tidal.com/browse/album/19334796?u"
+   ],
+   [
+        "https://static.asfaltshop.pl/uploads2/photos/big_webp/2020/04/10/20200410124103_main.webp",
+        "Night Drive",
+        "Chromatics",
+        "Synthpop, Synthwave, Dream Pop, Ambient Pop",
+        "2007",
+        "https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy?si=gyhWkZzxT-SrFR5163RsfQ",
+        "https://tidal.com/browse/album/131908990?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/1cfe00e635fb75d8f6aea8abc4d94941/1896688/the-antlers-in-the-attic-of-the-universe-Cover-Art.jpg",
+        "In the Attic of the Universe",
+        "The Antlers",
+        "Indie Folk, Post-Rock",
+        "2007",
+        "https://open.spotify.com/album/0f74i2sAOeMMITf1pnDSiO?si=Q2B0GYQlQB6Ie1gRLEJUtA",
+        ""
+   ],
+   [
+        "https://e.snmc.io/i/600/w/768e55f9cd444d7fd4c0e5a987fed092/11831075/the-new-pornographers-challengers-Cover-Art.jpg",
+        "Challengers",
+        "The New Pornographers",
+        "Indie Pop, Power Pop, Indie Rock, Chamber Pop",
+        "2007",
+        "https://open.spotify.com/album/1BkE9yPh8msnjeLvLS1dC9?si=qbChvQvTRdiLmE3OuR5Nzw",
+        "https://tidal.com/browse/album/2275740?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/421e8f13031f575ed7cc1ba51f365d54/2290811/god-is-an-astronaut-far-from-refuge-Cover-Art.jpg",
+        "Far From Refuge",
+        "God Is An Astronaut",
+        "Post-Rock, Ambient, Electronic",
+        "2007",
+        "https://open.spotify.com/album/75oLHUz0HdATfOIcOdauQ9?si=UZCUPMEnRWSEDkc6Iyqhaw",
+        "https://tidal.com/browse/album/21078224?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/38c8783cf09475b3b43a7d95251ac52a/3544381/the-cinematic-orchestra-ma-fleur-Cover-Art.png",
+        "Ma fleur",
+        "The Cinematic Orchestra",
+        "Downtempo, Nu Jazz, Chamber Pop, Post-Rock",
+        "2007",
+        "https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ?si=f7LIg3gbTLSVA8UY41WUpA",
+        "https://tidal.com/browse/album/6755777?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/c087e5762b4163a0f7da530808e056d0/1890349/travis-the-boy-with-no-name-Cover-Art.jpg",
+        "The Boy With No Name",
+        "Travis",
+        "Pop Rock, Post-Britpop, Soft Rock",
+        "2007",
+        "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR?si=mVEDQohlSHaQBwm6CoIu3Q",
+        "https://tidal.com/browse/album/106823562?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/2389bddb4c3089c7467845047df3bdbd/7778639/they-might-be-giants-the-else-Cover-Art.png",
+        "The Else",
+        "They Might Be Giants",
+        "Indie Pop, Indie Rock, Geek Rock, Alternative Rock",
+        "2007",
+        "https://open.spotify.com/album/76CBBQVQTAFRpr4JRjP9Ah?si=O4R-hQeHT5eH5I6RCcrjQQ",
+        "https://tidal.com/browse/album/128402052?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/19ed2b4e046d1152f62b2182e08571e9/1953228/metric-grow-up-and-blow-away-Cover-Art.jpg",
+        "Grow Up and Blow Away",
+        "Metric",
+        "Indie Pop, Indietronica, Trip Hop, Alternative Dance",
+        "2007",
+        "https://open.spotify.com/album/5eRKZVbRc6cbBURkI3lTJg?si=0ntp4RJmQc2ZWnbCUzjcCw",
+        "https://tidal.com/browse/album/332747270?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/f74e9f922f8bdcbb3cff2f3fe1e8adf0/8958329/pinback-autumn-of-the-seraphs-Cover-Art.jpg",
+        "Autumn of the Seraphs",
+        "Pinback",
+        "Indie Rock, Indie Pop, Post-Punk Revival, Midwest Emo",
+        "2007",
+        "https://open.spotify.com/album/6LbWbQPotO8hd60f5SBt9O?si=bzklZ1YrTH-bAcQM1Kp0Vw",
+        "https://tidal.com/browse/album/61685397?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/05221bec418170d8dc5aa9319d2eccbd/1922537/portugal-the-man-church-mouth-Cover-Art.jpg",
+        "Church Mouth",
+        "Portugal. The Man",
+        "Indie Rock, Neo-Psychedelia, Roots Rock, Psychedelic Rock",
+        "2007",
+        "https://open.spotify.com/album/46KiOIqiscE85WAZhDIkPv?si=KTYjXVUfRxGVcbZ5atT6Cw",
+        "https://tidal.com/browse/album/65097356?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/52b7c03dc201a19b89d58c8a775134b3/1898753/los-planetas-la-leyenda-del-espacio-Cover-Art.jpg",
+        "La leyenda del espacio",
+        "Los Planetas",
+        "Indie Rock, Shoegaze, Flamenco nuevo, Neo-Psychedelia",
+        "2007",
+        "https://open.spotify.com/album/165G43fsCZWFPm6zH1caLN?si=h2P7Ag_LSM2VLmLZ5yYGjQ",
+        "https://tidal.com/browse/album/2816803?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/696c7301da5aa99a99a2d8ac6b2328fe/5245640/radical-face-ghost-Cover-Art.jpg",
+        "Ghost",
+        "Radical Face",
+        "Indie Folk, Folk Pop, Indie Pop, Chamber Pop",
+        "2007",
+        "https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr?si=UWsfndKGQvmsLymWFyq75g",
+        "https://tidal.com/browse/album/89397932?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/85410c9920f8a83d4dbd41122b499a55/11435940/sophie-ellis-bextor-trip-the-light-fantastic-Cover-Art.jpg",
+        "Trip the Light Fantastic",
+        "Sophie Ellis-Bextor",
+        "Dance-Pop, Electropop, Pop Rock, Electro Disco",
+        "2007",
+        "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw?si=NxPYxeLlTBOwhK-obEjZMg",
+        "https://tidal.com/browse/album/34766617?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/41d8abf4c3f6f575063cf6e58aa607f7/1825509/dr-dog-we-all-belong-Cover-Art.jpg",
+        "We All Belong",
+        "Dr. Dog",
+        "Psychedelic Pop, Indie Pop, Indie Rock, Slacker Rock",
+        "2007",
+        "https://open.spotify.com/album/6Z11R1BJBjK6IrqqhRV7iE?si=szNQRTpPSZKUIZFkrO17qQ",
+        "https://tidal.com/browse/album/247004543?u"
    ]
 ];
 
