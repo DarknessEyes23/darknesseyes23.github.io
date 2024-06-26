@@ -1476,15 +1476,6 @@ let albums = [
         "https://tidal.com/browse/album/229727043?u"
     ],
     [
-        "https://e.snmc.io/i/600/w/21b13058b30c809690fd10642769d5f2/9030569/pond-9-Cover-Art.jpg",
-        "9",
-        "Pond",
-        "Neo-Psychedelia, Psychedelic Pop, Alternative Dance, Synthpop",
-        "2021",
-        "https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS?si=FLDYc_9QRNiwLjwcychDfA",
-        "https://tidal.com/browse/album/181550436?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/2a630bcde09eb58485c5664a1576888f/9194946/mild-high-club-going-going-gone-Cover-Art.jpg",
         "Going Going Gone",
         "Mild High Club",
@@ -5857,6 +5848,294 @@ let albums = [
         "2007",
         "https://open.spotify.com/album/6Z11R1BJBjK6IrqqhRV7iE?si=szNQRTpPSZKUIZFkrO17qQ",
         "https://tidal.com/browse/album/247004543?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/7dd653ced429edcd1c363e673f400c5a/7346711/arctic-monkeys-whatever-people-say-i-am-thats-what-im-not-Cover-Art.jpg",
+        "Whatever People Say I Am, That's What I'm Not",
+        "Arctic Monkeys",
+        "Indie Rock, Garage Rock Revival, Post-Punk Revival, Post-Punk Revival",
+        "2006",
+        "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1?si=z_9Ov68XTEKS_Hg5u9RtBA",
+        "https://tidal.com/browse/album/13456784?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/540cd8f09d6a2ed5ec8be9351791799e/6500693/tool-10_000-days-Cover-Art.jpg",
+        "10,000 Days",
+        "TOOL",
+        "Alternative Metal, Progressive Metal, Progressive Rock, Post-Metal",
+        "2006",
+        "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk?si=mECrZRCXSlGjTug-ZWcRFw",
+        "https://tidal.com/browse/album/114331950?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/a721c8c415492185e25c541904d42b59/2165200/muse-black-holes-and-revelations-Cover-Art.jpg",
+        "Black Holes and Revelations",
+        "Muse",
+        "Alternative Rock, Progressive Rock, Pop Rock, Space Rock Revival",
+        "2006",
+        "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs?si=pBtjljGQSyWoNParWRj1EQ",
+        "https://tidal.com/browse/album/2844705?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/17577d2901df0e40ee14cd1d3256daaf/8747486/the-knife-silent-shout-Cover-Art.jpg",
+        "Silent Shout",
+        "The Knife",
+        "Electropop, Synthpop, Minimal Techno, Art Pop",
+        "2006",
+        "https://open.spotify.com/album/1UdCT7t0rfNPu5Bn957U8r?si=Eyqw6HsfQ_KRpPQV8BynBg",
+        "https://tidal.com/browse/album/246026197?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/9993fcf8303c913810ba719a7a7ceed6/2134194/beach-house-beach-house-Cover-Art.jpg",
+        "Beach House",
+        "Beach House",
+        "Dream Pop, Indie Pop, Neo-Psychedelia",
+        "2006",
+        "https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5?si=nAMgPACpR3W6GG-zONu2HA",
+        "https://tidal.com/browse/album/75092999?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/45fc7724d87f76251241e9146261f0b6/11976447/grizzly-bear-yellow-house-Cover-Art.jpg",
+        "Yellow House",
+        "Grizzly Bear",
+        "Psychedelic Folk, Indie Folk, Chamber Folk, Chamber Pop",
+        "2006",
+        "https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta?si=RFEItWKRTHGk_wEhXqYV4g",
+        "https://tidal.com/browse/album/16025713?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/2b61437af6c5da1f035e11f55408e195/12126853/the-flaming-lips-at-war-with-the-mystics-Cover-Art.jpg",
+        "At War with the Mystics",
+        "The Flaming Lips",
+        "Noe-Psychedelia, Progressive Pop, Psychedelic Pop, Space Rock",
+        "2006",
+        "https://open.spotify.com/album/6oVaKzODiXqew6MScEd7T4?si=oqtOY00BQ9ywiN-8uv1m7Q",
+        "https://tidal.com/browse/album/71831043?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/4b7f2b3c35e022b3faf3e71e61ffbc7a/10733935/yeah-yeah-yeahs-show-your-bones-Cover-Art.jpg",
+        "Show Your Bones",
+        "Yeah Yeah Yeahs",
+        "Indie Rock, Alternative Rock, Garage Rock Revival",
+        "2006",
+        "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG?si=aU5kzZ49RHab6z5otLP49Q",
+        "https://tidal.com/browse/album/4035319?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/67f6a86b9114a289c9cd4dbaf1a7598f/8980557/band-of-horses-everything-all-the-time-Cover-Art.jpg",
+        "Everything All the Time",
+        "Band of Horses",
+        "Indie Rock, Alt-Country, Folk Rock, Indie Folk",
+        "2006",
+        "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3?si=L2xXnh7vSIOdr3isp0z3GQ",
+        "https://tidal.com/browse/album/2844994?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/9179d937b033e831340242b93a8b5e59/5916649/gnarls-barkley-st-elsewhere-Cover-Art.jpg",
+        "St. Elsewhere",
+        "Gnarls Barkley",
+        "Neo-Soul, Pop Soul",
+        "2006",
+        "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA?si=C6AFcM0DRjWNk-eN8i9T5Q",
+        "https://tidal.com/browse/album/314699?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/10a7488d6d0dd7bf21096ee0a4301353/1885672/yo-la-tengo-i-am-not-afraid-of-you-and-i-will-beat-your-ass-Cover-Art.jpg",
+        "I Am Not Afraid of You and I Will Beat Your Ass",
+        "Yo La Tengo",
+        "Indie Rock, Indie Pop, Noise Pop, Neo-Psychedelia",
+        "2006",
+        "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL?si=AZ2_6_SITqueUZxme3EAWA",
+        "https://tidal.com/browse/album/2274157?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/3051d3a0f7e62b5c6517618c025f9476/1980130/silversun-pickups-carnavas-Cover-Art.jpg",
+        "Carnavas",
+        "Silversun Pickups",
+        "Indie Rock, Shoegaze, Noise Pop, Dream Pop",
+        "2006",
+        "https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO?si=eHNiFMwDRJmS_MYMgJUhqQ",
+        "https://tidal.com/browse/album/39589084?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/7651be7c9f994f5dc0af6c94c48de10c/6061578/hot-chip-the-warning-Cover-Art.jpg",
+        "The Warning",
+        "Hot Chip",
+        "Indietronica, Electropop, Synthpop, Glitch Pop",
+        "2006",
+        "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS?si=M81t7KmCQ3OtU_z_02uSXg",
+        "https://tidal.com/browse/album/75422864?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/ce3ffbf550df2dba9e3aecfe17cd839f/1604036/phoenix-its-never-been-like-that-Cover-Art.jpg",
+        "It's Never Been Like That",
+        "Phoenix",
+        "Indie Pop, Indie Rock, Post-Punk Revival",
+        "2006",
+        "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV?si=ibLID2-7QBydM9J70mu2KQ",
+        "https://tidal.com/browse/album/74630216?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/6099b4de7f0596c51054a9618d27e19a/1611816/keane-under-the-iron-sea-Cover-Art.jpg",
+        "Under the Iron Sea",
+        "Keane",
+        "Piano Rock, Post-Britpop, Art Rock, Art Pop",
+        "2006",
+        "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa?si=rKCu4X4hT8W9mDnr3aNatA",
+        "https://tidal.com/browse/album/144803186?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/565402425bb2a07e6a18b6b2de9d42c7/1644893/peter-bjorn-and-john-writers-block-Cover-Art.jpg",
+        "Writer's Block",
+        "Peter Bjorn and John",
+        "Indie Pop, Indie Rock, Neo-Psychedelia, Twee Pop",
+        "2006",
+        "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2?si=SKTE2gf0R0KyqQR5OrWLLw",
+        "https://tidal.com/browse/album/2669871?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/7dd0965f2b8b827696eaaa738b9ba2fb/12156839/islands-return-to-the-sea-Cover-Art.jpg",
+        "Return to the Sea",
+        "Islands",
+        "Indie Pop, Chamber Pop, Progressive Pop",
+        "2006",
+        "https://open.spotify.com/album/3q2T1nk4Y76AXeL3IXrh0U?si=Pe_ssFEnTOGURiR-Y-CEwg",
+        "https://tidal.com/browse/album/111555515?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/0b43e2a24948b79b562771f8b1745b4f/1708876/cold-war-kids-robbers-and-cowards-Cover-Art.jpg",
+        "Robbers & Cowards",
+        "Cold War Kids",
+        "Indie Rock, Garage Rock, Blues Rock, Piano Rock",
+        "2006",
+        "https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5?si=sYsT7s46R0aEALwipN7lHg",
+        "https://tidal.com/browse/album/62305982?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/76d9462e0a6c5c00cfd128ac1b87d85b/8972277/guillemots-through-the-windowpane-Cover-Art.jpg",
+        "Through the Windowpane",
+        "Guillemots",
+        "Chamber Pop, Indie Rock, Dream Pop, Indie Pop",
+        "2006",
+        "https://open.spotify.com/album/3orfgyQbm1g32aHaojg0sG?si=2BmfcVexRHyGDBU5PMNZjA",
+        "https://tidal.com/browse/album/141357530?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/195fecaf2747966db9743384846b44aa/7827547/casiotone-for-the-painfully-alone-etiquette-Cover-Art.jpg",
+        "Etiquette",
+        "Casionote for the Painfully Alone",
+        "Indietronica, Indie Pop, Synthpop, Slacker Rock",
+        "2006",
+        "https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi?si=v4yrFSFxR8mflpzW4A31OA",
+        "https://tidal.com/browse/album/83559839?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/60d053478ea20ab49b480f4514c3900f/6683625/the-format-dog-problems-Cover-Art.jpg",
+        "Dog Problems",
+        "The Format",
+        "Indie Pop, Power Pop, Chamber Pop, Progressive Pop",
+        "2006",
+        "https://open.spotify.com/album/5vwXmytOqWBSpKRtNELZSE?si=TuTR-4J3T-emFqEZITH-OQ",
+        "https://tidal.com/browse/album/218757378?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/b2fe7d1e2b5fe84a28dc7f893206d5d3/2590135/ryusenkei-tokyo-sniper-Cover-Art.jpg",
+        "TOKYO SNIPER",
+        "RYUSENKEI",
+        "City Pop, Shibuya-kei, Jazz Pop, Sophisti-Pop",
+        "2006",
+        "https://open.spotify.com/album/7HuoLofdIeVeDPGfDVHTCP?si=ZtFZ48E1SwK69ccQiD2IYQ",
+        "https://tidal.com/browse/album/289923892?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/12a5ae7b23e2bcee775d126446935694/8248910/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB-hikaru-utada-ultra-blue-Cover-Art.png",
+        "ULTRA BLUE",
+        "Hikaru Utada",
+        "J-Pop, Art Pop, Dance-Pop, Contemporary R&B",
+        "2006",
+        "https://open.spotify.com/album/46Al3wrha506cObog8hjDv?si=Ub7xU7i2QWO-ypICWWpa5A",
+        "https://tidal.com/browse/album/100057957?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/32c0379a931569c1399d066af0c8af88/1636819/sparks-hello-young-lovers-Cover-Art.jpg",
+        "Hello Young Lovers",
+        "Sparks",
+        "Art Pop, Chamber Pop, Symphonic Rock, Classical Crossover",
+        "2006",
+        "https://open.spotify.com/album/0LXNUZqfLXGmvcgkyLG0yR?si=eJ74LU4YT12jKMAfZ6KR_A",
+        "https://tidal.com/browse/album/54402587?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/eae96de8921c6e1c6cd3832204b544df/2151733/the-whitest-boy-alive-dreams-Cover-Art.jpg",
+        "Dreams",
+        "The Whitest Boy Alive",
+        "Indie Pop, Jangle Pop, Post-Punk Revival",
+        "2006",
+        "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf?si=x89LKqCSTsy5eyttGyIzLg",
+        "https://tidal.com/browse/album/185038844?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/ac35adf6726c2008b2e4a56115d69612/1579424/stereolab-fab-four-suture-Cover-Art.jpg",
+        "Fab Four Suture",
+        "Stereolab",
+        "Indietronica, Psychedelic Pop, Neo-Psychedelia, Space Age",
+        "2006",
+        "https://open.spotify.com/album/3g7HzMxasq53v69xvyPQQg?si=3GmRlLIdSZudnQdCpnjN3A",
+        "https://tidal.com/browse/album/180114146?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/e5e156e3dcba176765c1f7a96fc54c6f/1699235/gotye-like-drawing-blood-Cover-Art.jpg",
+        "Like Drawing Blood",
+        "Gotye",
+        "Art Pop, Indietronica, Alt-Pop, Trip Hop",
+        "2006",
+        "https://open.spotify.com/album/4LQgvPyluPEP4qWYrwHlQs?si=DhAm-Uh9TM2d7NpSfS_X1Q",
+        "https://tidal.com/browse/album/223603471?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/4b8ccc63e4f22a8453a90eb05a47f81a/1587383/asian-kung-fu-generation-%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96-fanclub-Cover-Art.jpg",
+        "Fanclub",
+        "ASIAN KUNG-FU GENERATION",
+        "Power Pop, J-Rock, Math Pop",
+        "2006",
+        "https://open.spotify.com/album/5oA5jyMLX7pLpYGUwhmjL5?si=DHWZD0eORiu5TJslhoF75Q",
+        "https://tidal.com/browse/album/157608405?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/c0022273c1453abfdbcfac23995f9441/2022656/frightened-rabbit-sing-the-greys-Cover-Art.jpg",
+        "Sing the Greys",
+        "Frightened Rabbit",
+        "Indie Rock, Indie Pop, Indie Folk, Garage Rock Revival",
+        "2006",
+        "https://open.spotify.com/album/5KBvdCXu2lRELGNmum8sUt?si=hseI83P8R8OQfagMc_DV3g",
+        "https://tidal.com/browse/album/129342243?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/179d960c1db195815f0eb07e05011262/1657706/the-automatic-not-accepted-anywhere-Cover-Art.jpg",
+        "Not Accepted Anywhere",
+        "The Automatic",
+        "Indie Rock, Dance-Punk, Post-Punk Revival",
+        "2006",
+        "https://open.spotify.com/album/4GAjTcDqAzIvjarKA715I7?si=QFjS_642SU2miaPcrm2flA",
+        "https://tidal.com/browse/album/217722489?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/14104ee3478828794a93e02e80209ac8/12189096/round-table-featuring-nino-nino-Cover-Art.jpg",
+        "Nino",
+        "Round Table Featuring Nino",
+        "J-Pop, Akishibu-kei, Shibuya-kei, Nu-Disco",
+        "2006",
+        "https://open.spotify.com/album/2MqW6dLQL7bmyz28Qn41xi?si=34WxMWm8Rg-GkI0k_n_pKw",
+        "https://tidal.com/browse/album/350268792?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/c521dd8b685887116d1a7040bc02a6af/3603646/mahogany-connectivity-Cover-Art.png",
+        "Connectivity!",
+        "Mahogany",
+        "Dream Pop, Neo-Psychedelia, Shoegaze, Indietronica",
+        "2006",
+        "https://open.spotify.com/album/1bbOTE9iLIqx7qKPBgX6Zd?si=vefb8BDWR5GdUhJg-eLUVg",
+        "https://tidal.com/browse/album/68048141?u"
    ]
 ];
 
