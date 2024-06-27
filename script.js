@@ -1503,15 +1503,6 @@ let albums = [
         "https://tidal.com/browse/album/195489588?u"
     ],
     [
-        "https://e.snmc.io/i/600/w/9a0df2de34e65a11692537933eea09b1/8793832/syndrom-paryski-male-pokoje-w-duzym-miescie-Cover-Art.jpg",
-        "Małe pokoje w dużym mieście",
-        "Syndrom Paryski",
-        "Indie Rock, Emo-Pop, Post-Punk Revival, Pop Punk",
-        "2021",
-        "https://open.spotify.com/album/33hRM3Fy1iwSZs7wHLxJQk?si=UQjU4Uq5RT-dPxZRv7is-Q",
-        "https://tidal.com/browse/album/175736385?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/b14a47391b8b35d0555d57f4bfd6d925/9079000/delta-sleep-spring-island-Cover-Art.jpg",
         "Spring Island",
         "Delta Sleep",
@@ -3985,15 +3976,6 @@ let albums = [
         "2013",
         "https://open.spotify.com/album/5KkGAZrad4N4rc5FriwgzU?si=3h_b8i07S7Gu0DjmI7mh1A",
         "https://tidal.com/browse/album/69653314?u"
-   ],
-   [
-        "https://e.snmc.io/i/600/w/ee36b1d38b8ccd5bc8b006a593574e0b/4915275/lorde-pure-heroine-Cover-Art.jpg",
-        "Pure Heroine",
-        "Lorde",
-        "Alt-Pop, Synthpop, Alternative R&B, Indietronica",
-        "2013",
-        "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v?si=Tdo37L33RyutyOLnd83jJg",
-        "https://tidal.com/browse/album/77632177?u"
    ],
    [
         "https://e.snmc.io/i/600/w/e606cc33f05ba2a445b2180901349ec7/10466213/childish-gambino-because-the-internet-Cover-Art.png",
