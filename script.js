@@ -2160,15 +2160,6 @@ let albums = [
         "https://tidal.com/browse/album/100786868?u"
     ],
     [
-        "https://e.snmc.io/i/600/w/590537c9782cac55caff0dea8d365863/7673465/deerhunter-why-hasnt-everything-already-disappeared-Cover-Art.jpg",
-        "Why Hasn't Everything Already Disappeared?",
-        "Deerhunter",
-        "Neo-Psychedelia, Indie Rock, Psychedelic Pop, Art Rock",
-        "2019",
-        "https://open.spotify.com/album/6jOYvP4lfjpLTfBZHyTzMM?si=5m82FjX-SQSoAyK0CAf2_A",
-        "https://tidal.com/browse/album/102207995?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/af282747a7fa086cb40fd9be78dc2a95/10092519/diiv-deceiver-Cover-Art.jpg",
         "Deceiver",
         "DIIV",
@@ -6118,7 +6109,745 @@ let albums = [
         "2006",
         "https://open.spotify.com/album/1bbOTE9iLIqx7qKPBgX6Zd?si=vefb8BDWR5GdUhJg-eLUVg",
         "https://tidal.com/browse/album/68048141?u"
-   ]
+   ],
+   [
+        "https://e.snmc.io/i/600/w/0f71ce214c53e6e48a99b8fc62f86dee/6845564/sufjan-stevens-illinois-Cover-Art.jpg",
+        "Illinois",
+        "Sufjan Stevens",
+        "Chamber Pop, Chamber Folk, Progressive Pop, Americana",
+        "2005",
+        "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To?si=zvsG7hEpTOW-mmZeyckLxQ",
+        "https://tidal.com/browse/album/19327275?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/191d6e0524c9bf79695f879abf573de8/2326228/animal-collective-feels-Cover-Art.jpg",
+        "Feels",
+        "Animal Collective",
+        "Neo-Psychedelia, Indie Rock, Freak Folk, Psychedelic Pop",
+        "2005",
+        "https://open.spotify.com/album/21LZ1OSKbxSU5I7QBUalW8?si=ii01gCc_Tl-wdskJHlB1zg",
+        "https://tidal.com/browse/album/120490987?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/874e463c1d2e7e3965341cdcbe06552d/8661405/bloc-party-silent-alarm-Cover-Art.jpg",
+        "Silent Alarm",
+        "Bloc Party",
+        "Post-Punk Revival, Indie Rock, Dance-Punk",
+        "2005",
+        "https://open.spotify.com/album/1VpqO2dBJdAS3YAimXlhEM?si=YRWRBOS3Q1WlR5q7MlGq-Q",
+        "https://tidal.com/browse/album/44580693?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/d9d93884cda5a660a874f6f57622067a/1349593/daft-punk-human-after-all-Cover-Art.jpg",
+        "Human After All",
+        "Daft Punk",
+        "Electroclash, Post-Industrial, Electro-Industrial, Electro House",
+        "2005",
+        "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu?si=D8ED05WYRTSSYxa-9ViMwg",
+        "https://tidal.com/browse/album/154502?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/612aed2cb05348a4d1914a6a06c9eb3e/1526694/coldplay-xandy-Cover-Art.jpg",
+        "X & Y",
+        "Coldplay",
+        "Pop Rock, Post-Britpop, Alternative Rock, Piano Rock",
+        "2005",
+        "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6?si=anzR21hXT_iB0OVFiPR1nA",
+        "https://tidal.com/browse/album/68646764?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/f31c559a5f6c00dd66177883b46c03e7/1399662/lcd-soundsystem-lcd-soundsystem-Cover-Art.jpg",
+        "LCD Soundsystem",
+        "LCD Soundsystem",
+        "Dance-Punk, Indietronica, Alternative Dance, New Rave",
+        "2005",
+        "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL?si=ZJgd3QdsTfO1BczuRhBPrA",
+        "https://tidal.com/browse/album/1413347?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/48682c1c4e3e4639c6970586796598b1/7731164/bright-eyes-im-wide-awake-its-morning-Cover-Art.jpg",
+        "I'm Wide Awake, It's Morning",
+        "Bright Eyes",
+        "Indie Folk, Contemporary Folk, Alt-Country",
+        "2005",
+        "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7?si=j9Hl8UqWRru7vP1Ua9aFFw",
+        "https://tidal.com/browse/album/182262410?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/7f79748f976d413cb2e467c6d16fec95/12188594/the-national-alligator-Cover-Art.jpg",
+        "Alligator",
+        "The National",
+        "Indie Rock, Post-Punk Revival, Chamber Pop",
+        "2005",
+        "https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs?si=4QPPs9-0TT6sEryW22tvDQ",
+        "https://tidal.com/browse/album/49911797?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/297fd762b23a9cb33044152f33f4852f/8697566/dangerdoom-the-mouse-and-the-mask-Cover-Art.png",
+        "The Mouse and the Mask",
+        "DANGERDOOM",
+        "Abstract Hip Hop, East Coast Hip Hop, Nerdcore Hip Hop",
+        "2005",
+        "https://open.spotify.com/album/6TgkNOiJxeSkVVbXV720B1?si=B9bb-1ZOT1ygassA7gEd5Q",
+        "https://tidal.com/browse/album/210021047?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/afeb92a198445bc45d00e67eb0d1a335/9753966/broadcast-tender-buttons-Cover-Art.jpg",
+        "Tender Buttons",
+        "Broadcast",
+        "Indietronica, Ambient Pop, Minimal Wave, Bitpop",
+        "2005",
+        "https://open.spotify.com/album/6xBYjKF7uvteMN51uxVNJv?si=-z9Q8BgBQLS9r9zskoYP8Q",
+        "https://tidal.com/browse/album/16025502?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/9e7acd27ede4e511d997b2fbea445ba0/5474688/kate-bush-aerial-Cover-Art.jpg",
+        "Aerial",
+        "Kate Bush",
+        "Art Pop, Ambient Pop, Progressive Pop, Baroque Pop",
+        "2005",
+        "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH?si=5B6olxy9Sj67obYSI6CMbw",
+        "https://tidal.com/browse/album/279972144?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/aae001d85097428ff8880d0e8c247e13/2277004/depeche-mode-playing-the-angel-Cover-Art.jpg",
+        "Playing the Angel",
+        "Depeche Mode",
+        "Synthpop, Alternative Rock, Darkwave, Post-Industrial",
+        "2005",
+        "https://open.spotify.com/album/5QvVLyLdcK4vnaPEKg7jtO?si=KDTmC4yNTv6ApknZV6FXng",
+        "https://tidal.com/browse/album/66932773?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/a87b885d35cf293bd9654db899270eb9/11799698/wolf-parade-apologies-to-the-queen-mary-Cover-Art.jpg",
+        "Apologies to Queen Mary",
+        "Wolf Parade",
+        "Indie Rock, Post-Punk Revival, Indie Pop",
+        "2005",
+        "https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ?si=xL8ZtHK4RcuiMnjL0KRrJg",
+        "https://tidal.com/browse/album/35264176?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/359d10cc9e18b4bd8bb05f1a51397a5c/12178776/the-new-pornographers-twin-cinema-Cover-Art.jpg",
+        "Twin Cinema",
+        "The New Pornographers",
+        "Power Pop, Indie Pop, Indie Rock",
+        "2005",
+        "https://open.spotify.com/album/374zPEiebslsA7v6x0AYfz?si=xp9e-7MWSzq1qqX2dtqsMg",
+        "https://tidal.com/browse/album/49793989?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/68e8c6bc9e604a0ee238476ccfe490ff/2895886/imogen-heap-speak-for-yourself-cover-art.jpg",
+        "Speak for Yourself",
+        "Imogen Heap",
+        "Art Pop, Indietronica, Glitch Pop, Electropop",
+        "2005",
+        "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ?si=FL30NLeXQ0uU9LlWyyWvrw",
+        "https://tidal.com/browse/album/48751747?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/4539742376e67eb0295c5d8dfb3b9c13/5342907/m83-before-the-dawn-heals-us-Cover-Art.jpg",
+        "Before the Dawn Heals Us",
+        "M83",
+        "Dream Pop, Electronic, Synthpop, Shoegaze",
+        "2005",
+        "https://open.spotify.com/album/0rqPrhpgzR8NrwU86RzE0O?si=-hd5zoj4TRiJWPqytChBBQ",
+        "https://tidal.com/browse/album/89415171?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/415e54ecfa3e396b466b3b3de3bb7301/7693726/spoon-gimme-fiction-Cover-Art.jpg",
+        "Gimme Fiction",
+        "Spoon",
+        "Indie Rock, Indie Pop, Art Rock, Post-Punk Revival",
+        "2005",
+        "https://open.spotify.com/album/3pxmFMtf3MfeBOsHRvpaqt?si=sYJBFoAeR6qjiLJGmjLeqA",
+        "https://tidal.com/browse/album/58085924?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/449401eb4b4b1e5e6910c3520810ff3d/3833352/of-montreal-the-sunlandic-twins-Cover-Art.jpg",
+        "The Sunlandic Twins",
+        "of Montreal",
+        "Psychedelic Pop, Indie Pop, Neo-Psychedelia, Indie Rock",
+        "2005",
+        "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE?si=b-cDlD3cRXq8cMTNpzvXOQ",
+        "https://tidal.com/browse/album/256078238?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/84ddd0b9bed372b79ce2327be774085e/9046723/tally-hall-marvins-marvelous-mechanical-museum-Cover-Art.jpg",
+        "Marvin's Marvelous Mechanical Museum",
+        "Tally Hall",
+        "Geek Rock, Indie Pop, Pop Rock, Progressive Rock",
+        "2005",
+        "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5?si=EvbcKm2tTtmbYvknz6YTvg",
+        "https://tidal.com/browse/album/41703371?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/cbc8366f308650d265cb146f9001a6b8/5667337/ladytron-witching-hour-Cover-Art.jpg",
+        "Witching Hour",
+        "Ladytron",
+        "Electropop, Synthpop, Electroclash, New Rave",
+        "2005",
+        "https://open.spotify.com/album/1j2rtIlRBcUHmxtn4Z4vGc?si=EAijvH5LSICF4xSlebfKHA",
+        "https://tidal.com/browse/album/531751?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/14ef1a95f4a68d56868260b1768548b8/8053240/bright-eyes-digital-ash-in-a-digital-urn-Cover-Art.jpg",
+        "Digital Ash in Digital Urn",
+        "Bright Eyes",
+        "Indietronica, Indie Pop, Folktronica, Indie Rock",
+        "2005",
+        "https://open.spotify.com/album/3l90EEnsvtz3OqzBqO9lGp?si=id1PjumFSPm8YcQim5xHzQ",
+        "https://tidal.com/browse/album/182262431?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/32ae825b76cfd734bd520fae13b43c75/12125638/low-the-great-destroyer-Cover-Art.jpg",
+        "The Great Destroyer",
+        "Low",
+        "Indie Rock, Slowcore, Noise Pop, Post-Rock",
+        "2005",
+        "https://open.spotify.com/album/0TtSidnyfFcIBWsFwrPvtw?si=Jqv5LiXzS7aoNQRiHzZwNQ",
+        "https://tidal.com/browse/album/22954736?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/c08cc1f563874e464f9c2a87e1f38df6/10432899/new-order-waiting-for-the-sirens-call-Cover-Art.png",
+        "Waiting for the Sirens' Call",
+        "New Order",
+        "Alternative Rock, Synthpop, Alternative Dance",
+        "2005",
+        "https://open.spotify.com/album/1bzjjvsRKcbfaQc8XHJtvl?si=ABZvIqWcRbCu9UUftSfJ7A",
+        "https://tidal.com/browse/album/51462467?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/afee63c50aa26b2f968b259681a7edd1/2970236/why-elephant-eyelash-Cover-Art.jpg",
+        "Elephant Eyelash",
+        "WHY?",
+        "Indie Pop, Abstrac Hip Hop, Neo-Psychedelia, Art Pop",
+        "2005",
+        "https://open.spotify.com/album/1mELBNokKTI4lUVsc9qn7a?si=oLuk1YGaQHiVpYYELt1lOw",
+        "https://tidal.com/browse/album/111441498?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/685370e1bd7c2342aec7a24cbad05b34/1338044/doves-some-cities-Cover-Art.jpg",
+        "Some Cities",
+        "Doves",
+        "Indie Rock, Dream Pop, Post-Britpop, Neo-Psychedelia",
+        "2005",
+        "https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V?si=pdJpEO9IS5GZ28ubHXDkTw",
+        "https://tidal.com/browse/album/1404715?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/65d88aea25eafc00e95ad17ec9fde691/1489433/babyshambles-down-in-albion-Cover-Art.jpg",
+        "Down in Albion",
+        "Babyshambles",
+        "Indie Rock, Garage Rock Revival, Post-Punk Revival",
+        "2005",
+        "https://open.spotify.com/album/2f35NQiqbGoDuNBG1hyaDA?si=p9Xe7fLeTjOmTamTxqNNPA",
+        "https://tidal.com/browse/album/153839170?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/fe26975e846626aae7942e8e48f5fcb7/11869365/metric-live-it-out-Cover-Art.jpg",
+        "Live It Out",
+        "Metric",
+        "Indie Rock, Post-Punk Revival, Dance-Punk",
+        "2005",
+        "https://open.spotify.com/album/3MLLPV3B4z6F6iFdfLtKzO?si=EUu4dQW4RwSkgKWqI25Ijw",
+        "https://tidal.com/browse/album/332735149?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/4476123ecaa4e134dba4abee42a211fb/1438420/supergrass-road-to-rouen-Cover-Art.jpg",
+        "Road to Rouen",
+        "Supergrass",
+        "Post-Britpop, Neo-Psychedelia, Art Rock, Baroque Pop",
+        "2005",
+        "https://open.spotify.com/album/2abIxxJnpkaYhxOU0JKhMr?si=Ov3k9M5IRe--ppUXMutOFw",
+        "https://tidal.com/browse/album/1335796?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/f92c6b875f3520cef8446f14153b89fe/4726756/british-sea-power-open-season-Cover-Art.jpg",
+        "Open Season",
+        "Sea Power",
+        "Indie Rock, Post-Punk Revival, New Wave, Post-Britpop",
+        "2005",
+        "https://open.spotify.com/album/1UZbow8UvON2vhfiPLZF5X?si=FG9VZ4inRHuf9sbuvOlFPg",
+        "https://tidal.com/browse/album/2404560?u"
+   ],
+   [
+        "https://e.snmc.io/i/600/w/351232b053fc85927fdeaf3a12c11463/1355634/gang-gang-dance-gods-money-Cover-Art.jpg",
+        "God's Money",
+        "Gang Gang Dance",
+        "Neo-Psychedelia, Experimental Rock, Chimurenga, Psychedelic Pop",
+        "2005",
+        "https://open.spotify.com/album/4pnu4mKWifTOJzbVsA2SW0?si=3FIEjuANSkWq-d0ZwVOalQ",
+        "https://tidal.com/browse/album/26914669?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/0c8a33e527d043c9154715f9bb73314f/1824652/tapes-n-tapes-the-loon-Cover-Art.jpg",
+        "The Loon",
+        "Tapes 'n Tapes",
+        "Indie Rock, Indie Pop, Post-Punk Revival",
+        "2005",
+        "https://open.spotify.com/album/466MOrUrWPGpb6XGLZFtKd?si=2e7WLusmSrq_gww4L_ls0Q",
+        "https://tidal.com/browse/album/98336331?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/3079634c158f8858961a94aa1c1ca45d/3776368/syd-matters-someday-we-will-foresee-obstacles-Cover-Art.jpg",
+        "Someday We Will Foresee Obstacles",
+        "Syd Matters",
+        "Indie Folk, Folk Pop, Folktronica, Post-Rock",
+        "2005",
+        "https://open.spotify.com/album/3T5qThuaH5w6bDNCxZxv0X?si=Xe1NkaWSSv-fuh-cw-MtSA",
+        "https://tidal.com/browse/album/47477048?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/9674e0add65ef5bc772a1db89cf693d8/1431243/lao-che-powstanie-warszawskie-Cover-Art.jpg",
+        "Powstanie Warszawskie",
+        "Lao Che",
+        "Alternative Rock, Punk Rock, Pop Rock",
+        "2005",
+        "https://open.spotify.com/album/1Dlq9yjtIuAzs7diGCLMll?si=QOewAsncQi-R3rni-RCvRA",
+        "https://tidal.com/browse/album/19266162?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/1c338c9e948795d51b45a93b9a85b14c/8488839/el-ten-eleven-el-ten-eleven-Cover-Art.jpg",
+        "El Ten Eleven",
+        "El Ten Eleven",
+        "Post-Rock, Indie Rock, Math Rock",
+        "2005",
+        "https://open.spotify.com/album/6bv070I2PgzwGLgYGBxaJW?si=Viu9ryIZQ2KN_E6RKXmLpg",
+        "https://tidal.com/browse/album/55493935?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/7d0764ef81e6f1b6e6adf78577950145/1333570/athlete-tourist-Cover-Art.jpg",
+        "Tourist",
+        "Athlete",
+        "Indie Pop, Post-Britpop, Pop Rock, Indie Rock",
+        "2005",
+        "https://open.spotify.com/album/3C8JJuPAtChN279eHZhkra?si=33-muG75SDOOfJMKl2s4-Q",
+        "https://tidal.com/browse/album/233177200?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/a392c320034dab70e5124218a9a268a5/1519411/dr-dog-easy-beat-Cover-Art.jpg",
+        "Easy Beat",
+        "Dr. Dog",
+        "Indie Pop, Indie Rock, Psychedelic Pop, Slacker Rock",
+        "2005",
+        "https://open.spotify.com/album/11dyj7y5mPVMQ1utHdfHlZ?si=Rhl5ziiATgS_k4WfB8MciQ",
+        "https://tidal.com/browse/album/246993067?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/c368b216cbf6772e732f17b738fd6800/1486626/rogue-wave-descended-like-vultures-Cover-Art.jpg",
+        "Descended Like Vultures",
+        "Rogue Wave",
+        "Indie Rock, Indie Pop",
+        "2005",
+        "https://open.spotify.com/album/3GGWlv6XNogpS9Fwnw7vhe?si=jUL5A1ZrR22VLEeVa2Qd1g",
+        "https://tidal.com/browse/album/34983623?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/83aae7294013f13cca00c113d2f1c219/1358073/engineers-engineers-Cover-Art.jpg",
+        "Engineers",
+        "Engineers",
+        "Dream Pop, Neo-Psychedelia, Shoegaze, Post-Britpop",
+        "2005",
+        "https://open.spotify.com/album/7iEkkEWs8Xs4WNEdInMjvp?si=8b0mfzTRTyq5V1tLAnsBLA",
+        "https://tidal.com/browse/album/67428104?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/973328c288457ba7ad1cb534bb31aa19/1964868/copeland-in-motion-Cover-Art.jpg",
+        "In Motion",
+        "Copeland",
+        "Indie Pop, Indie Rock, Emo-Pop, Piano Rock",
+        "2005",
+        "https://open.spotify.com/album/6fFpT4xscdJ1mGubc6kA3N?si=x2FQwrPMRN2FxQyxPpLtsA",
+        "https://tidal.com/browse/album/220897333?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/21b01cb87ac3cdc148f72bb85c501536/10532981/madvillain-madvillainy-Cover-Art.jpg",
+        "Madvillainy",
+        "Madvillain",
+        "Abstract Hip Hop, Jazz Rap, Experimental Hip Hop, Instrumental Hip Hop",
+        "2004",
+        "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk?si=XGA0852aTlGzG6vyAgeKFw",
+        "https://tidal.com/browse/album/185777943?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/91a7fa28def9c2242debf92f2d2a3679/11866170/arcade-fire-funeral-Cover-Art.jpg",
+        "Funeral",
+        "Arcade Fire",
+        "Indie Rock, Chamber Pop, Art Pop, Post-Punk Revival",
+        "2004",
+        "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH?si=cMZZjLquSGCQZDlHqXI6jw",
+        "https://tidal.com/browse/album/75194842?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/f4e73551b9d65a46b1c305bc4188aab6/11429706/mf-doom-mm_food-Cover-Art.jpg",
+        "MM..FOOD",
+        "MF DOOM",
+        "East Coast Hip Hop, Abstract Hip Hop, Experimental Hip Hop, Jazz Rap",
+        "2004",
+        "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N?si=q_PumnqQQTiUO8IGOE5aow",
+        "https://tidal.com/browse/album/143661100?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/2d29f5e23139e1870b27401f789343dc/4786344/animal-collective-sung-tongs-Cover-Art.jpg",
+        "Sung Tongs",
+        "Animal Collective",
+        "Freak Folk, Neo-Psychedelia, Avant-Folk, Psychedelic Folk",
+        "2004",
+        "https://open.spotify.com/album/4eBP58Wc5U1rmNt0BdQmMa?si=79Y_ji2tTz-QaM6XHgRWRg",
+        "https://tidal.com/browse/album/120491042?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/f79d553ca40accecc260847f6686881e/6131533/modest-mouse-good-news-for-people-who-love-bad-news-Cover-Art.jpg",
+        "Good News for People Who Love Bad News",
+        "Modest Mouse",
+        "Indie Rock, Indie Pop, Post-Punk Revival, Alt-Country",
+        "2004",
+        "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0?si=tPQQvH7kRCyIprHvMbeNvg",
+        "https://tidal.com/browse/album/61458?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/6f742fb86bed7b84ab6145e6e37cf483/8773469/sufjan-stevens-seven-swans-Cover-Art.jpg",
+        "Seven Swans",
+        "Sufjan Stevens",
+        "Indie Folk, Chamber Folk",
+        "2004",
+        "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA?si=8VUVdEStSVCwBiVGXYj-kQ",
+        "https://tidal.com/browse/album/19336122?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/ec87a677f3b008319db09afd2e622974/11818056/iron-wine-our-endless-numbered-days-Cover-Art.jpg",
+        "Our Endless Numbered Days",
+        "Iron and Wine",
+        "Indie Folk, Contemporary Folk, Americana",
+        "2004",
+        "https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx?si=q_Z90LxaQYO5bTK0pPpEOw",
+        "https://tidal.com/browse/album/21398044?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/bcaf7b318e8a4621acb4d61b06004d53/2141913/keane-hopes-and-fears-Cover-Art.jpg",
+        "Hopes and Fears",
+        "Keane",
+        "Piano Rock, Post-Britpop, Downtempo",
+        "2004",
+        "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd?si=8CmGRZCyQQqR5mCujqBgtQ",
+        "https://tidal.com/browse/album/4924358?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/81770ea625dbfa9ce64d943e8d608c08/3796102/kasabian-kasabian-Cover-Art.jpg",
+        "Kasabian",
+        "Kasabian",
+        "Alternative Dance, Indie Rock, Neo-Psychedelia, Electronic",
+        "2004",
+        "https://open.spotify.com/album/3SpGiJhdi0BIALt1zFh9Oo?si=63TN5zFLRUO5gg0UiiH_Pw",
+        "https://tidal.com/browse/album/13525173?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/4d2b5a754c9300cf457db6bc35ae672e/8839338/stereolab-margerine-eclipse-Cover-Art.jpg",
+        "Margerine Eclipse",
+        "Stereolab",
+        "Indietronica, Art Pop, Ambient Pop, Neo-Psychedelia",
+        "2004",
+        "https://open.spotify.com/album/6Xppkfb5hRXFWhKeucP8hN?si=HbHwMMvsR6O12nJsB3ifpA",
+        "https://tidal.com/browse/album/94896919?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/f774c403fb0b91f15834e5a31365018f/1442915/asian-kung-fu-generation-%E3%82%BD%E3%83%AB%E3%83%95%E3%82%A1-sol-fa-Cover-Art.jpg",
+        "Sol-fa",
+        "ASIAN KUNG-FU GENERATION",
+        "Power Pop, J-Rock, Post-Hardcore",
+        "2004",
+        "https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04?si=Lgj4-WMwT3ScvUJcQsmyRQ",
+        "https://tidal.com/browse/album/157608002?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/ef943bc479f498907329daa935166163/1500140/grizzly-bear-horn-of-plenty-Cover-Art.jpg",
+        "Horn of Plenty",
+        "Grizzly Bear",
+        "Psychedelic Folk, Indie Folk, Slacker Rock, Slowcore",
+        "2004",
+        "https://open.spotify.com/album/2ZQuSGfpDSIAZtc4zooMps?si=R8qQM6xFTWawK6vG6tugaA",
+        "https://tidal.com/browse/album/119136193?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/31c848c2e1779c6923992544438edff8/9680094/destroyer-your-blues-Cover-Art.jpg",
+        "Your Blues",
+        "Destroyer",
+        "Chamber Pop, Indie Pop, Art Pop, Synthpop",
+        "2004",
+        "https://open.spotify.com/album/65KmKCXVcL3ltHWdYLaBRr?si=mEH7D7aLS4uUoiO9kMtzyA",
+        "https://tidal.com/browse/album/37270624?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/7ab46d87a2181e1096aadc7283249113/2417450/cut-copy-bright-like-neon-love-Cover-Art.jpg",
+        "Bright Like Neon Love",
+        "Cut Copy",
+        "Electropop, Synthpop, Indietronica, French House",
+        "2004",
+        "https://open.spotify.com/album/4AyAxuQiwiloLye3qxuXq4?si=lcLA8hQWQ06_sLz8QHYpvg",
+        "https://tidal.com/browse/album/5254652?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/fd098883aefaa3dcc445b47f5215be5d/5792220/devotchka-how-it-ends-Cover-Art.jpg",
+        "How It Ends",
+        "DeVotchKa",
+        "Folk Rock, Chamber Pop, Alt-Country, Gypsy Punk",
+        "2004",
+        "https://open.spotify.com/album/7DjxZr4JP0O8UMQ2lAVVHN?si=b5zCeY0SSGmeXq8UJMHK1g",
+        "https://tidal.com/browse/album/310955045?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/423c64f4f14287cbe6d2c23bdafbc19a/10187711/they-might-be-giants-the-spine-Cover-Art.jpg",
+        "The Spine",
+        "They Might Be Giants",
+        "Indie Pop, Alternative Rock, Geek Rock, Indie Rock",
+        "2004",
+        "https://open.spotify.com/album/0uNe2ye5gFQ8FijTHLX3WC?si=0TUCwu2oTpqzM8_5fWTBnQ",
+        "https://tidal.com/browse/album/314232436?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/b439798e8ebfa0be87a9d9f4842024ec/1270212/ambulance-ltd-lp-Cover-Art.jpg",
+        "LP",
+        "Ambulance LTD",
+        "Indie Rock, Indie Pop, Indie Folk, Shoegaze",
+        "2004",
+        "https://open.spotify.com/album/2t33jp65uAsG2NfiHmc6PJ?si=xoAbz9tDREauxEIy6vo8KA",
+        "https://tidal.com/browse/album/9668799?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/7c1c6c52ba2d4f3b7a579adf91fb04b8/1305930/utada-exodus-Cover-Art.jpg",
+        "Exodus",
+        "[Hikaru] Utada",
+        "Contemporary R&B, Electropop, Art Pop, Dance-Pop",
+        "2004",
+        "https://open.spotify.com/album/7I2PjIT1wGdPZOjyJelFpw?si=xxzbr0DCRZ2FMlZHQwp2kQ",
+        "https://tidal.com/browse/album/35698564?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/00f6a7f104e458e9afaac622c358ced5/10001278/chad-vangaalen-infiniheart-Cover-Art.jpg",
+        "Infiniheart",
+        "Chad VanGaalen",
+        "Indie Rock, Indie Pop, Indie Folk, Folktronica",
+        "2004",
+        "https://open.spotify.com/album/3g4XI2FEFnvCjCLGKohQSC?si=nVoR2acmTqmXzzLGM1PK8w",
+        "https://tidal.com/browse/album/34441885?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/465814baccbe409cf1d536808edba8f0/1310401/rogue-wave-out-of-the-shadow-Cover-Art.jpg",
+        "Out of the Shadow",
+        "Rogue Wave",
+        "Indie Pop, Indie Rock, Indie Folk, Neo-Psychedelia",
+        "2004",
+        "https://open.spotify.com/album/3ZLGekEtX6n6knCG4AJBTy?si=psKj-rPkSBO4hSaKTLCxKg",
+        "https://tidal.com/browse/album/34441807?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/40cce6ace715b69517cf4d33bb1efdb7/9934621/radiohead-hail-to-the-thief-Cover-Art.jpg",
+        "Hail to the Thief",
+        "Radiohead",
+        "Art Rock, Alternative Rock, Electronic, Post-Punk Revival",
+        "2003",
+        "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy?si=GDEK5DkaS0WGv2ZU6tXwTg",
+        "https://tidal.com/browse/album/58990556?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/cf19f5e08c8841d45003a7f0ea723f8e/8862424/sweet-trip-velocity-design-comfort-Cover-Art.png",
+        "Velocity : Design : Comfort",
+        "Sweet Trip",
+        "Glitch Pop, IDM, Dream Pop, Ambient Pop",
+        "2003",
+        "https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2?si=Bq2DVT3cSTOuAOgquBkozg",
+        "https://tidal.com/browse/album/64204943?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/25dc13f6f0b9b1a7e9f66b09bf6daad4/11482678/the-strokes-room-on-fire-Cover-Art.jpg",
+        "Room on Fire",
+        "The Strokes",
+        "Garage Rock Revival, Indie Rock, Post-Punk Revival",
+        "2003",
+        "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh?si=AoeGl8XoS7-62J1gHoA55Q",
+        "https://tidal.com/browse/album/2987856?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/79e80e94b4c7920a24500e450d9f54f8/12225687/sufjan-stevens-michigan-Cover-Art.jpg",
+        "Michigan",
+        "Sufjan Stevens",
+        "Chamber Folk, Indie Folk, Chamber Pop, Americana",
+        "2003",
+        "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk?si=AXCA8GBbT4SU0J1YBuBVQQ",
+        "https://tidal.com/browse/album/19324473?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/06ec3baea79f01c82559133808dbb181/2932280/broadcast-haha-sound-Cover-Art.jpg",
+        "Haha Sound",
+        "Broadcast",
+        "Indietronica, Neo-Psychedelia, Dream Pop, Ambient Pop",
+        "2003",
+        "https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP?si=M7Wk3zNpTbG2xFW0QLMFzg",
+        "https://tidal.com/browse/album/16025853?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/cbc44aceaa503e932e4a0a08ed5f95f1/12047555/the-new-pornographers-electric-version-Cover-Art.jpg",
+        "Electric Version",
+        "The New Pornographers",
+        "Power Pop, Indie Pop, Indie Rock, Glam Rock",
+        "2003",
+        "https://open.spotify.com/album/1OS4Dzrs6o778JUf8tnlCz?si=xLg5tJo_ShqZnvKf7pawig",
+        "https://tidal.com/browse/album/49793859?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/6f886ad750186214ef89eab727fb1675/4726768/british-sea-power-the-decline-of-british-sea-power-Cover-Art.jpg",
+        "The Decline of British Sea Power",
+        "Sea Power",
+        "Post-Punk Revival, Indie Rock, Art Rock, Noise Pop",
+        "2003",
+        "https://open.spotify.com/album/66camebHacnN34DBSekilT?si=HJdISGhQQA6bYqP7LENHvQ",
+        "https://tidal.com/browse/album/107937712?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/9f0ecfbe14917d3a474b3496085ff7e8/1735924/spiritualized-amazing-grace-Cover-Art.jpg",
+        "Amazing Grace",
+        "Spiritualized",
+        "Neo-Psychedelia, Psychedelic Rock, Garage Rock Revival, Gospel",
+        "2003",
+        "https://open.spotify.com/album/2yljoYu9ES4nVXdPqp2ROc?si=HLUKF8b0Q0eKJS3lsue7jw",
+        "https://tidal.com/browse/album/318265378?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/7a97582d99e20279819b9030676e7a49/2185235/syd-matters-a-whisper-and-a-sigh-Cover-Art.jpg",
+        "A Whisper and a Sigh",
+        "Syd Matters",
+        "Indie Folk, Folktronica, Indietronica",
+        "2003",
+        "https://open.spotify.com/album/1P2JK1DXZyw9fH59x8R9bp?si=f5GEdO7nTTy1_avkPgqD4g",
+        "https://tidal.com/browse/album/47438396?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/58603019f53af059da22ffd00527a9d5/10531708/interpol-turn-on-the-bright-lights-Cover-Art.png",
+        "Turn on the Bright Lights",
+        "Interpol",
+        "Post-Punk Revival, Post-Rock, Dream Pop",
+        "2002",
+        "https://open.spotify.com/album/2OhUWm2KJay2YWeItU9YcH?si=lpeDBMmUSP6NH21t8UrtOA",
+        "https://tidal.com/browse/album/157768095?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/1a49daa596b5e8017bdbfb221c520e2a/12224382/queens-of-the-stone-age-songs-for-the-deaf-Cover-Art.jpg",
+        "Songs for the Deaf",
+        "Queens of the Stone Age",
+        "Stoner Rock, Alternative Rock, Stoner Metal",
+        "2002",
+        "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY?si=g_JN7JqEQYCTwseDwtWljA",
+        "https://tidal.com/browse/album/7241011?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/5c3a5ef5be7f54fd1de7df5bb5386c49/11991010/the-flaming-lips-yoshimi-battles-the-pink-robots-Cover-Art.jpg",
+        "Yoshimi Battles the Pink Robots",
+        "The Flaming Lips",
+        "Neo-Psychedelia, Psychedelic Pop, Dream Pop, Electronic",
+        "2002",
+        "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf?si=KFqaYvLfQuaT-Kj8KIUTyA",
+        "https://tidal.com/browse/album/325149?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/9cb94f0d0a8bdc55a061c3b88fd417d8/12177606/coldplay-a-rush-of-blood-to-the-head-Cover-Art.jpg",
+        "A Rush of Blood to the Head",
+        "Coldplay",
+        "Post-Britpop, Pop Rock, Piano Rock, Art Rock",
+        "2002",
+        "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ?si=TFZQDEZlTbmBu2EeXxQ3sQ",
+        "https://tidal.com/browse/album/128601?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/77e7d7c3f9c5a3d232a6226f48f21738/5196976/the-decemberists-castaways-and-cutouts-Cover-Art.jpg",
+        "Castaways and Cutouts",
+        "The Decemberists",
+        "Folk Rock, Indie Pop, Indie Folk, Chamber Pop",
+        "2002",
+        "https://open.spotify.com/album/5rbzadc5AEuHdeSGmdBDgR?si=Byx78BE_R22RAHcDUTamwQ",
+        "https://tidal.com/browse/album/19125668?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/713103ff09223c73f536763ac7930c2e/8248898/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB-hikaru-utada-deep-river-Cover-Art.jpg",
+        "DEEP RIVER",
+        "Hikaru Utada",
+        "J-Pop, Contemporary R&B, Dance-Pop, Art Pop",
+        "2002",
+        "https://open.spotify.com/album/5xcIRLlQWJBqN8fpmlskGr?si=N6T2CP7jSH-pzhWBZjz0CQ",
+        "https://tidal.com/browse/album/100081887?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/073f6a390894886ca4d95a2f7facd5d7/8652798/myslovitz-korova-milky-bar-Cover-Art.jpg",
+        "Korova Milky Bar",
+        "Myslovitz",
+        "Post-Britpop, Alternative Rock, Dream Pop, Neo-Psychedelia",
+        "2002",
+        "",
+        "",
+    ],
+    [
+        "https://e.snmc.io/i/600/w/d7bbb35e2eaae95a2e68053fc81fca33/8879640/radiohead-amnesiac-Cover-Art.png",
+        "Amnesiac",
+        "Radiohead",
+        "Art Rock, Experimental Rock, Electronic, Jazz Rock",
+        "2001",
+        "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0?si=vcSUHysSRA-riDU9YHg6Ng",
+        "https://tidal.com/browse/album/58990535?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/30ad9f6d0a8da98605772a19d6a5181e/12096953/the-strokes-is-this-it-Cover-Art.jpg",
+        "Is This It",
+        "The Strokes",
+        "Garage Rock Revival, Indie Rock, Post-Punk Revival",
+        "2001",
+        "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5?si=zKCzWPuIRo2rH2ybOZdZIw",
+        "https://tidal.com/browse/album/1798853?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/5fbb082833b66d28e390f0552462fe89/10377265/daft-punk-discovery-Cover-Art.jpg",
+        "Discovery",
+        "Daft Punk",
+        "French House, Electro-Disco, Funky House, Dance-Pop",
+        "2001",
+        "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc?si=Q8OlIOkbRCC_XllmW1zIMA",
+        "https://tidal.com/browse/album/1550545?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/4ccacc925dae63c8e2172e9aa9da198c/9935583/bjork-vespertine-Cover-Art.jpg",
+        "Vespertine",
+        "Björk",
+        "Art Pop, Electronic, Ambient Pop, Glitch Pop",
+        "2001",
+        "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak?si=0ihWnx_gSP2ilwas9AR3XQ",
+        "https://tidal.com/browse/album/341274059?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/de070a4d9d972967ddbc4bf066f4e52b/8964258/the-microphones-the-glow-pt-2-Cover-Art.jpg",
+        "The Glow Pt. 2",
+        "The Microphones",
+        "Indie Folk, Psychedelic Folk, Slacker Rock, Noise Rock",
+        "2001",
+        "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl?si=obT3ydMSTxycVMC9WgQKLw",
+        "https://tidal.com/browse/album/18083938?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/99ab72215f9f0e57c54020e6be5de161/9336743/tool-lateralus-Cover-Art.jpg",
+        "Lateralus",
+        "TOOL",
+        "Alternative Metal, Progressive Metal, Post-Metal",
+        "2001",
+        "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T?si=U8uz5LOgTfaOil8QKEwzHw",
+        "https://tidal.com/browse/album/114330485?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/112ed1f4fc40334633d9e8ae84e5663f/6335538/muse-origin-of-symmetry-Cover-Art.jpg",
+        "Origin of Symmetry",
+        "Muse",
+        "Alternative Rock, Art Rock, Progressive Rock, Space Rock Revival",
+        "2001",
+        "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn?si=Ej_DudgaR-O9xkh8uJZQKw",
+        "https://tidal.com/browse/album/7780551?u"
+    ],
 ];
 
 let number, length;
