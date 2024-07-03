@@ -2349,15 +2349,6 @@ let albums = [
         ""
     ],
     [
-        "https://e.snmc.io/i/600/w/8c861be7c9327cf6ec69ddb595a3082a/9277515/daria-zawialow-helsinki-Cover-Art.jpg",
-        "Helsinki",
-        "Daria Zawiałow",
-        "Indie Pop, Alt-Pop, Synthpop",
-        "2019",
-        "https://open.spotify.com/album/3GMRl8xmzrZJMy5H4jBgtA?si=XiGCSSkLRaCPS3ZHtdjc6A",
-        "https://tidal.com/browse/album/104096323?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/723a9774afd15ca013c008f14a57c15f/7228252/methyl-ethel-triage-Cover-Art.jpg",
         "Triage",
         "Methyl Ethel",
@@ -6848,6 +6839,177 @@ let albums = [
         "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn?si=Ej_DudgaR-O9xkh8uJZQKw",
         "https://tidal.com/browse/album/7780551?u"
     ],
+    [
+        "https://e.snmc.io/i/600/w/4a8fa45c097d41a6970d7d8912e44062/8718251/unwound-leaves-turn-inside-you-Cover-Art.jpg",
+        "Leaves Turn Inside You",
+        "Unwound",
+        "Indie Rock, Post-Hardcore, Post-Rock, Art Rock",
+        "2001",
+        "https://open.spotify.com/album/6lw4HFj2dgaG98jjSP5zOz?si=5HfGDcdbSXGPMX9xngDPLw",
+        "https://tidal.com/browse/album/39236577?u"
+    ],
+    [
+       "https://e.snmc.io/i/600/w/aca7d37734e1a03b8141b5b240a8ec33/2310475/explosions-in-the-sky-those-who-tell-the-truth-shall-die-those-who-tell-the-truth-shall-live-forever-Cover-Art.jpg",
+       "Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever",
+       "Explosions in the Sky",
+       "Post-Rock",
+       "2001",
+       "https://open.spotify.com/album/2TmYd2YYLJ5dpKiL4pEqkD?si=74zmHqCwRpCA7jTs8fh0gw",
+       "https://tidal.com/browse/album/19330174?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/4e077144e902bdf3bf42d729b5d245ca/2277000/depeche-mode-exciter-Cover-Art.jpg",
+        "Exciter",
+        "Depeche Mode",
+        "Synthpop, Downtempo, Ambient Pop, Trip Hop",
+        "2001",
+        "https://open.spotify.com/album/3mHVSPCgGuVlK3pDqbtso9?si=qjEFSxoBTKKB5qKkFWjWeg",
+        "https://tidal.com/browse/album/66932606?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/cfb30b540bffab9609f297d38acdea47/6846374/new-order-get-ready-Cover-Art.jpg",
+        "Get Ready",
+        "New Order",
+        "Alternative Rock, Alternative Dance, Synthpop",
+        "2001",
+        "https://open.spotify.com/album/4HFohweHxrMPrLjW2wkBdn?si=sKrAg2TkT9yo8FMACqzsmg",
+        "https://tidal.com/browse/album/184959?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/62fd72edfc0d1b21c91f3d687a5f7372/6619818/spoon-girls-can-tell-Cover-Art.jpg",
+        "Girls Can Tell",
+        "Spoon",
+        "Indie Rock, Pop Rock",
+        "2001",
+        "https://open.spotify.com/album/1pitNtT99leODbWecrt7XJ?si=a-eLUYMAQX2xY8ZWwh8mhA",
+        "https://tidal.com/browse/album/116160443?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/023042b9c8c8c822562d138b71c88da2/1365115/sufjan-stevens-enjoy-your-rabbit-Cover-Art.jpg",
+        "Enjoy Your Rabbit",
+        "Sufjan Stevens",
+        "Glitch, Ambient, Folktronica, Post-Minimalism",
+        "2001",
+        "https://open.spotify.com/album/1xCojndZfAWHcKsp5HQ2uv?si=vtkqpHJCSHayXvKFcVETKA",
+        "https://tidal.com/browse/album/19337009?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/edbbaab2d1b77fbfcc5636904f2c4663/1894166/pinback-blue-screen-life-Cover-Art.jpg",
+        "Blue Screen Life",
+        "Pinback",
+        "Indie Rock, Indie Pop, Slowcore, Math Pop",
+        "2001",
+        "https://open.spotify.com/album/15GefD0iAltWW959o9hZ80?si=DCgGWFUdQ56JdL0zu9cYmA",
+        "https://tidal.com/browse/album/19120812?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/3dc894762a29b066708a4cdcc13d3087/2338390/spiritualized-let-it-come-down-Cover-Art.jpg",
+        "Let It Come",
+        "Spiritualized",
+        "Neo-Psychedelia, Symphonic Rock, Gospel, Space Rock Revival",
+        "2001",
+        "https://open.spotify.com/album/4P3KaftJ2WwL89iKIEkWai?si=zoulDOblS4SFHAte70-INg",
+        "https://tidal.com/browse/album/134070821?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/459fa4cf9f2b93b8e290af43442d14b8/1430019/travis-the-invisible-band-Cover-Art.jpg",
+        "The Invisible Band",
+        "Travis",
+        "Post-Britpop, Pop Rock, Britpop, Acoustic Rock",
+        "2001",
+        "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ?si=_yAWPw1ZQcmBo51TeafYOQ",
+        "https://tidal.com/browse/album/106823577?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/280f92c76d233ef4961161bbeb2af3fc/10003522/elbow-asleep-in-the-back-Cover-Art.jpg",
+        "Asleep in the Back",
+        "Elbow",
+        "Art Rock, Indie Rock, Post-Britpop, Dream Pop",
+        "2001",
+        "https://open.spotify.com/album/3T49xNB5QF2hZOCCGQ3Mra?si=Fx854EpbQKih76Ov9a8s6w",
+        "https://tidal.com/browse/album/3120156?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/64ef973c3249904d7742e087cf33eb54/2105471/m83-m83-Cover-Art.jpg",
+        "M83",
+        "M83",
+        "Electronic, Dream Pop, Ambient Pop, Synthpop",
+        "2001",
+        "https://open.spotify.com/album/1AANo3NdYaTxJkIYnlIdhd?si=X5-jnVj5Td2nM_XKqFtBNw",
+        "https://tidal.com/browse/album/90243331?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/b2594805e5e830526ee5ee951331c0a4/11063944/sophie-ellis-bextor-read-my-lips-Cover-Art.jpg",
+        "Read My Lips",
+        "Sophie Ellis-Bextor",
+        "Dance-Pop, Electropop, Nu-Disco, Electro-Disco",
+        "2001",
+        "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG?si=p8i5c3CgTvOa-w7c5MIPZw",
+        "https://tidal.com/browse/album/34860083?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/b52b5d82b113190bb05179bbaa543290/8248893/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB-hikaru-utada-distance-Cover-Art.jpg",
+        "Distance",
+        "Hikaru Utada",
+        "J-Pop, Contemporary R&B, Downtempo, Alternative Dance",
+        "2001",
+        "https://open.spotify.com/album/4A2UQhhGtYlsD6pMpuW4XR?si=rl-bGQ5jQ06h0pEs8qT6cA",
+        "https://tidal.com/browse/album/102562816?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/a93a236296e6dc6e71ee69eaa08829ae/8879684/radiohead-kid-a-Cover-Art.jpg",
+        "Kid A",
+        "Radiohead",
+        "Art Rock, Electronic, Ambient, IDM",
+        "2000",
+        "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7?si=uqcVQHJcSEi2A69VJxv85w",
+        "https://tidal.com/browse/album/58990523?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/2a5b910157a9c74a6bbdfe33d6c117f9/5662600/godspeed-you-black-emperor-lift-yr-skinny-fists-like-antennas-to-heaven-Cover-Art.jpg",
+        "Lift Yr. Skinny Fists Like Antennas to Heaven!",
+        "Godspeed You Black Emperor!",
+        "Post-Rock, Drone, Chamber Music, Ambient",
+        "2000",
+        "https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq?si=JZfYcr0NQt2rJcxL5qotxw",
+        "https://tidal.com/browse/album/18057526?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/3a8def88fd7f0320e922d02d63dab3f9/10529939/the-avalanches-since-i-left-you-Cover-Art.jpg",
+        "Since I Left You",
+        "The Avalanches",
+        "Plunderphonics, Dance, Instrumental Hip Hop, Nu-Disco",
+        "2000",
+        "https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI?si=VpT26nj4TNKmQ3iOSYduwQ",
+        "https://tidal.com/browse/album/102761446?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/42e4b54ca54cc111cfc6d3b53d0a0370/12128133/outkast-stankonia-Cover-Art.jpg",
+        "Stankonia",
+        "OutKast",
+        "Southern Hip Hop, Dirty South, Experimental Hip Hop, Funk",
+        "2000",
+        "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj?si=oU80qMM4TvqW62Z8mtxtqw",
+        "https://tidal.com/browse/album/495381?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/47373caadb57dda3f158c4bae582c94d/1612455/eminem-the-marshall-mathers-lp-Cover-Art.jpg",
+        "The Marshall Mathers LP",
+        "Eminem",
+        "Hardcore Hip Hop, Horrorcore",
+        "2000",
+        "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC?si=ufUI_OWDS7yaOhtvR2YD7Q",
+        "https://tidal.com/browse/album/586938?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/e43c5597119150298bf1216d15c5bc17/8915093/coldplay-parachutes-Cover-Art.jpg",
+        "Parachutes",
+        "Coldplay",
+        "Post-Britpop, Pop Rock, Piano Rock, Dream Pop",
+        "2000",
+        "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra?si=8m2aCwa2REKEPoXoD6RiUQ",
+        "https://tidal.com/browse/album/120267?u"
+    ]
 ];
 
 let number, length;
