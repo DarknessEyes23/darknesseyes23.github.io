@@ -3645,15 +3645,6 @@ let albums = [
         "https://tidal.com/browse/album/43547613?u"
    ],
    [
-        "https://e.snmc.io/i/600/w/c15f2521d5d9a8adc5ea544eeb26de23/5719364/unknown-mortal-orchestra-multi-love-Cover-Art.jpg",
-        "Multi-Love",
-        "Unknown Mortal Orchestra",
-        "Psychedelic Pop, Psychedelic Soul, Neo-Psychedelia, Funk",
-        "2015",
-        "https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR?si=ykrpY37dQnKzG3S7w0z62w",
-        "https://tidal.com/browse/album/45108108?u"
-   ],
-   [
         "https://e.snmc.io/i/600/w/d04d110167f8fdfb98916b8cc10228f1/5531048/pinkshinyultrablast-everything-else-matters-Cover-Art.jpg",
         "Everything Else Matters",
         "Pinkshinyultrablast",
@@ -7009,6 +7000,72 @@ let albums = [
         "2000",
         "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra?si=8m2aCwa2REKEPoXoD6RiUQ",
         "https://tidal.com/browse/album/120267?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/92dfb5552ff3c664f11e2039e184a90d/9613939/modest-mouse-the-moon-and-antarctica-Cover-Art.jpg",
+        "The Moon & Antarctica",
+        "Modest Mouse",
+        "Indie Rock, Art Rock, Neo-Psychedelia, Space Rock Revival",
+        "2000",
+        "https://open.spotify.com/album/5SbcupirEParczvqqyUPXL?si=uQ0VaryBSK292C-eOADg6Q",
+        "https://tidal.com/browse/album/1781132?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/11c4940fcebac8b5526be093cd1fd68b/10981049/linkin-park-hybrid-theory-cover-art.jpg",
+        "Hybrid Theory",
+        "Linkin Park",
+        "Nu Metal, Rap Rock, Rap Metal",
+        "2000",
+        "https://open.spotify.com/album/6PFPjumGRpZnBzqnDci6qJ?si=vMA657csQv2lEy5vE3yrLw",
+        "https://tidal.com/browse/album/68639005?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/c36b958730bfb31496415095fe7d575d/1325176/elliott-smith-figure-8-Cover-Art.jpg",
+        "Figure 8",
+        "Elliott Smith",
+        "Indie Pop, Chamber Pop, Indie Rock, Indie Folk",
+        "2000",
+        "https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan?si=caKDH13aSjaR-a1TT3OMdg",
+        "https://tidal.com/browse/album/114360565?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/d36d45e3bced6c7c7f8cdf1ba20ec3ef/5679712/yo-la-tengo-and-then-nothing-turned-itself-inside-out-Cover-Art.jpg",
+        "And Then Nothing Turned Itself Inside-Out",
+        "Yo La Tengo",
+        "Dream Pop, Indie Rock, Ambient Pop, Slowcore",
+        "2000",
+        "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa?si=fMqc-nIVSueA0AWIRtcsAQ",
+        "https://tidal.com/browse/album/49793722?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/0bf68845a0584dec1711c2e6234883d8/12119396/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E-sheena-ringo-%E5%8B%9D%E8%A8%B4%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97-shoso-strip-Cover-Art.jpg",
+        "Shōso Strip",
+        "Sheena Ringo",
+        "J-Rock, Noise Pop, Art Pop, Art Rock",
+        "2000",
+        "https://open.spotify.com/album/0QWI6wd3QBiQscVpBu6kUE?si=evKfDYkQRXCa-zZlcljd8A",
+        "https://tidal.com/browse/album/89142446?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/8e8752aa11ecc6458f678df009cffdcc/8976759/the-cure-bloodflowers-Cover-Art.jpg",
+        "Bloodflowers",
+        "The Cure",
+        "Alternative Rock, Gothic Rock, Dream Pop, Neo-Psychedelia",
+        "2000",
+        "https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B?si=83JlvaSERsKn9BfWznCp0A",
+        "https://tidal.com/browse/album/2528631?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/500eaeade2436cb5f62f6d890de28174/12024161/grandaddy-the-sophtware-slump-Cover-Art.jpg",
+        "The Sophtware Slump",
+        "Grandaddy",
+        "Indie Rock, Indie Pop, Indietronica, Neo-Psychedelia",
+        "2000",
+        "https://open.spotify.com/album/6wHbY5ExMciSpMaFNLOifg?si=i3XtjV43TQeRId-l7eE1cA",
+        "https://tidal.com/browse/album/3718767?u"
+    ],
+    [
+        ""
     ]
 ];
 
