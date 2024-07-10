@@ -6399,15 +6399,6 @@ let albums = [
         "https://tidal.com/browse/album/55493935?u"
     ],
     [
-        "https://e.snmc.io/i/600/w/7d0764ef81e6f1b6e6adf78577950145/1333570/athlete-tourist-Cover-Art.jpg",
-        "Tourist",
-        "Athlete",
-        "Indie Pop, Post-Britpop, Pop Rock, Indie Rock",
-        "2005",
-        "https://open.spotify.com/album/3C8JJuPAtChN279eHZhkra?si=33-muG75SDOOfJMKl2s4-Q",
-        "https://tidal.com/browse/album/233177200?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/a392c320034dab70e5124218a9a268a5/1519411/dr-dog-easy-beat-Cover-Art.jpg",
         "Easy Beat",
         "Dr. Dog",
@@ -7064,9 +7055,6 @@ let albums = [
         "https://open.spotify.com/album/6wHbY5ExMciSpMaFNLOifg?si=i3XtjV43TQeRId-l7eE1cA",
         "https://tidal.com/browse/album/3718767?u"
     ],
-    [
-        ""
-    ]
 ];
 
 let number, length;
