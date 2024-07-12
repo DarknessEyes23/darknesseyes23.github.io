@@ -279,15 +279,6 @@ let albums = [
         "https://tidal.com/browse/album/264773415?u"
     ],
     [
-        "https://e.snmc.io/i/600/w/0e66d974da33c7209da4836d1be8a4e4/11378087/king-gizzard-and-the-lizard-wizard-the-silver-cord-Cover-Art.jpg",
-        "The Silver Cord",
-        "King Gizzard & The Lizard Wizard",
-        "Neo-Psychedelia, Progressive Electronic, Synthpop, Acid Techno",
-        "2023",
-        "https://open.spotify.com/album/7iY6PA1ftgY8OKOzc2vBdo?si=t6ABU7KXR2KSmZUhrpZ3Bw",
-        "https://tidal.com/browse/album/322891278?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/c6c7f3537fc3ef3d7ecbc1c45ddb6aa7/11324193/animal-collective-isnt-it-now-Cover-Art.jpg",
         "Isn't It Now?",
         "Animal Collective",
@@ -7055,6 +7046,114 @@ let albums = [
         "https://open.spotify.com/album/6wHbY5ExMciSpMaFNLOifg?si=i3XtjV43TQeRId-l7eE1cA",
         "https://tidal.com/browse/album/3718767?u"
     ],
+    [
+        "https://e.snmc.io/i/600/w/8fe5167969ad19534a80a5617124b9fc/1824657/bright-eyes-fevers-and-mirrors-Cover-Art.jpg",
+        "Fevers and Mirrors",
+        "Bright Eyes",
+        "Indie Folk, Slacker Rock, Alt-Country, Folk Punk",
+        "2000",
+        "https://open.spotify.com/album/1VPu5FJq5wg0BNJXRL6cqC?si=7rXqy4-MTXKHVOFal6NQtQ",
+        "https://tidal.com/browse/album/182262385?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/f432e2fc89be7c651975c665eafeab86/8274415/explosions-in-the-sky-how-strange-innocence-Cover-Art.jpg",
+        "How Strange, Innocence",
+        "Explosions in the Sky",
+        "Post-Rock, Indie Rock",
+        "2000",
+        "https://open.spotify.com/album/4AB19qiiH6r1eiIlH6cpFC?si=XrbzqICORdy1ejJwnqgD8w",
+        "https://tidal.com/browse/album/19326716?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/868ed6ec333026680849a99a8fa104e9/1286017/doves-lost-souls-Cover-Art.jpg",
+        "Lost Souls",
+        "Doves",
+        "Dream Pop, Post-Britpop, Indie Rock, Neo-Psychedelia",
+        "2000",
+        "https://open.spotify.com/album/33nyNThvBKPzS4NGdnWACf?si=ZHVMZZY2SJq_tONJN6OWmQ",
+        "https://tidal.com/browse/album/150671?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/7d1ec9e8fa7ac0637c930ca443f165c9/12075089/number-girl-sappukei-Cover-Art.jpg",
+        "Sappukei",
+        "Number Girl",
+        "Post-Hardcore, Idnie Rock, J-Rock, Noise Rock",
+        "2000",
+        "https://open.spotify.com/album/4WiWqQjkdvOrSLfazFxW01?si=HPyhsvIAQb-D-vlCa_At1w",
+        "https://tidal.com/browse/album/106934398?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/656dc4f765c8fbc16ebc077b509710fa/6507379/sufjan-stevens-a-sun-came-Cover-Art.jpg",
+        "A Sun Came",
+        "Sufjan Stevens",
+        "Indie Folk, Contemporary Folk, Indie Rock, Slacker Rock",
+        "2000",
+        "https://open.spotify.com/album/7GpWcAtQ2dmn7Cpb4aZGfc?si=E09I9VTOTaWlepm_DcZr_A",
+        "https://tidal.com/browse/album/19331630?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/b3bd0e0eb9f520101f90b45fc34bfe57/8973764/eels-daisies-of-the-galaxy-Cover-Art.jpg",
+        "Daisies of the Galaxy",
+        "Eels",
+        "Indie Pop, Chamber Pop, Neo-Psychedelia, Folk Rock",
+        "2000",
+        "https://open.spotify.com/album/6GoJv8WrjTUoFi7Desetx7?si=gkEutG8YRJuikuQzz4tpmA",
+        "https://tidal.com/browse/album/269026943?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/df34ebc1285734ff757da613bf356148/5388412/phoenix-united-Cover-Art.jpg",
+        "United",
+        "Phoenix",
+        "Indie Pop, Synthpop, Alternative Dance",
+        "2000",
+        "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68?si=ZQjRRMoPT2OXkIp1HEaWsQ",
+        "https://tidal.com/browse/album/162317?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/e001c223e70eda36841a29f84dd1290f/1237646/clinic-internal-wrangler-Cover-Art.jpg",
+        "Internal Wrangler",
+        "Clinic",
+        "Indie Rock, Art Rock, Psychedelic Rock, Post-Punk",
+        "2000",
+        "https://open.spotify.com/album/3jRQhtWHP4SsnDOpt7DZdc?si=XPScl6K6Tzehvt2sirlLTw",
+        "https://tidal.com/browse/album/3745469?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/b7bdf927f73c30ca37c43c6b51da0df7/8343443/walrus-%E5%85%89%E3%81%AE%E3%82%AB%E3%82%B1%E3%83%A9-hikari-no-kakera-Cover-Art.jpg",
+        "Hikari no kakera",
+        "WALRUS",
+        "Shoegaze, Noise Rock, Post-Rock, Alternative Rock",
+        "2000",
+        "https://open.spotify.com/album/0MsfRFsibyhjviXsqX5lBf?si=T5F8_D9nQbSf_Z_Dda_MDg",
+        ""
+    ],
+    [
+        "https://e.snmc.io/i/600/w/8b6bfa16de456cf488979129a2202618/8191307/enya-a-day-without-rain-Cover-Art.jpg",
+        "A Day Without Rain",
+        "Enya",
+        "Celtic New Age, Celtic Folk, Ambient Pop",
+        "2000",
+        "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5?si=eSvjhSXIRMufknlm1meB8w",
+        "https://tidal.com/browse/album/2121510?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/de9803d7a793d526631b3e07e67d7e0c/2075752/paktofonika-kinematografia-Cover-Art.jpg",
+        "Kinematografia",
+        "Paktofonika",
+        "Boom Bap, Hip Hop, Conscious Hip Hop, Abstract Hip Hop",
+        "2000",
+        "https://open.spotify.com/album/3pbJC94hUZST7m2coeIY6I?si=Y3-hINSCRy-WlJFOW5W1uQ",
+        "https://tidal.com/browse/album/18298667?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/9f0731f919a69bcc5081d2904fd1f266/1372402/southpacific-constance-Cover-Art.jpg",
+        "Constance",
+        "Southpacific",
+        "Shoegaze, Post-Rock, Space Rock Revival, Ambient",
+        "2000",
+        "https://open.spotify.com/album/4w29IA02Wl4V54uD8bXbry?si=tHgqEEgjQ5u3s8LYQUKy2Q",
+        ""
+    ]
 ];
 
 let number, length;
