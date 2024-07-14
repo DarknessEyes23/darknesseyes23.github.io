@@ -7153,6 +7153,186 @@ let albums = [
         "2000",
         "https://open.spotify.com/album/4w29IA02Wl4V54uD8bXbry?si=tHgqEEgjQ5u3s8LYQUKy2Q",
         ""
+    ],
+    [
+        "https://e.snmc.io/i/600/w/2c5a8806e0c254889b898cdd34ddbcf3/1551300/robbie-williams-sing-when-youre-winning-Cover-Art.jpg",
+        "Sing When You're Winning",
+        "Robbie Williams",
+        "Pop Rock, Dance-Pop",
+        "2000",
+        "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL?si=4W6wh7XJQzK3PTQezeVDDg",
+        "https://tidal.com/browse/album/151181?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/5b55f67d1241dddb1b404bccb34f9b9e/1753399/a-ha-minor-earth-major-sky-Cover-Art.jpg",
+        "Minor Earth | Major Sky",
+        "a-ha",
+        "Pop Rock, Pop, Synthpop",
+        "2000",
+        "https://open.spotify.com/album/471UsrdXFFn8mn70TUxfY1?si=uPsmqWi1RNm_u3yNjh9VmA",
+        "https://tidal.com/browse/album/179169?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/d350d3e72133eb4484292175a8af54d7/1904408/los-planetas-unidad-de-desplazamiento-Cover-Art.jpg",
+        "Unidad de desplazamiento",
+        "Los Planetas",
+        "Indie Rock, Neo-Psychedelia, Dream Pop, Indie Pop",
+        "2000",
+        "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz?si=aMyMTCuRRFupT6BDZAfUqw",
+        "https://tidal.com/browse/album/2927784?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/58d8db88ea907730982315760ccfc5eb/1686054/barenaked-ladies-maroon-Cover-Art.jpg",
+        "Maroon",
+        "Barenaked Ladies",
+        "Alternative Rock, Pop Rock, Jangle Pop",
+        "2000",
+        "https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc?si=67IX9FWkSWyDEEeJQxPZng",
+        "https://tidal.com/browse/album/231344?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/06893f71d2d45ce85307e8a8510b1c94/1674800/destroyer-thief-Cover-Art.jpg",
+        "Thief",
+        "Destroyer",
+        "Indie Rock, Chamber Pop, Indie Pop, Folk Rock",
+        "2000",
+        "https://open.spotify.com/album/7tb7lVzNGLbpl1BcWBok57?si=as1sQUDjSMeqyEejjG40wg",
+        "https://tidal.com/browse/album/37268782?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/d1ff9c75544e89fd11b3d648cb77799f/1891892/mew-half-the-world-is-watching-me-Cover-Art.jpg",
+        "Half the World Is Watching Me",
+        "Mew",
+        "Dream Pop, Indie Rock, Indie Pop, Progressive Pop",
+        "2000",
+        "https://open.spotify.com/album/5ydoKIyxdMOcEyz1DpWYVo?si=EFLc1zTxT2-TwUj75W6cKA",
+        "https://tidal.com/browse/album/243040206?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/ed4cfcb0d0b334836780463feb518de4/9593229/%E3%82%AD%E3%83%AA%E3%83%B3%E3%82%B8-kirinji-3-Cover-Art.jpg",
+        "3",
+        "Kirinji",
+        "Sophisti-Pop, Pop Rock, Shibuya-kei, City Pop",
+        "2000",
+        "https://open.spotify.com/album/6wiUifStt7pdwsn1k3ROfH?si=hEi_ObTWSRikKMBdF6xTXw",
+        "https://tidal.com/browse/album/100421159?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/f7dbef213b396bfecd869a59689e1071/1225766/hefner-we-love-the-city-Cover-Art.jpg",
+        "We Love the City",
+        "Hefner",
+        "Indie Pop, Indie Rock, Twee Pop",
+        "2000",
+        "https://open.spotify.com/album/4xDnTYCmE6L5WAxEDEk1U4?si=58R_39VFROezFcVWThcVkg",
+        "https://tidal.com/browse/album/53921308?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/e197f7831c83df7c450a811785daeff4/4928827/mahogany-the-dream-of-a-modern-day-Cover-Art.jpg",
+        "The Dream of a Modern Day",
+        "Mahogany",
+        "Dream Pop, Ambient Pop, Shoegaze, Indietronica",
+        "2000",
+        "https://open.spotify.com/album/5EuUAHaqEzJ6IrBjbdYlGK?si=Xz1ahzwsRtyqsqXm18gyJA",
+        "https://tidal.com/browse/album/68006991?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/f897c99b4887b69d0b9ac06d6d36f4b6/11925256/coals-sanatorium-Cover-Art.jpg",
+        "Sanatorium",
+        "Coals",
+        "Indietronica, Dream Pop, Ambient Pop, Chillwave",
+        "2024",
+        "https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA?si=Nh1cyseZQ8uz2OERxJtbiA",
+        "https://tidal.com/browse/album/351626651?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/f44218c039ca284ebad77385aa8628d2/12175729/o_s_t_r-xx-Cover-Art.jpg",
+        "XX",
+        "O.S.T.R.",
+        "Boom Bap, Jazz Rap",
+        "2024",
+        "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL?si=91QbYTbkQ3GHK1Ua-LWBtw",
+        "https://tidal.com/browse/album/364814576?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/67b6ae589f27839f49765257b4cece00/11905568/yann-wszywki-gleby-zszywki-Cover-Art.jpg",
+        "WSZYWKI, GLEBY, ZSZYWKI",
+        "Yann",
+        "Rap Rock",
+        "2024",
+        "https://open.spotify.com/album/566bSrGjjZnU9kYj2y7pzj?si=S3rVgdkMQISiF_DN6ou8Fg",
+        "https://tidal.com/browse/album/349684452?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/5c3a6d8e916cc4d60d83e0d771cf8680/12052263/zeus-czas-na-mnie-Cover-Art.jpg",
+        "Czas na mnie.",
+        "Zeus",
+        "Hip Hop",
+        "2024",
+        "https://open.spotify.com/album/0eXuiZ1hsj5epP5m6S7QRw?si=J3eCDPLjTmaP0z3hVvveiQ",
+        "https://tidal.com/browse/album/355417942?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/a8d226d9370082c8886dde1f3a694c8b/11956984/wojtek-siwik-w-moim-miescie-nie-bylo-mew-Cover-Art.png",
+        "w moim mieście nie było mew",
+        "wojtek siwik",
+        "Experimental Hip Hop, Trip Hop",
+        "2024",
+        "https://open.spotify.com/album/2QhtmHSgMtuUpcXWYGkxlF?si=oGjYi70OQL6EQpJomS10UQ",
+        "https://tidal.com/browse/album/354724746?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/c85ecd05322f84b062de7778fdfff872/11810862/alien-jack-wwakat-Cover-Art.png",
+        "WWAKAT",
+        "Alien Jack",
+        "Hip Hop, Hardcore Hip Hop, Jazz Rap, Abstract Hip Hop",
+        "2024",
+        "https://open.spotify.com/album/6J9TOoxgL58IxyOcewZOnR?si=rKAtKKwvT2eT0s6MkehHFw",
+        "https://tidal.com/browse/album/341810549?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/58931fa5ca42033d052109892312f801/11853367/tonfa-trzecia-szyna-Cover-Art.jpg",
+        "TRZECIA SZYNA",
+        "TONFA",
+        "Experimental Hip Hop, Abstract Hip Hop, Industrial Hip Hop",
+        "2024",
+        "https://open.spotify.com/album/2GM2fKnuq4JfoNpO2mGF6M?si=Io5u4zh8TaCbpwgifpIAqw",
+        "https://tidal.com/browse/album/347113591?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/17f91c51fdd594594800db44add1f1b0/11976600/otsochodzi-tthe-grind-Cover-Art.jpg",
+        "TTHE GRIND",
+        "Otsochodzi",
+        "Trap, Pop Rap",
+        "2024",
+        "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP?si=l5c22Jd6RI6Gh6MBUFzI2w",
+        "https://tidal.com/browse/album/354185406?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/c7295f583210e77436b700b52be42f6d/11734520/tomasz-makowiecki-bailando-Cover-Art.png",
+        "Bailando",
+        "Tomasz Makowiecki",
+        "Synthpop, Ambient Pop, Sophisti-Pop",
+        "2024",
+        "https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe?si=GCxEraEeSjKDTMMsbPUYRw",
+        "https://tidal.com/browse/album/349166686?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/02f95868642919daeed4cd38eb1b81f3/12104106/mily-atz-acid-moro-Cover-Art.jpg",
+        "ACID MORO",
+        "Miły ATZ",
+        "Hip Hop, Grime, Drum and Bass",
+        "2024",
+        "https://open.spotify.com/album/4bSY6sTUN5OXyNEoxtdEnz?si=eahJ60PvQ4G2y7pKpYvtmA",
+        "https://tidal.com/browse/album/360975045?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/5bf05b8fe31a42867cb4aeadda87c372/12130780/gruby-mielzky-and-pers-do-tanca-i-do-rozanca-Cover-Art.jpg",
+        "Do tańca i do różańca",
+        "Gruby Mielzky & Pers",
+        "Conscious Hip Hop, Hardcore Hip Hop",
+        "2024",
+        "https://open.spotify.com/album/4QEeRXZ67QDNJNRnjAp9Oq?si=i8dv3dc4RCqKJxb6cpxd4w",
+        "https://tidal.com/browse/album/362364155?u"
     ]
 ];
 
