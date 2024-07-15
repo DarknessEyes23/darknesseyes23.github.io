@@ -2853,15 +2853,6 @@ let albums = [
         ""
     ],
     [
-        "https://e.snmc.io/i/600/w/9aba946149e88baf67523a85483ea551/6985017/wczasy-zawody-Cover-Art.jpg",
-        "Zawody",
-        "Wczasy",
-        "Synthpop, Minimal",
-        "2018",
-        "https://open.spotify.com/album/7h89Av01BADCQA4Cx8t9s3?si=Cz4kpWmYTyqYzJAjdfePIw",
-        "https://tidal.com/browse/album/87543842?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/6dc108e33ff0eff79a5319a988b85a06/7144893/%E3%82%8C%E3%82%92%E3%82%8B-reol-%E4%BA%8B%E5%AE%9F%E4%B8%8A-jijitsujo-Cover-Art.jpg",
         "Jijitsujo",
         "Reol",
