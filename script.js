@@ -4472,15 +4472,7 @@ let albums = [
         "https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs?si=ChGW0Ti2S76kiBtNJq9JvA",
         "https://tidal.com/browse/album/21410284?u"
    ],
-   [
-        "https://e.snmc.io/i/600/w/e6cbab6e187b69e5cc80592702db664f/8773167/tame-impala-innerspeaker-Cover-Art.jpg",
-        "Innerspeaker",
-        "Tame Impala",
-        "Psychedelic Rock, Neo-Psychedelia, Psychedelic Pop, Garage Rock Revival",
-        "2010",
-        "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng?si=XlkC7odYRcuhGnPCRapF1Q",
-        "https://tidal.com/browse/album/97122857?u"
-   ],
+   
    [
         "https://e.snmc.io/i/600/w/05ff915e92db606f0347e02ac7de415c/5465104/deerhunter-halcyon-digest-Cover-Art.jpg",
         "Halcyon Digest",
