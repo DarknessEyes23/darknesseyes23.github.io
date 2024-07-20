@@ -630,15 +630,6 @@ let albums = [
         "https://tidal.com/browse/album/265095500?u"
     ],
     [
-        "https://e.snmc.io/i/600/w/526a55ce2e335ab3969b0db782f4ed67/9942377/kendrick-lamar-mr-morale-and-the-big-steppers-Cover-Art.jpg",
-        "Mr. Morale & The Big Steppers",
-        "Kendrick Lamar",
-        "Conscious Hip Hop, West Coast Hip Hop, Trap, Pop Rap",
-        "2022",
-        "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX?si=_a806S-dQ6Kpl3lCsjwTdQ",
-        "https://tidal.com/browse/album/230909380?u"
-    ],
-    [
         "https://e.snmc.io/i/600/w/d702ec897cdf810c447db8f2f1b99716/9932087/black-midi-hellfire-Cover-Art.jpg",
         "Hellfire",
         "black midi",
@@ -2860,15 +2851,6 @@ let albums = [
         "2018",
         "https://open.spotify.com/album/56wJa8429dW2miEyvDb04e?si=wXGxAKjzT6SmXXb7lqWSSw",
         "https://tidal.com/browse/album/351776870?u"
-    ],
-    [
-        "https://e.snmc.io/i/600/w/e9f405483e2799cb058100ef81608f26/8121897/kendrick-lamar-damn-Cover-Art.jpg",
-        "DAMN.",
-        "Kendrick Lamar",
-        "Conscious Hip Hop, West Coast Hip Hop, Trap, Pop Rap",
-        "2017",
-        "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY?si=gSncVklRQr2DQFhWc0Jwsg",
-        "https://tidal.com/browse/album/72694579?u"
     ],
     [
         "https://e.snmc.io/i/600/w/c6fc09a0c595043076949391ed1aaa20/7125159/tyler-the-creator-flower-boy-Cover-Art.jpg",
@@ -7316,6 +7298,15 @@ let albums = [
         "2024",
         "https://open.spotify.com/album/4QEeRXZ67QDNJNRnjAp9Oq?si=i8dv3dc4RCqKJxb6cpxd4w",
         "https://tidal.com/browse/album/362364155?u"
+    ],
+    [
+        "https://e.snmc.io/i/600/w/9cdbd62198d5bb4f3c4042c467f88558/11318737/declan-mckenna-what-happened-to-the-beach-Cover-Art.jpg",
+        "What Happened to the Beach?",
+        "Declan McKenna",
+        "Indie Pop, Neo-Psychedelia, Indietronica, Bedroom Pop",
+        "2024",
+        "https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5?si=UHWWZJQsQ4Oq6qWrQWDOIQ",
+        "https://tidal.com/browse/album/344003189?u"
     ]
 ];
 
