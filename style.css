@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #000;
+    color: #FFF;
+}
+
+#gameBox {
+    display: flex;
+    position: relative;
+    height: 285px;
+}
+
+#gameInfo {
+    align-items: center;
+}
+
+#gameCover {
+    padding: 1em;
+}
+
+#gameCover img {
+    width: auto;
+    height: 270px;
+    border-radius: 5px;
+}
+
+#gameGallery {
+    width: 105%;
+    margin-top: 5em;
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+}
+
+#gameGallery img {
+    width: 33%;
+    height: auto;
+    opacity: .5;
+    transition: 2s;
+    border-bottom: 2px solid #1DB954;
+}
+
+#gameGallery img:hover {
+    opacity: 1;
+    transition: 2s;
+}
+
+#gameDetails {
+    font-size: 90%;
+    padding: .5em;
+    padding-left: 0 !important;
+}
+
+#gameDesc {
+    text-align: justify;
+    padding-top: 1em;
+}
+
+#gameTags {
+    padding-top: 1em;
+    padding-left: 0 !important;
+    border-bottom: 2px solid #1DB954;
+    color: #1DB954;
+    font-weight: bold;
+    position: absolute;
+    bottom: 0;
+}
+
+#wrapper {
+    margin: 0;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 50%;
+}
+
+#gameTitle {
+    padding-top: .5em;
+    font-size: 140%;
+    font-weight: 900;
+    font-style: italic;
+    color: #1DB954;
+    border-bottom: 2px solid #1DB954;
+}
+
+.chooseButton {
+    padding-top: 3em;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+button {
+    background: none !important;
+    border: 0;
+    border-bottom: 1px solid #1DB954;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+    font-size: 110%;
+    color: #1DB954;
+    opacity: .5;
+    transition: 1s;
+}
+
+button:hover {
+    opacity: 1;
+    transition: 1s;
+    cursor: pointer;
+}
+
+img#platform {
+    width: 16px;
+    height: auto;
+}
