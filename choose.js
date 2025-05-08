@@ -302,8 +302,8 @@ let games = [
         "3 hours",
         "Among the Sleep is a first person horror adventure, in which you play a two year old child. After waking up in the middle of the night to mysterious sounds, you start exploring the dark looking for comfort.",
         "horror • adventure",
-        "AtS1.jpg",
-        "AtS2.jpg",
+        "ATS1.jpg",
+        "ATS2.jpg",
         "AtS3.jpg",
         "Epic"
     ],
