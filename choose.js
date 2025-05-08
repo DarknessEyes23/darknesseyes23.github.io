@@ -1330,20 +1330,6 @@ let games = [
         "Ubisoft"
     ],
     [
-        "Far Cry 5",
-        "FC5.jpg",
-        "Ubisoft Montreal",
-        "Ubisoft",
-        "2018",
-        "31 hours",
-        "Discover the open world of Hope County, Montana, besieged by a fanatical doomsday cult. Dive into the action solo or two-player co-op in the story campaign, use a vast arsenal of weapons and allies, and free Hope County from Joseph Seed and his cult.",
-        "action • FPS",
-        "FC5-1.jpg",
-        "FC5-2.jpg",
-        "FC5-3.jpg",
-        "Ubisoft"
-    ],
-    [
         "Prince of Persia: The Forgotten Sands",
         "POPTFS.jpg",
         "Ubisoft Montreal",
