@@ -1540,4 +1540,8 @@ function choose(){
         document.getElementById("platform").src = "img/logos/Xbox.png";
         document.getElementById("platform").title = "Xbox App";
     }
+    else if (games[number][12] == "DRMFree" {
+        document.getElementById("platform").src = "img/logos/drmfree.png";
+        document.getElementById("platform").title = "DRM-free";
+    }
 }
